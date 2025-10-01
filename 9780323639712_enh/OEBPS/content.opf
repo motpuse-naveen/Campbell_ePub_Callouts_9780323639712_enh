@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" prefix="tdm: http://www.w3.org/ns/tdmrep/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:File="java:java.io.File" xmlns:file="http://expath.org/ns/file" xmlns:schema="http://schema.org/" version="3.0" xml:lang="en" unique-identifier="p9780323639705">
+   <metadata>
+<meta property="schema:accessibilityHazard">none</meta>
+<meta property="schema:accessibilityFeature">highContrast</meta>
+<meta property="schema:accessibilityFeature">ultraHighContrast</meta>
+<meta property="dcterms:conformsTo">EPUB Accessibility 1.1</meta>
+<meta property="schema:accessibilityFeature">printPageNumbers</meta>
+<meta property="schema:accessibilityFeature">ARIA</meta>
+<meta property="schema:accessibilityFeature">accessibleControls</meta>
+<meta property="schema:accessibilityFeature">nonDecorativeContentSupportsReadingWithoutSight</meta>
+<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1</meta>
+<meta property="dcterms:conformsTo" id="conf">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
+<meta property="schema:accessibilityFeature">index</meta>
+<meta property="schema:accessibilityFeature">alternativeText</meta>
+<meta property="schema:accessibilityFeature">longDescription</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessibilitySummary">This publication contains assessment materials designed to be accessible, including quizzes and interactive exercises.</meta>
+<meta property="a11y:certifiedBy">Benetech</meta>
+<meta property="a11y:certifierCredential">https://bornaccessible.org/certification/gca-credential/</meta>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="p9780323639705">urn:isbn:978-0-323-63971-2</dc:identifier>
+      <meta refines="#p9780323639705" property="identifier-type" scheme="onix:codelist5">15</meta>
+     <!--  <meta refines="#p9780323639705" property="meta-auth" id="meta-authority-01">Elsevier Inc.</meta> -->
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator1">Alan J. Wein</dc:creator>
+      <meta refines="#creator1" property="role" scheme="marc:relators">edt</meta>
+      <meta refines="#creator1" property="display-seq">1</meta>
+      <meta refines="#creator1" property="file-as">Wein, Alan J.</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator2">Thomas F. Kolon</dc:creator>
+      <meta refines="#creator2" property="role" scheme="marc:relators">edt</meta>
+      <meta refines="#creator2" property="display-seq">2</meta>
+      <meta refines="#creator2" property="file-as">Kolon, Thomas F.</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator3">Alan W. Partin</dc:creator>
+      <meta refines="#creator3" property="role" scheme="marc:relators">edt</meta>
+      <meta refines="#creator3" property="display-seq">3</meta>
+      <meta refines="#creator3" property="file-as">Partin, Alan W.</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator4">Roger R. Dmochowski</dc:creator>
+      <meta refines="#creator4" property="role" scheme="marc:relators">edt</meta>
+      <meta refines="#creator4" property="display-seq">4</meta>
+      <meta refines="#creator4" property="file-as">Dmochowski, Roger R.</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator5">Louis R. Kavoussi</dc:creator>
+      <meta refines="#creator5" property="role" scheme="marc:relators">edt</meta>
+      <meta refines="#creator5" property="display-seq">5</meta>
+      <meta refines="#creator5" property="file-as">Kavoussi, Louis R.</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator6">Craig A. Peters</dc:creator>
+      <meta refines="#creator6" property="role" scheme="marc:relators">edt</meta>
+      <meta refines="#creator6" property="display-seq">6</meta>
+      <meta refines="#creator6" property="file-as">Peters, Craig A.</meta>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="main_1">Campbell-Walsh-Wein Urology Twelfth Edition Review</dc:title>
+      <meta refines="#main_1" property="title-type">main</meta>
+      <meta refines="#main_1" property="display-seq">1</meta>
+      <meta refines="#main_1" property="group-position">Third Edition</meta>
+      <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/">URN:ISBN:978-0-323-63971-2</dc:source>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Elsevier Inc.</dc:publisher>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+      <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/">Text</dc:type>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">617 pages</dc:format>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2020-01-09T21:35:47</dc:date>
+      <meta property="dcterms:modified">2025-08-26T21:35:47Z</meta>
+      <meta name="cover" content="cover-image"/>
+   </metadata>
+   <manifest>
+      <item id="toc" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <item id="html-cover-page" href="XHTML/cover.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="title" href="XHTML/title.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="Contents" href="XHTML/contents.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      
+      <item properties="cover-image" id="cover-image" href="IMAGES/main.assets/9780323639705_FC.jpg" media-type="image/jpeg"/>
+      <item id="css" href="style/Elsevier_eBook.css" media-type="text/css"/>
+      <item id="media_css" href="style/media.css" media-type="text/css"/>
+      <item id="math_css" href="style/math.css" media-type="text/css"/>
+      <item id="id_js" href="style/math.js" media-type="text/javascript"/>
+    <item id="CharisSILBI" href="style/fonts/CharisSILBI.ttf" media-type="application/vnd.ms-opentype"/>
+      <item id="CharisSILI" href="style/fonts/CharisSILI.ttf" media-type="application/vnd.ms-opentype"/>
+      <item id="CharisSILR" href="style/fonts/CharisSILR.ttf" media-type="application/vnd.ms-opentype"/>
+      <item id="B9780323639699010016_fm01-9780323639699" href="IMAGES/B9780323639699010016/main.assets/fm01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699120014" href="XHTML/B9780323639699120014/B9780323639699120014.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699120014_fm01-9780323639699" href="IMAGES/B9780323639699120014/main.assets/fm01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699010028" href="XHTML/B9780323639699010028/B9780323639699010028.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699090017" href="XHTML/B9780323639699090017/B9780323639699090017.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p1" href="XHTML/part_p1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900001X" href="XHTML/B978032363969900001X/B978032363969900001X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000021" href="XHTML/B9780323639699000021/B9780323639699000021.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000033" href="XHTML/B9780323639699000033/B9780323639699000033.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000045" href="XHTML/B9780323639699000045/B9780323639699000045.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000057" href="XHTML/B9780323639699000057/B9780323639699000057.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000069" href="XHTML/B9780323639699000069/B9780323639699000069.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000070" href="XHTML/B9780323639699000070/B9780323639699000070.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p2" href="XHTML/part_p2.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000082" href="XHTML/B9780323639699000082/B9780323639699000082.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000094" href="XHTML/B9780323639699000094/B9780323639699000094.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000094_f09-01-9780323639699" href="IMAGES/B9780323639699000094/main.assets/f09-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000100" href="XHTML/B9780323639699000100/B9780323639699000100.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000112" href="XHTML/B9780323639699000112/B9780323639699000112.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000124" href="XHTML/B9780323639699000124/B9780323639699000124.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000136" href="XHTML/B9780323639699000136/B9780323639699000136.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000148" href="XHTML/B9780323639699000148/B9780323639699000148.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900015X" href="XHTML/B978032363969900015X/B978032363969900015X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000161" href="XHTML/B9780323639699000161/B9780323639699000161.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000161_f16-01-9780323639699" href="IMAGES/B9780323639699000161/main.assets/f16-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000161_f16-02-9780323639699" href="IMAGES/B9780323639699000161/main.assets/f16-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000173" href="XHTML/B9780323639699000173/B9780323639699000173.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000185" href="XHTML/B9780323639699000185/B9780323639699000185.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000197" href="XHTML/B9780323639699000197/B9780323639699000197.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p3" href="XHTML/part_p3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="section_s1" href="XHTML/section_s1.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000203" href="XHTML/B9780323639699000203/B9780323639699000203.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000215" href="XHTML/B9780323639699000215/B9780323639699000215.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000227" href="XHTML/B9780323639699000227/B9780323639699000227.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="section_sn2" href="XHTML/section_sn2.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000239" href="XHTML/B9780323639699000239/B9780323639699000239.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000240" href="XHTML/B9780323639699000240/B9780323639699000240.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000252" href="XHTML/B9780323639699000252/B9780323639699000252.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000264" href="XHTML/B9780323639699000264/B9780323639699000264.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000276" href="XHTML/B9780323639699000276/B9780323639699000276.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000276_f27-01-9780323639699" href="IMAGES/B9780323639699000276/main.assets/f27-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="section_sn3" href="XHTML/section_sn3.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000288" href="XHTML/B9780323639699000288/B9780323639699000288.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900029X" href="XHTML/B978032363969900029X/B978032363969900029X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000306" href="XHTML/B9780323639699000306/B9780323639699000306.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000318" href="XHTML/B9780323639699000318/B9780323639699000318.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900032X" href="XHTML/B978032363969900032X/B978032363969900032X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000331" href="XHTML/B9780323639699000331/B9780323639699000331.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000343" href="XHTML/B9780323639699000343/B9780323639699000343.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000355" href="XHTML/B9780323639699000355/B9780323639699000355.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000367" href="XHTML/B9780323639699000367/B9780323639699000367.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000367_f36-01-9780323639699" href="IMAGES/B9780323639699000367/main.assets/f36-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000379" href="XHTML/B9780323639699000379/B9780323639699000379.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="section_sn4" href="XHTML/section_sn4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000380" href="XHTML/B9780323639699000380/B9780323639699000380.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000392" href="XHTML/B9780323639699000392/B9780323639699000392.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000392_f39-01-9780323639699" href="IMAGES/B9780323639699000392/main.assets/f39-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000409" href="XHTML/B9780323639699000409/B9780323639699000409.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000410" href="XHTML/B9780323639699000410/B9780323639699000410.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000422" href="XHTML/B9780323639699000422/B9780323639699000422.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000434" href="XHTML/B9780323639699000434/B9780323639699000434.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="section_sn5" href="XHTML/section_sn5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000446" href="XHTML/B9780323639699000446/B9780323639699000446.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000458" href="XHTML/B9780323639699000458/B9780323639699000458.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900046X" href="XHTML/B978032363969900046X/B978032363969900046X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000471" href="XHTML/B9780323639699000471/B9780323639699000471.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000483" href="XHTML/B9780323639699000483/B9780323639699000483.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="section_sn6" href="XHTML/section_sn6.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000495" href="XHTML/B9780323639699000495/B9780323639699000495.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000501" href="XHTML/B9780323639699000501/B9780323639699000501.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000513" href="XHTML/B9780323639699000513/B9780323639699000513.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000513_f51-01-9780323639699" href="IMAGES/B9780323639699000513/main.assets/f51-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000525" href="XHTML/B9780323639699000525/B9780323639699000525.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="section_sn7" href="XHTML/section_sn7.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000537" href="XHTML/B9780323639699000537/B9780323639699000537.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000549" href="XHTML/B9780323639699000549/B9780323639699000549.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p4" href="XHTML/part_p4.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000550" href="XHTML/B9780323639699000550/B9780323639699000550.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000550_f55-01-9780323639699" href="IMAGES/B9780323639699000550/main.assets/f55-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000550_f55-02-9780323639699" href="IMAGES/B9780323639699000550/main.assets/f55-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000550_f55-03-9780323639699" href="IMAGES/B9780323639699000550/main.assets/f55-03-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000550_f55-04-9780323639699" href="IMAGES/B9780323639699000550/main.assets/f55-04-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000550_f55-05-9780323639699" href="IMAGES/B9780323639699000550/main.assets/f55-05-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000550_f55-06-9780323639699" href="IMAGES/B9780323639699000550/main.assets/f55-06-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000550_f55-07-9780323639699" href="IMAGES/B9780323639699000550/main.assets/f55-07-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000562" href="XHTML/B9780323639699000562/B9780323639699000562.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000574" href="XHTML/B9780323639699000574/B9780323639699000574.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000586" href="XHTML/B9780323639699000586/B9780323639699000586.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000586_f58-01-9780323639699" href="IMAGES/B9780323639699000586/main.assets/f58-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000586_f58-02-9780323639699" href="IMAGES/B9780323639699000586/main.assets/f58-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000598" href="XHTML/B9780323639699000598/B9780323639699000598.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000598_f59-01-9780323639699" href="IMAGES/B9780323639699000598/main.assets/f59-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000604" href="XHTML/B9780323639699000604/B9780323639699000604.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000604_B9780323639699000604_t0010_0" href="XHTML/B9780323639699000604/B9780323639699000604_t0010_0.png" media-type="image/png"/>
+      <item id="B9780323639699000604_f60-01-9780323639699" href="IMAGES/B9780323639699000604/main.assets/f60-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000604_f60-02-9780323639699" href="IMAGES/B9780323639699000604/main.assets/f60-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="part_p5" href="XHTML/part_p5.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000616" href="XHTML/B9780323639699000616/B9780323639699000616.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000628" href="XHTML/B9780323639699000628/B9780323639699000628.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p6" href="XHTML/part_p6.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900063X" href="XHTML/B978032363969900063X/B978032363969900063X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000641" href="XHTML/B9780323639699000641/B9780323639699000641.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000653" href="XHTML/B9780323639699000653/B9780323639699000653.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000665" href="XHTML/B9780323639699000665/B9780323639699000665.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000665_B9780323639699000665_t0010_0" href="XHTML/B9780323639699000665/B9780323639699000665_t0010_0.png" media-type="image/png"/>
+      <item id="B9780323639699000677" href="XHTML/B9780323639699000677/B9780323639699000677.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000689" href="XHTML/B9780323639699000689/B9780323639699000689.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000690" href="XHTML/B9780323639699000690/B9780323639699000690.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000707" href="XHTML/B9780323639699000707/B9780323639699000707.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000719" href="XHTML/B9780323639699000719/B9780323639699000719.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000720" href="XHTML/B9780323639699000720/B9780323639699000720.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000732" href="XHTML/B9780323639699000732/B9780323639699000732.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000744" href="XHTML/B9780323639699000744/B9780323639699000744.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p7" href="XHTML/part_p7.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000756" href="XHTML/B9780323639699000756/B9780323639699000756.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000756_B9780323639699000756_t0010_0" href="XHTML/B9780323639699000756/B9780323639699000756_t0010_0.png" media-type="image/png"/>
+      <item id="B9780323639699000756_B9780323639699000756_t0015_0" href="XHTML/B9780323639699000756/B9780323639699000756_t0015_0.png" media-type="image/png"/>
+      <item id="B9780323639699000768" href="XHTML/B9780323639699000768/B9780323639699000768.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000768_f76-01-9780323639699" href="IMAGES/B9780323639699000768/main.assets/f76-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000768_f76-02-9780323639699" href="IMAGES/B9780323639699000768/main.assets/f76-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000768_f76-03-9780323639699" href="IMAGES/B9780323639699000768/main.assets/f76-03-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000768_f76-04-9780323639699" href="IMAGES/B9780323639699000768/main.assets/f76-04-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000768_f76-05-9780323639699" href="IMAGES/B9780323639699000768/main.assets/f76-05-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000768_f76-06-9780323639699" href="IMAGES/B9780323639699000768/main.assets/f76-06-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000768_f76-07-9780323639699" href="IMAGES/B9780323639699000768/main.assets/f76-07-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000768_f76-08-9780323639699" href="IMAGES/B9780323639699000768/main.assets/f76-08-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B978032363969900077X" href="XHTML/B978032363969900077X/B978032363969900077X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900077X_f77-01-9780323639699" href="IMAGES/B978032363969900077X/main.assets/f77-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000781" href="XHTML/B9780323639699000781/B9780323639699000781.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000793" href="XHTML/B9780323639699000793/B9780323639699000793.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900080X" href="XHTML/B978032363969900080X/B978032363969900080X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000811" href="XHTML/B9780323639699000811/B9780323639699000811.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000823" href="XHTML/B9780323639699000823/B9780323639699000823.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000835" href="XHTML/B9780323639699000835/B9780323639699000835.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p8" href="XHTML/part_p8.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000847" href="XHTML/B9780323639699000847/B9780323639699000847.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000859" href="XHTML/B9780323639699000859/B9780323639699000859.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000860" href="XHTML/B9780323639699000860/B9780323639699000860.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000872" href="XHTML/B9780323639699000872/B9780323639699000872.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000872_f87-01-9780323639699" href="IMAGES/B9780323639699000872/main.assets/f87-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000884" href="XHTML/B9780323639699000884/B9780323639699000884.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p9" href="XHTML/part_p9.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000896" href="XHTML/B9780323639699000896/B9780323639699000896.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000896_f89-01-9780323639699" href="IMAGES/B9780323639699000896/main.assets/f89-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000902" href="XHTML/B9780323639699000902/B9780323639699000902.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000902_f90-01-9780323639699" href="IMAGES/B9780323639699000902/main.assets/f90-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000902_f90-02-9780323639699" href="IMAGES/B9780323639699000902/main.assets/f90-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="part_p10" href="XHTML/part_p10.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000914" href="XHTML/B9780323639699000914/B9780323639699000914.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000926" href="XHTML/B9780323639699000926/B9780323639699000926.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000938" href="XHTML/B9780323639699000938/B9780323639699000938.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900094X" href="XHTML/B978032363969900094X/B978032363969900094X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000951" href="XHTML/B9780323639699000951/B9780323639699000951.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p11" href="XHTML/part_p11.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000963" href="XHTML/B9780323639699000963/B9780323639699000963.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000975" href="XHTML/B9780323639699000975/B9780323639699000975.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000975_f97-01-9780323639699" href="IMAGES/B9780323639699000975/main.assets/f97-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000975_f97-02-9780323639699" href="IMAGES/B9780323639699000975/main.assets/f97-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000975_f97-03-9780323639699" href="IMAGES/B9780323639699000975/main.assets/f97-03-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000975_f97-04-9780323639699" href="IMAGES/B9780323639699000975/main.assets/f97-04-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000975_f97-05-9780323639699" href="IMAGES/B9780323639699000975/main.assets/f97-05-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000975_f97-06-9780323639699" href="IMAGES/B9780323639699000975/main.assets/f97-06-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000987" href="XHTML/B9780323639699000987/B9780323639699000987.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000999" href="XHTML/B9780323639699000999/B9780323639699000999.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699000999_f99-01-9780323639699" href="IMAGES/B9780323639699000999/main.assets/f99-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699000999_f99-02-9780323639699" href="IMAGES/B9780323639699000999/main.assets/f99-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001002" href="XHTML/B9780323639699001002/B9780323639699001002.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001014" href="XHTML/B9780323639699001014/B9780323639699001014.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001026" href="XHTML/B9780323639699001026/B9780323639699001026.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001038" href="XHTML/B9780323639699001038/B9780323639699001038.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900104X" href="XHTML/B978032363969900104X/B978032363969900104X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p13" href="XHTML/part_p13.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001051" href="XHTML/B9780323639699001051/B9780323639699001051.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001063" href="XHTML/B9780323639699001063/B9780323639699001063.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001063_f106-01-9780323639699" href="IMAGES/B9780323639699001063/main.assets/f106-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001063_f106-02-9780323639699" href="IMAGES/B9780323639699001063/main.assets/f106-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001063_f106-03-9780323639699" href="IMAGES/B9780323639699001063/main.assets/f106-03-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001075" href="XHTML/B9780323639699001075/B9780323639699001075.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p913" href="XHTML/part_p913.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001087" href="XHTML/B9780323639699001087/B9780323639699001087.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001099" href="XHTML/B9780323639699001099/B9780323639699001099.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001105" href="XHTML/B9780323639699001105/B9780323639699001105.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001117" href="XHTML/B9780323639699001117/B9780323639699001117.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001129" href="XHTML/B9780323639699001129/B9780323639699001129.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001129_f112-01-9780323639699" href="IMAGES/B9780323639699001129/main.assets/f112-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001129_f112-02-9780323639699" href="IMAGES/B9780323639699001129/main.assets/f112-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001130" href="XHTML/B9780323639699001130/B9780323639699001130.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001130_f113-01a-9780323639699" href="IMAGES/B9780323639699001130/main.assets/f113-01a-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001130_f113-01b-9780323639699" href="IMAGES/B9780323639699001130/main.assets/f113-01b-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001142" href="XHTML/B9780323639699001142/B9780323639699001142.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001154" href="XHTML/B9780323639699001154/B9780323639699001154.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001166" href="XHTML/B9780323639699001166/B9780323639699001166.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001178" href="XHTML/B9780323639699001178/B9780323639699001178.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900118X" href="XHTML/B978032363969900118X/B978032363969900118X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001191" href="XHTML/B9780323639699001191/B9780323639699001191.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+      <item id="epub_B9780323639699001191_si1" href="IMAGES/B9780323639699001191/epub.stripin/si1.png" media-type="image/png"/>
+      <item id="B9780323639699001208" href="XHTML/B9780323639699001208/B9780323639699001208.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900121X" href="XHTML/B978032363969900121X/B978032363969900121X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001221" href="XHTML/B9780323639699001221/B9780323639699001221.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001233" href="XHTML/B9780323639699001233/B9780323639699001233.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001245" href="XHTML/B9780323639699001245/B9780323639699001245.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001257" href="XHTML/B9780323639699001257/B9780323639699001257.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001269" href="XHTML/B9780323639699001269/B9780323639699001269.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001270" href="XHTML/B9780323639699001270/B9780323639699001270.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001282" href="XHTML/B9780323639699001282/B9780323639699001282.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001294" href="XHTML/B9780323639699001294/B9780323639699001294.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001294_f129-01-9780323639699" href="IMAGES/B9780323639699001294/main.assets/f129-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001300" href="XHTML/B9780323639699001300/B9780323639699001300.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001300_f130-01-9780323639699" href="IMAGES/B9780323639699001300/main.assets/f130-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001312" href="XHTML/B9780323639699001312/B9780323639699001312.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p14" href="XHTML/part_p14.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001324" href="XHTML/B9780323639699001324/B9780323639699001324.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001336" href="XHTML/B9780323639699001336/B9780323639699001336.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001348" href="XHTML/B9780323639699001348/B9780323639699001348.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900135X" href="XHTML/B978032363969900135X/B978032363969900135X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900135X_f135-01-9780323639699" href="IMAGES/B978032363969900135X/main.assets/f135-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B978032363969900135X_f135-02-9780323639699" href="IMAGES/B978032363969900135X/main.assets/f135-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B978032363969900135X_f135-03-9780323639699" href="IMAGES/B978032363969900135X/main.assets/f135-03-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B978032363969900135X_f135-04-9780323639699" href="IMAGES/B978032363969900135X/main.assets/f135-04-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001361" href="XHTML/B9780323639699001361/B9780323639699001361.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001373" href="XHTML/B9780323639699001373/B9780323639699001373.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001385" href="XHTML/B9780323639699001385/B9780323639699001385.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001397" href="XHTML/B9780323639699001397/B9780323639699001397.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001397_B9780323639699001397_t0010_0" href="XHTML/B9780323639699001397/B9780323639699001397_t0010_0.png" media-type="image/png"/>
+      <item id="B9780323639699001403" href="XHTML/B9780323639699001403/B9780323639699001403.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001415" href="XHTML/B9780323639699001415/B9780323639699001415.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001427" href="XHTML/B9780323639699001427/B9780323639699001427.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="part_p15" href="XHTML/part_p15.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001439" href="XHTML/B9780323639699001439/B9780323639699001439.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001440" href="XHTML/B9780323639699001440/B9780323639699001440.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001452" href="XHTML/B9780323639699001452/B9780323639699001452.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001464" href="XHTML/B9780323639699001464/B9780323639699001464.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001476" href="XHTML/B9780323639699001476/B9780323639699001476.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001488" href="XHTML/B9780323639699001488/B9780323639699001488.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900149X" href="XHTML/B978032363969900149X/B978032363969900149X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001506" href="XHTML/B9780323639699001506/B9780323639699001506.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001506_f150-01-9780323639699" href="IMAGES/B9780323639699001506/main.assets/f150-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001506_f150-02-9780323639699" href="IMAGES/B9780323639699001506/main.assets/f150-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001518" href="XHTML/B9780323639699001518/B9780323639699001518.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001518_f151-01-9780323639699" href="IMAGES/B9780323639699001518/main.assets/f151-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001518_f151-02-9780323639699" href="IMAGES/B9780323639699001518/main.assets/f151-02-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B978032363969900152X" href="XHTML/B978032363969900152X/B978032363969900152X.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B978032363969900152X_f152-01-9780323639699" href="IMAGES/B978032363969900152X/main.assets/f152-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001531" href="XHTML/B9780323639699001531/B9780323639699001531.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001543" href="XHTML/B9780323639699001543/B9780323639699001543.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001555" href="XHTML/B9780323639699001555/B9780323639699001555.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001567" href="XHTML/B9780323639699001567/B9780323639699001567.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001579" href="XHTML/B9780323639699001579/B9780323639699001579.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001579_f157-01-9780323639699" href="IMAGES/B9780323639699001579/main.assets/f157-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001580" href="XHTML/B9780323639699001580/B9780323639699001580.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001592" href="XHTML/B9780323639699001592/B9780323639699001592.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001592_f159-01-9780323639699" href="IMAGES/B9780323639699001592/main.assets/f159-01-9780323639699.jpg" media-type="image/jpeg"/>
+      <item id="B9780323639699001609" href="XHTML/B9780323639699001609/B9780323639699001609.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001610" href="XHTML/B9780323639699001610/B9780323639699001610.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+      <item id="B9780323639699001622" href="XHTML/B9780323639699001622/B9780323639699001622.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+   <item id="Update_04" href="widgets/common_assets/scripts/hlsjs/hls.js" media-type="application/javascript"/>
+<item id="Update_05" href="widgets/common_assets/scripts/hlsjs/hls.js.map" media-type="application/json"/>
+<item id="Update_06" href="widgets/common_assets/scripts/hlsjs/hls.min.js" media-type="application/javascript"/>
+<item id="Update_07" href="widgets/common_assets/scripts/hlsjs/hls.min.js.map" media-type="application/json"/>
+<item id="math_1" href="widgets/common_assets/scripts/mathjax/a11y/assistive-mml.js" media-type="application/javascript"/>
+<item id="math_2" href="widgets/common_assets/scripts/mathjax/a11y/complexity.js" media-type="application/javascript"/>
+<item id="math_3" href="widgets/common_assets/scripts/mathjax/a11y/explorer.js" media-type="application/javascript"/>
+<item id="math_4" href="widgets/common_assets/scripts/mathjax/a11y/semantic-enrich.js" media-type="application/javascript"/>
+<item id="math_5" href="widgets/common_assets/scripts/mathjax/adaptors/liteDOM.js" media-type="application/javascript"/>
+<item id="math_6" href="widgets/common_assets/scripts/mathjax/core.js" media-type="application/javascript"/>
+<item id="math_7" href="widgets/common_assets/scripts/mathjax/input/asciimath.js" media-type="application/javascript"/>
+<item id="math_8" href="widgets/common_assets/scripts/mathjax/input/mml.js" media-type="application/javascript"/>
+<item id="math_9" href="widgets/common_assets/scripts/mathjax/input/mml/entities.js" media-type="application/javascript"/>
+<item id="math_10" href="widgets/common_assets/scripts/mathjax/input/mml/extensions/mml3.js" media-type="application/javascript"/>
+<item id="math_11" href="widgets/common_assets/scripts/mathjax/input/mml/extensions/mml3.sef.json" media-type="application/json"/>
+<item id="math_12" href="widgets/common_assets/scripts/mathjax/input/tex-base.js" media-type="application/javascript"/>
+<item id="math_13" href="widgets/common_assets/scripts/mathjax/input/tex-full.js" media-type="application/javascript"/>
+<item id="math_14" href="widgets/common_assets/scripts/mathjax/input/tex.js" media-type="application/javascript"/>
+<item id="math_15" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/action.js" media-type="application/javascript"/>
+<item id="math_16" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/all-packages.js" media-type="application/javascript"/>
+<item id="math_17" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/ams.js" media-type="application/javascript"/>
+<item id="math_18" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/amscd.js" media-type="application/javascript"/>
+<item id="math_19" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/autoload.js" media-type="application/javascript"/>
+<item id="math_20" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/bbox.js" media-type="application/javascript"/>
+<item id="math_21" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/boldsymbol.js" media-type="application/javascript"/>
+<item id="math_22" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/braket.js" media-type="application/javascript"/>
+<item id="math_23" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/bussproofs.js" media-type="application/javascript"/>
+<item id="math_24" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/cancel.js" media-type="application/javascript"/>
+<item id="math_25" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/centernot.js" media-type="application/javascript"/>
+<item id="math_26" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/color.js" media-type="application/javascript"/>
+<item id="math_27" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/colortbl.js" media-type="application/javascript"/>
+<item id="math_28" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/colorv2.js" media-type="application/javascript"/>
+<item id="math_29" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/configmacros.js" media-type="application/javascript"/>
+<item id="math_30" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/enclose.js" media-type="application/javascript"/>
+<item id="math_31" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/extpfeil.js" media-type="application/javascript"/>
+<item id="math_32" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/gensymb.js" media-type="application/javascript"/>
+<item id="math_33" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/html.js" media-type="application/javascript"/>
+<item id="math_34" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/mathtools.js" media-type="application/javascript"/>
+<item id="math_35" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/mhchem.js" media-type="application/javascript"/>
+<item id="math_36" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/newcommand.js" media-type="application/javascript"/>
+<item id="math_37" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/noerrors.js" media-type="application/javascript"/>
+<item id="math_38" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/noundefined.js" media-type="application/javascript"/>
+<item id="math_39" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/physics.js" media-type="application/javascript"/>
+<item id="math_40" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/require.js" media-type="application/javascript"/>
+<item id="math_41" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/setoptions.js" media-type="application/javascript"/>
+<item id="math_42" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/tagformat.js" media-type="application/javascript"/>
+<item id="math_43" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/textcomp.js" media-type="application/javascript"/>
+<item id="math_44" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/textmacros.js" media-type="application/javascript"/>
+<item id="math_45" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/unicode.js" media-type="application/javascript"/>
+<item id="math_46" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/upgreek.js" media-type="application/javascript"/>
+<item id="math_47" href="widgets/common_assets/scripts/mathjax/input/tex/extensions/verb.js" media-type="application/javascript"/>
+<item id="math_48" href="widgets/common_assets/scripts/mathjax/latest.js" media-type="application/javascript"/>
+<item id="math_49" href="widgets/common_assets/scripts/mathjax/loader.js" media-type="application/javascript"/>
+<item id="math_50" href="widgets/common_assets/scripts/mathjax/mml-chtml.js" media-type="application/javascript"/>
+<item id="math_51" href="widgets/common_assets/scripts/mathjax/mml-svg.js" media-type="application/javascript"/>
+<item id="math_52" href="widgets/common_assets/scripts/mathjax/node-main.js" media-type="application/javascript"/>
+<item id="math_53" href="widgets/common_assets/scripts/mathjax/output/chtml.js" media-type="application/javascript"/>
+<item id="math_54" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/tex.js" media-type="application/javascript"/>
+<item id="math_55" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff" media-type="application/font-woff"/>
+<item id="math_56" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff" media-type="application/font-woff"/>
+<item id="math_57" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff" media-type="application/font-woff"/>
+<item id="math_58" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff" media-type="application/font-woff"/>
+<item id="math_59" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff" media-type="application/font-woff"/>
+<item id="math_60" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff" media-type="application/font-woff"/>
+<item id="math_61" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff" media-type="application/font-woff"/>
+<item id="math_62" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff" media-type="application/font-woff"/>
+<item id="math_63" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff" media-type="application/font-woff"/>
+<item id="math_64" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff" media-type="application/font-woff"/>
+<item id="math_65" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Regular.woff" media-type="application/font-woff"/>
+<item id="math_66" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff" media-type="application/font-woff"/>
+<item id="math_67" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff" media-type="application/font-woff"/>
+<item id="math_68" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff" media-type="application/font-woff"/>
+<item id="math_69" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff" media-type="application/font-woff"/>
+<item id="math_70" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff" media-type="application/font-woff"/>
+<item id="math_71" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff" media-type="application/font-woff"/>
+<item id="math_72" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff" media-type="application/font-woff"/>
+<item id="math_73" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff" media-type="application/font-woff"/>
+<item id="math_74" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff" media-type="application/font-woff"/>
+<item id="math_75" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff" media-type="application/font-woff"/>
+<item id="math_76" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff" media-type="application/font-woff"/>
+<item id="math_77" href="widgets/common_assets/scripts/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff" media-type="application/font-woff"/>
+<item id="math_78" href="widgets/common_assets/scripts/mathjax/output/svg.js" media-type="application/javascript"/>
+<item id="math_79" href="widgets/common_assets/scripts/mathjax/output/svg/fonts/tex.js" media-type="application/javascript"/>
+<item id="math_80" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/de.js" media-type="application/javascript"/>
+<item id="math_81" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/en.js" media-type="application/javascript"/>
+<item id="math_82" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/es.js" media-type="application/javascript"/>
+<item id="math_83" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/fr.js" media-type="application/javascript"/>
+<item id="math_84" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/hi.js" media-type="application/javascript"/>
+<item id="math_85" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/it.js" media-type="application/javascript"/>
+<item id="math_86" href="widgets/common_assets/scripts/mathjax/sre/mathmaps/nemeth.js" media-type="application/javascript"/>
+<item id="math_87" href="widgets/common_assets/scripts/mathjax/sre/sre-node.js" media-type="application/javascript"/>
+<item id="math_88" href="widgets/common_assets/scripts/mathjax/sre/sre_browser.js" media-type="application/javascript"/>
+<item id="math_89" href="widgets/common_assets/scripts/mathjax/startup.js" media-type="application/javascript"/>
+<item id="math_90" href="widgets/common_assets/scripts/mathjax/tex-chtml-full.js" media-type="application/javascript"/>
+<item id="math_91" href="widgets/common_assets/scripts/mathjax/tex-chtml.js" media-type="application/javascript"/>
+<item id="math_92" href="widgets/common_assets/scripts/mathjax/tex-mml-chtml.js" media-type="application/javascript"/>
+<item id="math_93" href="widgets/common_assets/scripts/mathjax/tex-mml-svg.js" media-type="application/javascript"/>
+<item id="math_94" href="widgets/common_assets/scripts/mathjax/tex-svg-full.js" media-type="application/javascript"/>
+<item id="math_95" href="widgets/common_assets/scripts/mathjax/tex-svg.js" media-type="application/javascript"/>
+<item id="math_96" href="widgets/common_assets/scripts/mathjax/ui/lazy.js" media-type="application/javascript"/>
+<item id="math_97" href="widgets/common_assets/scripts/mathjax/ui/menu.js" media-type="application/javascript"/>
+<item id="math_98" href="widgets/common_assets/scripts/mathjax/ui/safe.js" media-type="application/javascript"/>
+<item id="math_99" href="widgets/common_assets/scripts/jquery-3.6.0.min.js" media-type="application/javascript"/>
+<item id="math_100" href="widgets/common_assets/scripts/video-tracker.js" media-type="application/javascript"/>
+<item id="sh_06" href="widgets/common_assets/css/common.css" media-type="text/css"/>
+<item id="sh_07" href="widgets/common_assets/css/iframe_common.css" media-type="text/css"/>
+<item id="sh_08" href="widgets/common_assets/css/variables.css" media-type="text/css"/>
+<item id="sh_01" href="widgets/common_assets/images/close.png" media-type="image/png"/>
+<item id="sh_12" href="widgets/common_assets/scripts/common.js" media-type="application/javascript"/>
+<item id="sh_13" href="widgets/common_assets/scripts/iframe_common.js" media-type="application/javascript"/>
+
+<item id="imglightbox_1" href="widgets/img_lightbox_handler/img_lightbox_data.js" media-type="text/javascript"/>
+<item id="imglightbox_2" href="widgets/img_lightbox_handler/img_lightbox_frame.js" media-type="text/javascript"/>
+<item id="imglightbox_3" href="widgets/img_lightbox_handler/img_lightbox_parent.js" media-type="text/javascript"/>
+
+<item id="pages_1" href="widgets/MCMS/images/assessment_check_large.png" media-type="image/png"/>
+<item id="pages_2" href="widgets/MCMS/images/assessment_check_white.png" media-type="image/png"/>
+<item id="pages_3" href="widgets/MCMS/images/chapter055/f55-01-9780323639699.png" media-type="image/png"/>
+<item id="pages_4" href="widgets/MCMS/images/chapter055/f55-02-9780323639699.png" media-type="image/png"/>
+<item id="pages_5" href="widgets/MCMS/images/chapter055/f55-03-9780323639699.png" media-type="image/png"/>
+<item id="pages_6" href="widgets/MCMS/images/chapter055/f55-04-9780323639699.png" media-type="image/png"/>
+<item id="pages_7" href="widgets/MCMS/images/chapter055/f55-05-9780323639699.png" media-type="image/png"/>
+<item id="pages_8" href="widgets/MCMS/images/chapter055/f55-06-9780323639699.png" media-type="image/png"/>
+<item id="pages_9" href="widgets/MCMS/images/chapter055/f55-07-9780323639699.png" media-type="image/png"/>
+<item id="pages_10" href="widgets/MCMS/images/chapter21/b021-001-9781455702824.png" media-type="image/png"/>
+<item id="pages_11" href="widgets/MCMS/images/chapter21/b021-001-9781455702824_72dpi.png" media-type="image/png"/>
+<item id="pages_12" href="widgets/MCMS/images/chapter21/b021-002-9781455702824.png" media-type="image/png"/>
+<item id="pages_13" href="widgets/MCMS/images/chapter21/b021-002-9781455702824_72dpi.png" media-type="image/png"/>
+<item id="pages_14" href="widgets/MCMS/images/chapter21/b021-003-9781455702824.png" media-type="image/png"/>
+<item id="pages_15" href="widgets/MCMS/images/chapter21/b021-003-9781455702824_72dpi.png" media-type="image/png"/>
+<item id="pages_16" href="widgets/MCMS/images/chapter21/b021-004-9781455702824.png" media-type="image/png"/>
+<item id="pages_17" href="widgets/MCMS/images/chapter21/b021-004-9781455702824_72dpi.png" media-type="image/png"/>
+<item id="pages_18" href="widgets/MCMS/images/chapter21/b021-005-9781455702824.png" media-type="image/png"/>
+<item id="pages_19" href="widgets/MCMS/images/chapter21/b021-005-9781455702824_72dpi.png" media-type="image/png"/>
+<item id="pages_20" href="widgets/MCMS/images/chapter21/f021-001-9781455702824.png" media-type="image/png"/>
+<item id="pages_21" href="widgets/MCMS/images/chapter21/f021-001-9781455702824_72dpi.png" media-type="image/png"/>
+<item id="pages_22" href="widgets/MCMS/images/chapter21/f021-002-9781455702824.png" media-type="image/png"/>
+<item id="pages_23" href="widgets/MCMS/images/chapter21/f021-002-9781455702824_72dpi.png" media-type="image/png"/>
+<item id="pages_24" href="widgets/MCMS/images/chapter27/f27-01-9780323639699.png" media-type="image/png"/>
+<item id="pages_25" href="widgets/MCMS/images/chapter97/f97-01-9780323639699.png" media-type="image/png"/>
+<item id="pages_26" href="widgets/MCMS/images/chapter97/f97-02-9780323639699.png" media-type="image/png"/>
+<item id="pages_27" href="widgets/MCMS/images/chapter97/f97-03-9780323639699.png" media-type="image/png"/>
+<item id="pages_28" href="widgets/MCMS/images/chapter97/f97-04-9780323639699.png" media-type="image/png"/>
+<item id="pages_29" href="widgets/MCMS/images/chapter97/f97-05-9780323639699.png" media-type="image/png"/>
+<item id="pages_30" href="widgets/MCMS/images/chapter97/f97-06-9780323639699.png" media-type="image/png"/>
+<item id="pages_31" href="widgets/MCMS/images/chapter99/f99-01-9780323639699.png" media-type="image/png"/>
+<item id="pages_32" href="widgets/MCMS/images/chapter99/f99-02-9780323639699.png" media-type="image/png"/>
+<item id="pages_33" href="widgets/MCMS/images/check_normal.png" media-type="image/png"/>
+<item id="pages_34" href="widgets/MCMS/images/false.png" media-type="image/png"/>
+<item id="pages_35" href="widgets/MCMS/images/false_red.png" media-type="image/png"/>
+<item id="pages_36" href="widgets/MCMS/images/figure_arrow_mask_left.png" media-type="image/png"/>
+<item id="pages_37" href="widgets/MCMS/images/figure_arrow_mask_right.png" media-type="image/png"/>
+<item id="pages_38" href="widgets/MCMS/images/left-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="pages_39" href="widgets/MCMS/images/left-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="pages_40" href="widgets/MCMS/images/left-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="pages_41" href="widgets/MCMS/images/right-arrow-default.svg" media-type="image/svg+xml"/>
+<item id="pages_42" href="widgets/MCMS/images/right-arrow-disabled.svg" media-type="image/svg+xml"/>
+<item id="pages_43" href="widgets/MCMS/images/right-arrow-hover.svg" media-type="image/svg+xml"/>
+<item id="pages_44" href="widgets/MCMS/images/x.png" media-type="image/png"/>
+<!-- <item id="pages_45" href="widgets/MCMS/js/-.js" media-type="text/javascript"/> -->
+<!-- <item id="pages_46" href="widgets/MCMS/js/QUIZMCMS.js" media-type="text/javascript"/> -->
+<item id="pages_47" href="widgets/MCMS/js/ch001_assessments.js" media-type="text/javascript"/>
+<item id="pages_48" href="widgets/MCMS/js/ch002_assessments.js" media-type="text/javascript"/>
+<item id="pages_49" href="widgets/MCMS/js/ch003_assessments.js" media-type="text/javascript"/>
+<item id="pages_50" href="widgets/MCMS/js/ch004_assessments.js" media-type="text/javascript"/>
+<item id="pages_51" href="widgets/MCMS/js/ch005_assessments.js" media-type="text/javascript"/>
+<item id="pages_52" href="widgets/MCMS/js/ch006_assessments.js" media-type="text/javascript"/>
+<item id="pages_53" href="widgets/MCMS/js/ch007_assessments.js" media-type="text/javascript"/>
+<item id="pages_54" href="widgets/MCMS/js/ch008_assessments.js" media-type="text/javascript"/>
+<item id="pages_55" href="widgets/MCMS/js/ch009_assessments.js" media-type="text/javascript"/>
+<item id="pages_56" href="widgets/MCMS/js/ch010_assessments.js" media-type="text/javascript"/>
+<item id="pages_57" href="widgets/MCMS/js/ch011_assessments.js" media-type="text/javascript"/>
+<item id="pages_58" href="widgets/MCMS/js/ch012_assessments.js" media-type="text/javascript"/>
+<item id="pages_59" href="widgets/MCMS/js/ch013_assessments.js" media-type="text/javascript"/>
+<item id="pages_60" href="widgets/MCMS/js/ch014_assessments.js" media-type="text/javascript"/>
+<item id="pages_61" href="widgets/MCMS/js/ch015_assessments.js" media-type="text/javascript"/>
+<item id="pages_62" href="widgets/MCMS/js/ch016_assessments.js" media-type="text/javascript"/>
+<item id="pages_63" href="widgets/MCMS/js/ch017_assessments.js" media-type="text/javascript"/>
+<item id="pages_64" href="widgets/MCMS/js/ch018_assessments.js" media-type="text/javascript"/>
+<item id="pages_65" href="widgets/MCMS/js/ch019_assessments.js" media-type="text/javascript"/>
+<item id="pages_66" href="widgets/MCMS/js/ch020_assessments.js" media-type="text/javascript"/>
+<item id="pages_67" href="widgets/MCMS/js/ch021_assessments.js" media-type="text/javascript"/>
+<item id="pages_68" href="widgets/MCMS/js/ch022_assessments.js" media-type="text/javascript"/>
+<item id="pages_69" href="widgets/MCMS/js/ch023_assessments.js" media-type="text/javascript"/>
+<item id="pages_70" href="widgets/MCMS/js/ch024_assessments.js" media-type="text/javascript"/>
+<item id="pages_71" href="widgets/MCMS/js/ch025_assessments.js" media-type="text/javascript"/>
+<item id="pages_72" href="widgets/MCMS/js/ch026_assessments.js" media-type="text/javascript"/>
+<item id="pages_73" href="widgets/MCMS/js/ch027_assessments.js" media-type="text/javascript"/>
+<item id="pages_74" href="widgets/MCMS/js/ch028_assessments.js" media-type="text/javascript"/>
+<item id="pages_75" href="widgets/MCMS/js/ch029_assessments.js" media-type="text/javascript"/>
+<item id="pages_76" href="widgets/MCMS/js/ch030_assessments.js" media-type="text/javascript"/>
+<item id="pages_77" href="widgets/MCMS/js/ch031_assessments.js" media-type="text/javascript"/>
+<item id="pages_78" href="widgets/MCMS/js/ch032_assessments.js" media-type="text/javascript"/>
+<item id="pages_79" href="widgets/MCMS/js/ch033_assessments.js" media-type="text/javascript"/>
+<item id="pages_80" href="widgets/MCMS/js/ch034_assessments.js" media-type="text/javascript"/>
+<item id="pages_81" href="widgets/MCMS/js/ch035_assessments.js" media-type="text/javascript"/>
+<item id="pages_82" href="widgets/MCMS/js/ch036_assessments.js" media-type="text/javascript"/>
+<item id="pages_83" href="widgets/MCMS/js/ch037_assessments.js" media-type="text/javascript"/>
+<item id="pages_84" href="widgets/MCMS/js/ch038_assessments.js" media-type="text/javascript"/>
+<item id="pages_85" href="widgets/MCMS/js/ch039_assessments.js" media-type="text/javascript"/>
+<item id="pages_86" href="widgets/MCMS/js/ch040_assessments.js" media-type="text/javascript"/>
+<item id="pages_87" href="widgets/MCMS/js/ch041_assessments.js" media-type="text/javascript"/>
+<item id="pages_88" href="widgets/MCMS/js/ch042_assessments.js" media-type="text/javascript"/>
+<item id="pages_89" href="widgets/MCMS/js/ch043_assessments.js" media-type="text/javascript"/>
+<item id="pages_90" href="widgets/MCMS/js/ch044_assessments.js" media-type="text/javascript"/>
+<item id="pages_91" href="widgets/MCMS/js/ch045_assessments.js" media-type="text/javascript"/>
+<item id="pages_92" href="widgets/MCMS/js/ch046_assessments.js" media-type="text/javascript"/>
+<item id="pages_93" href="widgets/MCMS/js/ch047_assessments.js" media-type="text/javascript"/>
+<item id="pages_94" href="widgets/MCMS/js/ch048_assessments.js" media-type="text/javascript"/>
+<item id="pages_95" href="widgets/MCMS/js/ch049_assessments.js" media-type="text/javascript"/>
+<item id="pages_96" href="widgets/MCMS/js/ch050_assessments.js" media-type="text/javascript"/>
+<item id="pages_97" href="widgets/MCMS/js/ch051_assessments.js" media-type="text/javascript"/>
+<item id="pages_98" href="widgets/MCMS/js/ch052_assessments.js" media-type="text/javascript"/>
+<item id="pages_99" href="widgets/MCMS/js/ch053_assessments.js" media-type="text/javascript"/>
+<item id="pages_100" href="widgets/MCMS/js/ch054_assessments.js" media-type="text/javascript"/>
+<item id="pages_101" href="widgets/MCMS/js/ch055_assessments.js" media-type="text/javascript"/>
+<item id="pages_102" href="widgets/MCMS/js/ch056_assessments.js" media-type="text/javascript"/>
+<item id="pages_103" href="widgets/MCMS/js/ch057_assessments.js" media-type="text/javascript"/>
+<item id="pages_104" href="widgets/MCMS/js/ch058_assessments.js" media-type="text/javascript"/>
+<item id="pages_105" href="widgets/MCMS/js/ch059_assessments.js" media-type="text/javascript"/>
+<item id="pages_106" href="widgets/MCMS/js/ch060_assessments.js" media-type="text/javascript"/>
+<item id="pages_107" href="widgets/MCMS/js/ch061_assessments.js" media-type="text/javascript"/>
+<item id="pages_108" href="widgets/MCMS/js/ch062_assessments.js" media-type="text/javascript"/>
+<item id="pages_109" href="widgets/MCMS/js/ch063_assessments.js" media-type="text/javascript"/>
+<item id="pages_110" href="widgets/MCMS/js/ch064_assessments.js" media-type="text/javascript"/>
+<item id="pages_111" href="widgets/MCMS/js/ch065_assessments.js" media-type="text/javascript"/>
+<item id="pages_112" href="widgets/MCMS/js/ch066_assessments.js" media-type="text/javascript"/>
+<item id="pages_113" href="widgets/MCMS/js/ch067_assessments.js" media-type="text/javascript"/>
+<item id="pages_114" href="widgets/MCMS/js/ch068_assessments.js" media-type="text/javascript"/>
+<item id="pages_115" href="widgets/MCMS/js/ch069_assessments.js" media-type="text/javascript"/>
+<item id="pages_116" href="widgets/MCMS/js/ch070_assessments.js" media-type="text/javascript"/>
+<item id="pages_117" href="widgets/MCMS/js/ch071_assessments.js" media-type="text/javascript"/>
+<item id="pages_118" href="widgets/MCMS/js/ch072_assessments.js" media-type="text/javascript"/>
+<item id="pages_119" href="widgets/MCMS/js/ch073_assessments.js" media-type="text/javascript"/>
+<item id="pages_120" href="widgets/MCMS/js/ch074_assessments.js" media-type="text/javascript"/>
+<item id="pages_121" href="widgets/MCMS/js/ch075_assessments.js" media-type="text/javascript"/>
+<item id="pages_122" href="widgets/MCMS/js/ch076_assessments.js" media-type="text/javascript"/>
+<item id="pages_123" href="widgets/MCMS/js/ch077_assessments.js" media-type="text/javascript"/>
+<item id="pages_124" href="widgets/MCMS/js/ch078_assessments.js" media-type="text/javascript"/>
+<item id="pages_125" href="widgets/MCMS/js/ch079_assessments.js" media-type="text/javascript"/>
+<item id="pages_126" href="widgets/MCMS/js/ch080_assessments.js" media-type="text/javascript"/>
+<item id="pages_127" href="widgets/MCMS/js/ch081_assessments.js" media-type="text/javascript"/>
+<item id="pages_128" href="widgets/MCMS/js/ch082_assessments.js" media-type="text/javascript"/>
+<item id="pages_129" href="widgets/MCMS/js/ch083_assessments.js" media-type="text/javascript"/>
+<item id="pages_130" href="widgets/MCMS/js/ch084_assessments.js" media-type="text/javascript"/>
+<item id="pages_131" href="widgets/MCMS/js/ch085_assessments.js" media-type="text/javascript"/>
+<item id="pages_132" href="widgets/MCMS/js/ch086_assessments.js" media-type="text/javascript"/>
+<item id="pages_133" href="widgets/MCMS/js/ch087_assessments.js" media-type="text/javascript"/>
+<item id="pages_134" href="widgets/MCMS/js/ch088_assessments.js" media-type="text/javascript"/>
+<item id="pages_135" href="widgets/MCMS/js/ch089_assessments.js" media-type="text/javascript"/>
+<item id="pages_136" href="widgets/MCMS/js/ch090_assessments.js" media-type="text/javascript"/>
+<item id="pages_137" href="widgets/MCMS/js/ch091_assessments.js" media-type="text/javascript"/>
+<item id="pages_138" href="widgets/MCMS/js/ch092_assessments.js" media-type="text/javascript"/>
+<item id="pages_139" href="widgets/MCMS/js/ch093_assessments.js" media-type="text/javascript"/>
+<item id="pages_140" href="widgets/MCMS/js/ch094_assessments.js" media-type="text/javascript"/>
+<item id="pages_141" href="widgets/MCMS/js/ch095_assessments.js" media-type="text/javascript"/>
+<item id="pages_142" href="widgets/MCMS/js/ch096_assessments.js" media-type="text/javascript"/>
+<item id="pages_143" href="widgets/MCMS/js/ch097_assessments.js" media-type="text/javascript"/>
+<item id="pages_144" href="widgets/MCMS/js/ch098_assessments.js" media-type="text/javascript"/>
+<item id="pages_145" href="widgets/MCMS/js/ch099_assessments.js" media-type="text/javascript"/>
+<item id="pages_146" href="widgets/MCMS/js/ch100_assessments.js" media-type="text/javascript"/>
+<item id="pages_147" href="widgets/MCMS/js/ch101_assessments.js" media-type="text/javascript"/>
+<item id="pages_148" href="widgets/MCMS/js/ch102_assessments.js" media-type="text/javascript"/>
+<item id="pages_149" href="widgets/MCMS/js/ch103_assessments.js" media-type="text/javascript"/>
+<item id="pages_150" href="widgets/MCMS/js/ch104_assessments.js" media-type="text/javascript"/>
+<item id="pages_151" href="widgets/MCMS/js/ch105_assessments.js" media-type="text/javascript"/>
+<item id="pages_152" href="widgets/MCMS/js/ch106_assessments.js" media-type="text/javascript"/>
+<item id="pages_153" href="widgets/MCMS/js/ch107_assessments.js" media-type="text/javascript"/>
+<item id="pages_154" href="widgets/MCMS/js/ch108_assessments.js" media-type="text/javascript"/>
+<item id="pages_155" href="widgets/MCMS/js/ch109_assessments.js" media-type="text/javascript"/>
+<item id="pages_156" href="widgets/MCMS/js/ch110_assessments.js" media-type="text/javascript"/>
+<item id="pages_157" href="widgets/MCMS/js/ch111_assessments.js" media-type="text/javascript"/>
+<item id="pages_158" href="widgets/MCMS/js/ch112_assessments.js" media-type="text/javascript"/>
+<item id="pages_159" href="widgets/MCMS/js/ch113_assessments.js" media-type="text/javascript"/>
+<item id="pages_160" href="widgets/MCMS/js/ch114_assessments.js" media-type="text/javascript"/>
+<item id="pages_161" href="widgets/MCMS/js/ch115_assessments.js" media-type="text/javascript"/>
+<item id="pages_162" href="widgets/MCMS/js/ch116_assessments.js" media-type="text/javascript"/>
+<item id="pages_163" href="widgets/MCMS/js/ch117_assessments.js" media-type="text/javascript"/>
+<item id="pages_164" href="widgets/MCMS/js/ch118_assessments.js" media-type="text/javascript"/>
+<item id="pages_165" href="widgets/MCMS/js/ch119_assessments.js" media-type="text/javascript"/>
+<item id="pages_166" href="widgets/MCMS/js/ch120_assessments.js" media-type="text/javascript"/>
+<item id="pages_167" href="widgets/MCMS/js/ch121_assessments.js" media-type="text/javascript"/>
+<item id="pages_168" href="widgets/MCMS/js/ch122_assessments.js" media-type="text/javascript"/>
+<item id="pages_169" href="widgets/MCMS/js/ch123_assessments.js" media-type="text/javascript"/>
+<item id="pages_170" href="widgets/MCMS/js/ch124_assessments.js" media-type="text/javascript"/>
+<item id="pages_171" href="widgets/MCMS/js/ch125_assessments.js" media-type="text/javascript"/>
+<item id="pages_172" href="widgets/MCMS/js/ch126_assessments.js" media-type="text/javascript"/>
+<item id="pages_173" href="widgets/MCMS/js/ch127_assessments.js" media-type="text/javascript"/>
+<item id="pages_174" href="widgets/MCMS/js/ch128_assessments.js" media-type="text/javascript"/>
+<item id="pages_175" href="widgets/MCMS/js/ch129_assessments.js" media-type="text/javascript"/>
+<item id="pages_176" href="widgets/MCMS/js/ch130_assessments.js" media-type="text/javascript"/>
+<item id="pages_177" href="widgets/MCMS/js/ch131_assessments.js" media-type="text/javascript"/>
+<item id="pages_178" href="widgets/MCMS/js/ch132_assessments.js" media-type="text/javascript"/>
+<item id="pages_179" href="widgets/MCMS/js/ch133_assessments.js" media-type="text/javascript"/>
+<item id="pages_180" href="widgets/MCMS/js/ch134_assessments.js" media-type="text/javascript"/>
+<item id="pages_181" href="widgets/MCMS/js/ch135_assessments.js" media-type="text/javascript"/>
+<item id="pages_182" href="widgets/MCMS/js/ch136_assessments.js" media-type="text/javascript"/>
+<item id="pages_183" href="widgets/MCMS/js/ch137_assessments.js" media-type="text/javascript"/>
+<item id="pages_184" href="widgets/MCMS/js/ch138_assessments.js" media-type="text/javascript"/>
+<item id="pages_185" href="widgets/MCMS/js/ch139_assessments.js" media-type="text/javascript"/>
+<item id="pages_186" href="widgets/MCMS/js/ch140_assessments.js" media-type="text/javascript"/>
+<item id="pages_187" href="widgets/MCMS/js/ch141_assessments.js" media-type="text/javascript"/>
+<item id="pages_188" href="widgets/MCMS/js/ch142_assessments.js" media-type="text/javascript"/>
+<item id="pages_189" href="widgets/MCMS/js/ch143_assessments.js" media-type="text/javascript"/>
+<item id="pages_190" href="widgets/MCMS/js/ch144_assessments.js" media-type="text/javascript"/>
+<item id="pages_191" href="widgets/MCMS/js/ch145_assessments.js" media-type="text/javascript"/>
+<item id="pages_192" href="widgets/MCMS/js/ch146_assessments.js" media-type="text/javascript"/>
+<item id="pages_193" href="widgets/MCMS/js/ch147_assessments.js" media-type="text/javascript"/>
+<item id="pages_194" href="widgets/MCMS/js/ch148_assessments.js" media-type="text/javascript"/>
+<item id="pages_195" href="widgets/MCMS/js/ch149_assessments.js" media-type="text/javascript"/>
+<item id="pages_196" href="widgets/MCMS/js/ch150_assessments.js" media-type="text/javascript"/>
+<item id="pages_197" href="widgets/MCMS/js/ch151_assessments.js" media-type="text/javascript"/>
+<item id="pages_198" href="widgets/MCMS/js/ch152_assessments.js" media-type="text/javascript"/>
+<item id="pages_199" href="widgets/MCMS/js/ch153_assessments.js" media-type="text/javascript"/>
+<item id="pages_200" href="widgets/MCMS/js/ch154_assessments.js" media-type="text/javascript"/>
+<item id="pages_201" href="widgets/MCMS/js/ch155_assessments.js" media-type="text/javascript"/>
+<item id="pages_202" href="widgets/MCMS/js/ch156_assessments.js" media-type="text/javascript"/>
+<item id="pages_203" href="widgets/MCMS/js/ch157_assessments.js" media-type="text/javascript"/>
+<item id="pages_204" href="widgets/MCMS/js/ch158_assessments.js" media-type="text/javascript"/>
+<item id="pages_205" href="widgets/MCMS/js/ch159_assessments.js" media-type="text/javascript"/>
+<item id="pages_206" href="widgets/MCMS/js/ch160_assessments.js" media-type="text/javascript"/>
+<item id="pages_207" href="widgets/MCMS/js/ch161_assessments.js" media-type="text/javascript"/>
+<item id="pages_208" href="widgets/MCMS/js/ch162_assessments.js" media-type="text/javascript"/>
+<item id="pages_209" href="widgets/MCMS/script/jquery-3.6.0.min.js" media-type="text/javascript"/>
+<item id="pages_210" href="widgets/MCMS/script/main.js" media-type="text/javascript"/>
+<item id="pages_211" href="widgets/MCMS/xhtml/MCMS.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_212" href="widgets/MCMS/xhtml/ch001_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_213" href="widgets/MCMS/xhtml/ch002_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_214" href="widgets/MCMS/xhtml/ch003_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_215" href="widgets/MCMS/xhtml/ch004_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_216" href="widgets/MCMS/xhtml/ch005_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_217" href="widgets/MCMS/xhtml/ch006_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_218" href="widgets/MCMS/xhtml/ch007_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_219" href="widgets/MCMS/xhtml/ch008_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_220" href="widgets/MCMS/xhtml/ch009_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_221" href="widgets/MCMS/xhtml/ch010_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_222" href="widgets/MCMS/xhtml/ch011_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_223" href="widgets/MCMS/xhtml/ch012_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_224" href="widgets/MCMS/xhtml/ch013_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_225" href="widgets/MCMS/xhtml/ch014_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_226" href="widgets/MCMS/xhtml/ch015_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_227" href="widgets/MCMS/xhtml/ch016_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_228" href="widgets/MCMS/xhtml/ch017_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_229" href="widgets/MCMS/xhtml/ch018_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_230" href="widgets/MCMS/xhtml/ch019_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_231" href="widgets/MCMS/xhtml/ch020_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_232" href="widgets/MCMS/xhtml/ch021_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_233" href="widgets/MCMS/xhtml/ch022_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_234" href="widgets/MCMS/xhtml/ch023_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_235" href="widgets/MCMS/xhtml/ch024_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_236" href="widgets/MCMS/xhtml/ch025_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_237" href="widgets/MCMS/xhtml/ch026_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_238" href="widgets/MCMS/xhtml/ch027_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_239" href="widgets/MCMS/xhtml/ch028_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_240" href="widgets/MCMS/xhtml/ch029_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_241" href="widgets/MCMS/xhtml/ch030_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_242" href="widgets/MCMS/xhtml/ch031_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_243" href="widgets/MCMS/xhtml/ch032_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_244" href="widgets/MCMS/xhtml/ch033_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_245" href="widgets/MCMS/xhtml/ch034_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_246" href="widgets/MCMS/xhtml/ch035_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_247" href="widgets/MCMS/xhtml/ch036_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_248" href="widgets/MCMS/xhtml/ch037_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_249" href="widgets/MCMS/xhtml/ch038_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_250" href="widgets/MCMS/xhtml/ch039_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_251" href="widgets/MCMS/xhtml/ch040_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_252" href="widgets/MCMS/xhtml/ch041_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_253" href="widgets/MCMS/xhtml/ch042_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_254" href="widgets/MCMS/xhtml/ch043_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_255" href="widgets/MCMS/xhtml/ch044_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_256" href="widgets/MCMS/xhtml/ch045_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_257" href="widgets/MCMS/xhtml/ch046_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_258" href="widgets/MCMS/xhtml/ch047_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_259" href="widgets/MCMS/xhtml/ch048_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_260" href="widgets/MCMS/xhtml/ch049_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_261" href="widgets/MCMS/xhtml/ch050_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_262" href="widgets/MCMS/xhtml/ch051_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_263" href="widgets/MCMS/xhtml/ch052_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_264" href="widgets/MCMS/xhtml/ch053_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_265" href="widgets/MCMS/xhtml/ch054_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_266" href="widgets/MCMS/xhtml/ch055_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_267" href="widgets/MCMS/xhtml/ch056_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_268" href="widgets/MCMS/xhtml/ch057_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_269" href="widgets/MCMS/xhtml/ch058_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_270" href="widgets/MCMS/xhtml/ch059_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_271" href="widgets/MCMS/xhtml/ch060_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_272" href="widgets/MCMS/xhtml/ch061_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_273" href="widgets/MCMS/xhtml/ch062_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_274" href="widgets/MCMS/xhtml/ch063_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_275" href="widgets/MCMS/xhtml/ch064_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_276" href="widgets/MCMS/xhtml/ch065_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_277" href="widgets/MCMS/xhtml/ch066_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_278" href="widgets/MCMS/xhtml/ch067_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_279" href="widgets/MCMS/xhtml/ch068_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_280" href="widgets/MCMS/xhtml/ch069_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_281" href="widgets/MCMS/xhtml/ch070_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_282" href="widgets/MCMS/xhtml/ch071_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_283" href="widgets/MCMS/xhtml/ch072_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_284" href="widgets/MCMS/xhtml/ch073_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_285" href="widgets/MCMS/xhtml/ch074_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_286" href="widgets/MCMS/xhtml/ch075_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_287" href="widgets/MCMS/xhtml/ch076_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_288" href="widgets/MCMS/xhtml/ch077_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_289" href="widgets/MCMS/xhtml/ch078_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_290" href="widgets/MCMS/xhtml/ch079_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_291" href="widgets/MCMS/xhtml/ch080_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_292" href="widgets/MCMS/xhtml/ch081_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_293" href="widgets/MCMS/xhtml/ch082_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_294" href="widgets/MCMS/xhtml/ch083_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_295" href="widgets/MCMS/xhtml/ch084_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_296" href="widgets/MCMS/xhtml/ch085_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_297" href="widgets/MCMS/xhtml/ch086_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_298" href="widgets/MCMS/xhtml/ch087_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_299" href="widgets/MCMS/xhtml/ch088_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_300" href="widgets/MCMS/xhtml/ch089_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_301" href="widgets/MCMS/xhtml/ch090_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_302" href="widgets/MCMS/xhtml/ch091_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_303" href="widgets/MCMS/xhtml/ch092_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_304" href="widgets/MCMS/xhtml/ch093_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_305" href="widgets/MCMS/xhtml/ch094_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_306" href="widgets/MCMS/xhtml/ch095_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_307" href="widgets/MCMS/xhtml/ch096_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_308" href="widgets/MCMS/xhtml/ch097_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_309" href="widgets/MCMS/xhtml/ch098_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_310" href="widgets/MCMS/xhtml/ch099_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_311" href="widgets/MCMS/xhtml/ch100_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_312" href="widgets/MCMS/xhtml/ch101_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_313" href="widgets/MCMS/xhtml/ch102_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_314" href="widgets/MCMS/xhtml/ch103_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_315" href="widgets/MCMS/xhtml/ch104_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_316" href="widgets/MCMS/xhtml/ch105_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_317" href="widgets/MCMS/xhtml/ch106_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_318" href="widgets/MCMS/xhtml/ch107_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_319" href="widgets/MCMS/xhtml/ch108_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_320" href="widgets/MCMS/xhtml/ch109_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_321" href="widgets/MCMS/xhtml/ch110_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_322" href="widgets/MCMS/xhtml/ch111_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_323" href="widgets/MCMS/xhtml/ch112_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_324" href="widgets/MCMS/xhtml/ch113_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_325" href="widgets/MCMS/xhtml/ch114_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_326" href="widgets/MCMS/xhtml/ch115_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_327" href="widgets/MCMS/xhtml/ch116_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_328" href="widgets/MCMS/xhtml/ch117_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_329" href="widgets/MCMS/xhtml/ch118_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_330" href="widgets/MCMS/xhtml/ch119_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_331" href="widgets/MCMS/xhtml/ch120_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_332" href="widgets/MCMS/xhtml/ch121_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_333" href="widgets/MCMS/xhtml/ch122_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_334" href="widgets/MCMS/xhtml/ch123_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_335" href="widgets/MCMS/xhtml/ch124_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_336" href="widgets/MCMS/xhtml/ch125_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_337" href="widgets/MCMS/xhtml/ch126_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_338" href="widgets/MCMS/xhtml/ch127_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_339" href="widgets/MCMS/xhtml/ch128_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_340" href="widgets/MCMS/xhtml/ch129_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_341" href="widgets/MCMS/xhtml/ch130_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_342" href="widgets/MCMS/xhtml/ch131_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_343" href="widgets/MCMS/xhtml/ch132_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_344" href="widgets/MCMS/xhtml/ch133_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_345" href="widgets/MCMS/xhtml/ch134_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_346" href="widgets/MCMS/xhtml/ch135_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_347" href="widgets/MCMS/xhtml/ch136_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_348" href="widgets/MCMS/xhtml/ch137_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_349" href="widgets/MCMS/xhtml/ch138_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_350" href="widgets/MCMS/xhtml/ch139_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_351" href="widgets/MCMS/xhtml/ch140_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_352" href="widgets/MCMS/xhtml/ch141_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_353" href="widgets/MCMS/xhtml/ch142_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_354" href="widgets/MCMS/xhtml/ch143_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_355" href="widgets/MCMS/xhtml/ch144_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_356" href="widgets/MCMS/xhtml/ch145_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_357" href="widgets/MCMS/xhtml/ch146_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_358" href="widgets/MCMS/xhtml/ch147_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_359" href="widgets/MCMS/xhtml/ch148_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_360" href="widgets/MCMS/xhtml/ch149_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_361" href="widgets/MCMS/xhtml/ch150_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_362" href="widgets/MCMS/xhtml/ch151_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_363" href="widgets/MCMS/xhtml/ch152_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_364" href="widgets/MCMS/xhtml/ch153_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_365" href="widgets/MCMS/xhtml/ch154_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_366" href="widgets/MCMS/xhtml/ch155_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_367" href="widgets/MCMS/xhtml/ch156_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_368" href="widgets/MCMS/xhtml/ch157_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_369" href="widgets/MCMS/xhtml/ch158_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_370" href="widgets/MCMS/xhtml/ch159_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_371" href="widgets/MCMS/xhtml/ch160_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_372" href="widgets/MCMS/xhtml/ch161_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="pages_373" href="widgets/MCMS/xhtml/ch162_assessments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+
+<item id="ab_01" href="style/fonts/CharisSILB.ttf" media-type="application/vnd.ms-opentype"/>
+<item id="ab_02" href="style/main.css" media-type="text/css"/>
+<item id="ab_03" href="widgets/MCMS/css/style.css" media-type="text/css"/>
+
+
+<item id="sh_00001" href="widgets/common_assets/images/badge-slideline-01.svg" media-type="image/svg+xml"/>
+<item id="sh_00002" href="widgets/common_assets/images/badge-slideline-02.svg" media-type="image/svg+xml"/>
+<item id="sh_00003" href="widgets/common_assets/images/badge-slideline-03.svg" media-type="image/svg+xml"/>
+<item id="sh_00004" href="widgets/common_assets/images/badge-slideline-04.svg" media-type="image/svg+xml"/>
+<item id="sh_00005" href="widgets/common_assets/images/badge-slideline-05.svg" media-type="image/svg+xml"/>
+<item id="sh_00006" href="widgets/common_assets/images/badge-slideline-06.svg" media-type="image/svg+xml"/>
+<item id="sh_00007" href="widgets/common_assets/images/badge-slideline-07.svg" media-type="image/svg+xml"/>
+<item id="sh_00008" href="widgets/common_assets/images/badge-slideline-08.svg" media-type="image/svg+xml"/>
+<item id="sh_00009" href="widgets/common_assets/images/badge-slideline-09.svg" media-type="image/svg+xml"/>
+<item id="sh_000010" href="widgets/common_assets/images/badge-testyourself-00.svg" media-type="image/svg+xml"/>
+<item id="sh_000011" href="widgets/common_assets/images/badge-testyourself-01.svg" media-type="image/svg+xml"/>
+<item id="sh_000012" href="widgets/common_assets/images/badge-testyourself-02.svg" media-type="image/svg+xml"/>
+<item id="sh_000013" href="widgets/common_assets/images/badge-testyourself-03.svg" media-type="image/svg+xml"/>
+<item id="sh_000014" href="widgets/common_assets/images/badge-testyourself-04.svg" media-type="image/svg+xml"/>
+<item id="sh_000015" href="widgets/common_assets/images/badge-testyourself-05.svg" media-type="image/svg+xml"/>
+<item id="sh_000016" href="widgets/common_assets/images/badge-testyourself-06.svg" media-type="image/svg+xml"/>
+<item id="sh_000017" href="widgets/common_assets/images/badge-testyourself-07.svg" media-type="image/svg+xml"/>
+<item id="sh_000018" href="widgets/common_assets/images/badge-testyourself-08.svg" media-type="image/svg+xml"/>
+<item id="sh_000019" href="widgets/common_assets/images/badge-testyourself-09.svg" media-type="image/svg+xml"/>
+<item id="sh_000020" href="widgets/common_assets/images/badge-testyourself-10.svg" media-type="image/svg+xml"/>
+<item id="sh_000021" href="widgets/common_assets/images/callout-arrow-00.svg" media-type="image/svg+xml"/>
+<item id="sh_000022" href="widgets/common_assets/images/callout-arrow-01.svg" media-type="image/svg+xml"/>
+<item id="sh_000023" href="widgets/common_assets/images/callout-arrow-02.svg" media-type="image/svg+xml"/>
+<item id="sh_000024" href="widgets/common_assets/images/callout-arrow-03.svg" media-type="image/svg+xml"/>
+<item id="sh_000025" href="widgets/common_assets/images/callout-arrow-04.svg" media-type="image/svg+xml"/>
+<item id="sh_000026" href="widgets/common_assets/images/callout-arrow-05.svg" media-type="image/svg+xml"/>
+<item id="sh_000027" href="widgets/common_assets/images/callout-arrow-06.svg" media-type="image/svg+xml"/>
+<item id="sh_000028" href="widgets/common_assets/images/callout-arrow-07.svg" media-type="image/svg+xml"/>
+<item id="sh_000029" href="widgets/common_assets/images/callout-arrow-08.svg" media-type="image/svg+xml"/>
+<item id="sh_000030" href="widgets/common_assets/images/callout-arrow-09.svg" media-type="image/svg+xml"/>
+<item id="sh_000031" href="widgets/common_assets/images/callout-arrow-10.svg" media-type="image/svg+xml"/>
+<item id="sh_000032" href="widgets/common_assets/images/callout-arrow-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000033" href="widgets/common_assets/images/callout-video-01.svg" media-type="image/svg+xml"/>
+<item id="sh_000034" href="widgets/common_assets/images/callout-video-02.svg" media-type="image/svg+xml"/>
+<item id="sh_000035" href="widgets/common_assets/images/callout-video-03.svg" media-type="image/svg+xml"/>
+<item id="sh_000036" href="widgets/common_assets/images/callout-video-04.svg" media-type="image/svg+xml"/>
+<item id="sh_000037" href="widgets/common_assets/images/callout-video-05.svg" media-type="image/svg+xml"/>
+<item id="sh_000038" href="widgets/common_assets/images/callout-video-06.svg" media-type="image/svg+xml"/>
+<item id="sh_000039" href="widgets/common_assets/images/callout-video-07.svg" media-type="image/svg+xml"/>
+<item id="sh_000040" href="widgets/common_assets/images/callout-video-08.svg" media-type="image/svg+xml"/>
+<item id="sh_000041" href="widgets/common_assets/images/callout-video-09.svg" media-type="image/svg+xml"/>
+<item id="sh_000042" href="widgets/common_assets/images/callout-video-10.svg" media-type="image/svg+xml"/>
+<item id="sh_000043" href="widgets/common_assets/images/chapter_bg.png" media-type="image/png"/>
+<item id="sh_000044" href="widgets/common_assets/images/chapter_bg_white.png" media-type="image/png"/>
+<item id="sh_000046" href="widgets/common_assets/images/equation-sample.png" media-type="image/png"/>
+<item id="sh_000047" href="widgets/common_assets/images/figure-unavailable.png" media-type="image/png"/>
+<item id="sh_000048" href="widgets/common_assets/images/grid-12.svg" media-type="image/svg+xml"/>
+<item id="sh_000049" href="widgets/common_assets/images/ico/cb-circle.svg" media-type="image/svg+xml"/>
+<item id="sh_000050" href="widgets/common_assets/images/ico/cb-square.svg" media-type="image/svg+xml"/>
+<item id="sh_000051" href="widgets/common_assets/images/ico/cb-triangle.svg" media-type="image/svg+xml"/>
+<item id="sh_000052" href="widgets/common_assets/images/ico/temp-icon.svg" media-type="image/svg+xml"/>
+<item id="sh_000053" href="widgets/common_assets/images/icon-anatomy-embryology.svg" media-type="image/svg+xml"/>
+<item id="sh_000054" href="widgets/common_assets/images/icon-arrow-right-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000055" href="widgets/common_assets/images/icon-biochemistry.svg" media-type="image/svg+xml"/>
+<item id="sh_000056" href="widgets/common_assets/images/icon-checkmark.svg" media-type="image/svg+xml"/>
+<item id="sh_000057" href="widgets/common_assets/images/icon-doublecheckmark.svg" media-type="image/svg+xml"/>
+<item id="sh_000058" href="widgets/common_assets/images/icon-genetics.svg" media-type="image/svg+xml"/>
+<item id="sh_000059" href="widgets/common_assets/images/icon-histology.svg" media-type="image/svg+xml"/>
+<item id="sh_000060" href="widgets/common_assets/images/icon-immunology-microbiology.svg" media-type="image/svg+xml"/>
+<item id="sh_000061" href="widgets/common_assets/images/icon-information-orange.svg" media-type="image/svg+xml"/>
+<item id="sh_000062" href="widgets/common_assets/images/icon-magnify-pink.svg" media-type="image/svg+xml"/>
+<item id="sh_000063" href="widgets/common_assets/images/icon-microscope-purple.svg" media-type="image/svg+xml"/>
+<item id="sh_000064" href="widgets/common_assets/images/icon-neuroscience.svg" media-type="image/svg+xml"/>
+<item id="sh_000065" href="widgets/common_assets/images/icon-pathology.svg" media-type="image/svg+xml"/>
+<item id="sh_000066" href="widgets/common_assets/images/icon-pharmacology.svg" media-type="image/svg+xml"/>
+<item id="sh_000067" href="widgets/common_assets/images/icon-physiology.svg" media-type="image/svg+xml"/>
+<item id="sh_000068" href="widgets/common_assets/images/icon-pillbottle-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000069" href="widgets/common_assets/images/icon-question-gray.svg" media-type="image/svg+xml"/>
+<item id="sh_000070" href="widgets/common_assets/images/icon-scope-teal.svg" media-type="image/svg+xml"/>
+<item id="sh_000071" href="widgets/common_assets/images/icon.png" media-type="image/png"/>
+<item id="sh_000072" href="widgets/common_assets/images/platform/icon-arrow-hide-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000073" href="widgets/common_assets/images/platform/icon-arrow-right-gray.svg" media-type="image/svg+xml"/>
+<item id="sh_000074" href="widgets/common_assets/images/platform/icon-arrow-right-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000075" href="widgets/common_assets/images/platform/icon-arrow-show-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000076" href="widgets/common_assets/images/platform/icon-assessment-black.svg" media-type="image/svg+xml"/>
+<item id="sh_000077" href="widgets/common_assets/images/platform/icon-assessment-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000078" href="widgets/common_assets/images/platform/icon-audio-player-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000079" href="widgets/common_assets/images/platform/icon-audio-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000080" href="widgets/common_assets/images/platform/icon-custom-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000081" href="widgets/common_assets/images/platform/icon-definition-black.svg" media-type="image/svg+xml"/><item id="sh_000082" href="widgets/common_assets/images/platform/icon-definition-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000083" href="widgets/common_assets/images/platform/icon-guidedtour-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000084" href="widgets/common_assets/images/platform/icon-hotspot-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000085" href="widgets/common_assets/images/platform/icon-key-term-black.svg" media-type="image/svg+xml"/>
+<item id="sh_000086" href="widgets/common_assets/images/platform/icon-link-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000087" href="widgets/common_assets/images/platform/icon-link-jump-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000088" href="widgets/common_assets/images/platform/icon-molecule-black.svg" media-type="image/svg+xml"/>
+<item id="sh_000089" href="widgets/common_assets/images/platform/icon-molecule-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000090" href="widgets/common_assets/images/platform/icon-poptip-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000091" href="widgets/common_assets/images/platform/icon-slidedtour-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000092" href="widgets/common_assets/images/platform/icon-slideline-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000093" href="widgets/common_assets/images/platform/icon-slideshow-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000094" href="widgets/common_assets/images/platform/icon-table-black.svg" media-type="image/svg+xml"/>
+<item id="sh_000095" href="widgets/common_assets/images/platform/icon-testyourself-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000096" href="widgets/common_assets/images/platform/icon-threed-black.svg" media-type="image/svg+xml"/>
+<item id="sh_000097" href="widgets/common_assets/images/platform/icon-threed-blue.svg" media-type="image/svg+xml"/>
+<item id="sh_000098" href="widgets/common_assets/images/platform/icon-threed-white.svg" media-type="image/svg+xml"/>
+<item id="sh_000099" href="widgets/common_assets/images/platform/icon-video-white.svg" media-type="image/svg+xml"/>
+<item id="sh_0000100" href="widgets/common_assets/images/platform/icon-web-white.svg" media-type="image/svg+xml"/>
+<item id="sh_0000101" href="widgets/common_assets/images/publisher-logo.png" media-type="image/png"/>
+<item id="sh_0000102" href="widgets/common_assets/images/stub-landscape.png" media-type="image/png"/>
+<item id="sh_0000103" href="widgets/common_assets/images/stub-portrait.png" media-type="image/png"/>
+<item id="sh_0000104" href="widgets/common_assets/images/temp-icon.svg" media-type="image/svg+xml"/>
+<item id=" sh_0000105" href="widgets/common_assets/css/casestudy.css" media-type="text/css"/>
+<item id=" sh_0000106" href="widgets/common_assets/css/learningresources.css" media-type="text/css"/>
+<item id=" sh_0000107" href="widgets/common_assets/css/main.css" media-type="text/css"/></manifest>
+   <spine page-progression-direction="ltr" toc="ncx">
+      <itemref idref="html-cover-page" linear="yes"/>
+      <itemref idref="title" linear="yes"/>
+      <itemref idref="Contents" linear="yes"/>
+      <itemref idref="B9780323639699120014" linear="yes"/>
+      <itemref idref="B9780323639699010028" linear="yes"/>
+      <itemref idref="B9780323639699090017" linear="yes"/>
+      <itemref idref="part_p1" linear="yes"/>
+      <itemref idref="B978032363969900001X" linear="yes"/>
+      <itemref idref="B9780323639699000021" linear="yes"/>
+      <itemref idref="B9780323639699000033" linear="yes"/>
+      <itemref idref="B9780323639699000045" linear="yes"/>
+      <itemref idref="B9780323639699000057" linear="yes"/>
+      <itemref idref="B9780323639699000069" linear="yes"/>
+      <itemref idref="B9780323639699000070" linear="yes"/>
+      <itemref idref="part_p2" linear="yes"/>
+      <itemref idref="B9780323639699000082" linear="yes"/>
+      <itemref idref="B9780323639699000094" linear="yes"/>
+      <itemref idref="B9780323639699000100" linear="yes"/>
+      <itemref idref="B9780323639699000112" linear="yes"/>
+      <itemref idref="B9780323639699000124" linear="yes"/>
+      <itemref idref="B9780323639699000136" linear="yes"/>
+      <itemref idref="B9780323639699000148" linear="yes"/>
+      <itemref idref="B978032363969900015X" linear="yes"/>
+      <itemref idref="B9780323639699000161" linear="yes"/>
+      <itemref idref="B9780323639699000173" linear="yes"/>
+      <itemref idref="B9780323639699000185" linear="yes"/>
+      <itemref idref="B9780323639699000197" linear="yes"/>
+      <itemref idref="part_p3" linear="yes"/>
+      <itemref idref="section_s1" linear="yes"/>
+      <itemref idref="B9780323639699000203" linear="yes"/>
+      <itemref idref="B9780323639699000215" linear="yes"/>
+      <itemref idref="B9780323639699000227" linear="yes"/>
+      <itemref idref="section_sn2" linear="yes"/>
+      <itemref idref="B9780323639699000239" linear="yes"/>
+      <itemref idref="B9780323639699000240" linear="yes"/>
+      <itemref idref="B9780323639699000252" linear="yes"/>
+      <itemref idref="B9780323639699000264" linear="yes"/>
+      <itemref idref="B9780323639699000276" linear="yes"/>
+      <itemref idref="section_sn3" linear="yes"/>
+      <itemref idref="B9780323639699000288" linear="yes"/>
+      <itemref idref="B978032363969900029X" linear="yes"/>
+      <itemref idref="B9780323639699000306" linear="yes"/>
+      <itemref idref="B9780323639699000318" linear="yes"/>
+      <itemref idref="B978032363969900032X" linear="yes"/>
+      <itemref idref="B9780323639699000331" linear="yes"/>
+      <itemref idref="B9780323639699000343" linear="yes"/>
+      <itemref idref="B9780323639699000355" linear="yes"/>
+      <itemref idref="B9780323639699000367" linear="yes"/>
+      <itemref idref="B9780323639699000379" linear="yes"/>
+      <itemref idref="section_sn4" linear="yes"/>
+      <itemref idref="B9780323639699000380" linear="yes"/>
+      <itemref idref="B9780323639699000392" linear="yes"/>
+      <itemref idref="B9780323639699000409" linear="yes"/>
+      <itemref idref="B9780323639699000410" linear="yes"/>
+      <itemref idref="B9780323639699000422" linear="yes"/>
+      <itemref idref="B9780323639699000434" linear="yes"/>
+      <itemref idref="section_sn5" linear="yes"/>
+      <itemref idref="B9780323639699000446" linear="yes"/>
+      <itemref idref="B9780323639699000458" linear="yes"/>
+      <itemref idref="B978032363969900046X" linear="yes"/>
+      <itemref idref="B9780323639699000471" linear="yes"/>
+      <itemref idref="B9780323639699000483" linear="yes"/>
+      <itemref idref="section_sn6" linear="yes"/>
+      <itemref idref="B9780323639699000495" linear="yes"/>
+      <itemref idref="B9780323639699000501" linear="yes"/>
+      <itemref idref="B9780323639699000513" linear="yes"/>
+      <itemref idref="B9780323639699000525" linear="yes"/>
+      <itemref idref="section_sn7" linear="yes"/>
+      <itemref idref="B9780323639699000537" linear="yes"/>
+      <itemref idref="B9780323639699000549" linear="yes"/>
+      <itemref idref="part_p4" linear="yes"/>
+      <itemref idref="B9780323639699000550" linear="yes"/>
+      <itemref idref="B9780323639699000562" linear="yes"/>
+      <itemref idref="B9780323639699000574" linear="yes"/>
+      <itemref idref="B9780323639699000586" linear="yes"/>
+      <itemref idref="B9780323639699000598" linear="yes"/>
+      <itemref idref="B9780323639699000604" linear="yes"/>
+      <itemref idref="part_p5" linear="yes"/>
+      <itemref idref="B9780323639699000616" linear="yes"/>
+      <itemref idref="B9780323639699000628" linear="yes"/>
+      <itemref idref="part_p6" linear="yes"/>
+      <itemref idref="B978032363969900063X" linear="yes"/>
+      <itemref idref="B9780323639699000641" linear="yes"/>
+      <itemref idref="B9780323639699000653" linear="yes"/>
+      <itemref idref="B9780323639699000665" linear="yes"/>
+      <itemref idref="B9780323639699000677" linear="yes"/>
+      <itemref idref="B9780323639699000689" linear="yes"/>
+      <itemref idref="B9780323639699000690" linear="yes"/>
+      <itemref idref="B9780323639699000707" linear="yes"/>
+      <itemref idref="B9780323639699000719" linear="yes"/>
+      <itemref idref="B9780323639699000720" linear="yes"/>
+      <itemref idref="B9780323639699000732" linear="yes"/>
+      <itemref idref="B9780323639699000744" linear="yes"/>
+      <itemref idref="part_p7" linear="yes"/>
+      <itemref idref="B9780323639699000756" linear="yes"/>
+      <itemref idref="B9780323639699000768" linear="yes"/>
+      <itemref idref="B978032363969900077X" linear="yes"/>
+      <itemref idref="B9780323639699000781" linear="yes"/>
+      <itemref idref="B9780323639699000793" linear="yes"/>
+      <itemref idref="B978032363969900080X" linear="yes"/>
+      <itemref idref="B9780323639699000811" linear="yes"/>
+      <itemref idref="B9780323639699000823" linear="yes"/>
+      <itemref idref="B9780323639699000835" linear="yes"/>
+      <itemref idref="part_p8" linear="yes"/>
+      <itemref idref="B9780323639699000847" linear="yes"/>
+      <itemref idref="B9780323639699000859" linear="yes"/>
+      <itemref idref="B9780323639699000860" linear="yes"/>
+      <itemref idref="B9780323639699000872" linear="yes"/>
+      <itemref idref="B9780323639699000884" linear="yes"/>
+      <itemref idref="part_p9" linear="yes"/>
+      <itemref idref="B9780323639699000896" linear="yes"/>
+      <itemref idref="B9780323639699000902" linear="yes"/>
+      <itemref idref="part_p10" linear="yes"/>
+      <itemref idref="B9780323639699000914" linear="yes"/>
+      <itemref idref="B9780323639699000926" linear="yes"/>
+      <itemref idref="B9780323639699000938" linear="yes"/>
+      <itemref idref="B978032363969900094X" linear="yes"/>
+      <itemref idref="B9780323639699000951" linear="yes"/>
+      <itemref idref="part_p11" linear="yes"/>
+      <itemref idref="B9780323639699000963" linear="yes"/>
+      <itemref idref="B9780323639699000975" linear="yes"/>
+      <itemref idref="B9780323639699000987" linear="yes"/>
+      <itemref idref="B9780323639699000999" linear="yes"/>
+      <itemref idref="B9780323639699001002" linear="yes"/>
+      <itemref idref="B9780323639699001014" linear="yes"/>
+      <itemref idref="B9780323639699001026" linear="yes"/>
+      <itemref idref="B9780323639699001038" linear="yes"/>
+      <itemref idref="B978032363969900104X" linear="yes"/>
+      <itemref idref="part_p13" linear="yes"/>
+      <itemref idref="B9780323639699001051" linear="yes"/>
+      <itemref idref="B9780323639699001063" linear="yes"/>
+      <itemref idref="B9780323639699001075" linear="yes"/>
+      <itemref idref="part_p913" linear="yes"/>
+      <itemref idref="B9780323639699001087" linear="yes"/>
+      <itemref idref="B9780323639699001099" linear="yes"/>
+      <itemref idref="B9780323639699001105" linear="yes"/>
+      <itemref idref="B9780323639699001117" linear="yes"/>
+      <itemref idref="B9780323639699001129" linear="yes"/>
+      <itemref idref="B9780323639699001130" linear="yes"/>
+      <itemref idref="B9780323639699001142" linear="yes"/>
+      <itemref idref="B9780323639699001154" linear="yes"/>
+      <itemref idref="B9780323639699001166" linear="yes"/>
+      <itemref idref="B9780323639699001178" linear="yes"/>
+      <itemref idref="B978032363969900118X" linear="yes"/>
+      <itemref idref="B9780323639699001191" linear="yes"/>
+      <itemref idref="B9780323639699001208" linear="yes"/>
+      <itemref idref="B978032363969900121X" linear="yes"/>
+      <itemref idref="B9780323639699001221" linear="yes"/>
+      <itemref idref="B9780323639699001233" linear="yes"/>
+      <itemref idref="B9780323639699001245" linear="yes"/>
+      <itemref idref="B9780323639699001257" linear="yes"/>
+      <itemref idref="B9780323639699001269" linear="yes"/>
+      <itemref idref="B9780323639699001270" linear="yes"/>
+      <itemref idref="B9780323639699001282" linear="yes"/>
+      <itemref idref="B9780323639699001294" linear="yes"/>
+      <itemref idref="B9780323639699001300" linear="yes"/>
+      <itemref idref="B9780323639699001312" linear="yes"/>
+      <itemref idref="part_p14" linear="yes"/>
+      <itemref idref="B9780323639699001324" linear="yes"/>
+      <itemref idref="B9780323639699001336" linear="yes"/>
+      <itemref idref="B9780323639699001348" linear="yes"/>
+      <itemref idref="B978032363969900135X" linear="yes"/>
+      <itemref idref="B9780323639699001361" linear="yes"/>
+      <itemref idref="B9780323639699001373" linear="yes"/>
+      <itemref idref="B9780323639699001385" linear="yes"/>
+      <itemref idref="B9780323639699001397" linear="yes"/>
+      <itemref idref="B9780323639699001403" linear="yes"/>
+      <itemref idref="B9780323639699001415" linear="yes"/>
+      <itemref idref="B9780323639699001427" linear="yes"/>
+      <itemref idref="part_p15" linear="yes"/>
+      <itemref idref="B9780323639699001439" linear="yes"/>
+      <itemref idref="B9780323639699001440" linear="yes"/>
+      <itemref idref="B9780323639699001452" linear="yes"/>
+      <itemref idref="B9780323639699001464" linear="yes"/>
+      <itemref idref="B9780323639699001476" linear="yes"/>
+      <itemref idref="B9780323639699001488" linear="yes"/>
+      <itemref idref="B978032363969900149X" linear="yes"/>
+      <itemref idref="B9780323639699001506" linear="yes"/>
+      <itemref idref="B9780323639699001518" linear="yes"/>
+      <itemref idref="B978032363969900152X" linear="yes"/>
+      <itemref idref="B9780323639699001531" linear="yes"/>
+      <itemref idref="B9780323639699001543" linear="yes"/>
+      <itemref idref="B9780323639699001555" linear="yes"/>
+      <itemref idref="B9780323639699001567" linear="yes"/>
+      <itemref idref="B9780323639699001579" linear="yes"/>
+      <itemref idref="B9780323639699001580" linear="yes"/>
+      <itemref idref="B9780323639699001592" linear="yes"/>
+      <itemref idref="B9780323639699001609" linear="yes"/>
+      <itemref idref="B9780323639699001610" linear="yes"/>
+      <itemref idref="B9780323639699001622" linear="yes"/>
+   </spine>
+   <guide>
+      <reference type="cover" title="Cover Image" href="XHTML/cover.xhtml"/>
+      <reference type="title" title="Title Page" href="XHTML/title.xhtml"/>
+      <reference type="toc" title="Contents" href="XHTML/contents.xhtml"/>
+   </guide>
+</package>

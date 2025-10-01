@@ -1,0 +1,121 @@
+var quiz = [
+    {
+        q: `What have the American Urological Association (AUA) and European Association of Urology (EUA) determined as the definition of prostate-specific antigen (PSA) failure following radical prostatectomy?`,
+        q2: ``,
+        q3: [],
+        option: [`<!--a. -->Any level of detectable PSA following radical prostatectomy.`,
+         `<!--b. -->Two values of 0.1 ng/mL or higher.`, 
+         `<!--c. -->0.2 ng/mL.`, 
+         `<!--d. -->0.2 ng/mL with a confirmatory value.`, 
+         `<!--e. -->0.4 ng/mL with a confirmatory value.` ],
+        optionStyleType: `st-lower-alpha`,
+        answer: [3],
+        ansText: `Rationale: Throughout the radical prostatectomy literature, there have been more than 50 individual definitions for PSA failure. In 2007, the AUA Guidelines panel for localized prostate cancer released its recommendations for PSA failure following radical prostatectomy as 0.2 ng/mL with a confirmatory value greater than 0.2 ng/mL (Cookson et al., 2007).<a href="[remark:3b95f69e383d4db2b8e7f93c4b0033f4]"><sup>a</sup></a> Although higher values would result in greater specificity for disease recurrence and progression, the value of 0.2 ng/mL resulted in higher sensitivity and generalizability. The panel reported that in no way should this individual definition be used for determining the usage of adjuvant/salvage therapies and reiterated that this definition is not predictive of death outcomes.`,
+        state: `notAnswered`,
+        userAnswered: []
+    ,
+	type: `MCSS`,
+	type: `MCSS`        ,
+        type: `MCSS`},{
+        q: `Which imaging modality in PSA recurrence following radical prostatectomy has the highest sensitivity at the lowest PSA values?`,
+        q2: ``,
+        q3: [],
+        option: [`<!--a. -->Radionucleotide bone scan.`,
+         `<!--b. -->Computed tomography (CT) of abdomen/pelvis.`, 
+         `<!--c. -->Fluorodeoxyglucose-positron emission tomography (FDG-PET) scan.`, 
+         `<!--d. -->Prostascint scan.`, 
+         `<!--e. -->Multiparametric magnetic resonance imaging (MRI).` ],
+        optionStyleType: `st-lower-alpha`,
+        answer: [4],
+        ansText: `Rationale: Traditional imaging techniques such as CT scan and bone scan demonstrate limited value at PSA values less than10 ng/mL (Dotan et al., 2005; Okotie et al., 2004). Multiparametric MRI has shown reliability in identifying local recurrence even at low levels of PSA. In fact, MRI sensitivity may be as high as 86% at PSA values between 0.4 and 1.4 ng/mL and has also demonstrated an ability to perform better than PET-CT (Panebianco et al., 2012; Sciarra et al., 2008).`,
+        state: `notAnswered`,
+        userAnswered: []
+    ,
+	type: `MCSS`,
+	type: `MCSS`        ,
+        type: `MCSS`}
+    ,{
+        q: `What is the minimum recommended dosage for salvage radiotherapy?`,
+        q2: ``,
+        q3: [],
+        option: [`<!--a. -->43 Gy`,
+         `<!--b. -->54 Gy`, 
+         `<!--c. -->64 Gy`, 
+         `<!--d. -->72 Gy`, 
+         `<!--e. -->78 Gy` ],
+        optionStyleType: `st-lower-alpha`,
+        answer: [2],
+        ansText: `Rationale: In 1999, the American Society for Therapeutic Radiation Oncology (ASTRO) guidelines panel concluded that a minimum of 64 Gy should be used for salvage radiation following radical prostatectomy (Cox JD et al., 1999). This dosage was confirmed by the AUA guidelines in 2013 (Thompson IM et al., 2013). <b>Modern reports suggest that salvage radiation dosages as high as 76 Gy may demonstrate effective biochemical recurrence-free survival with reasonable toxicities</b> (De Meerleer et al., 2008; Ost, Lumen et al., 2011). It is hoped that studies such as SAKK 09/10 will clarify the role of dose escalation and identify an optimal therapeutic window for salvage radiation (<a href="http://clinicaltrials.gov/show/NCT01272050"><b>http://clinicaltrials.gov/show/NCT01272050</b></a>).`,
+        state: `notAnswered`,
+        userAnswered: []
+    ,
+	type: `MCSS`,
+	type: `MCSS`        ,
+        type: `MCSS`}
+    ,{
+        q: `Candidates for salvage prostatectomy following failed radiation therapy of the prostate should have all but which factor before treatment?`,
+        q2: ``,
+        q3: [],
+        option: [`<!--a. -->Negative metastatic workup.`,
+         `<!--b. -->At least 10 years of life expectancy.`, 
+         `<!--c. -->Biopsy-proven local recurrence.`, 
+         `<!--d. -->Negative pelvic lymph node sampling.`, 
+         `<!--e. -->PSA value less than 10 ng/mL.` ],
+        optionStyleType: `st-lower-alpha`,
+        answer: [3],
+        ansText: `Rationale: Although modern series of salvage prostatectomy demonstrate improved morbidity, patient selection is of the utmost importance (Heidenreich et al., 2010; Stephenson, Scardino et al., 2004). <b>Patients who are candidates for salvage surgery must have at least 10 years of life expectancy, a negative metastatic workup, biopsy-proven local recurrence, and ideally a PSA value less than 10 ng/mL.</b> A separate negative pelvic lymph node sampling is not imperative before undergoing salvage surgery, although sending lymph nodes for frozen section before prostatectomy would not be unreasonable.`,
+        state: `notAnswered`,
+        userAnswered: []
+            ,
+        type: `MCSS`}
+    ,{
+        q: `Which has the highest sensitivity in detecting recurrent local disease following radiation therapy for prostate cancer?`,
+        q2: ``,
+        q3: [],
+        option: [`<!--a. -->Rectal exam.`,
+         `<!--b. -->Transrectal ultrasound.`, 
+         `<!--c. -->MRI.`, 
+         `<!--d. -->Prostascint scan.`, 
+         `<!--e. -->PET scan.` ],
+        optionStyleType: `st-lower-alpha`,
+        answer: [2],
+        ansText: `Rationale: Traditional imaging modalities have not demonstrated consistent ability to detect radiorecurrent prostate cancer. Transrectal ultrasonography (TRUS) demonstrates sensitivities no better than digital rectal exam, and CT scans are not relevant at PSA values less than 20 ng/mL (Crook J et al., 1993). Alternatively, MRI with contrast enhancement, spectroscopy, and diffusion-weighted imaging has demonstrated improved sensitivity (Haider et al., 2008; Hara et al., 2012; Westphalen et al., 2010). In fact, diffusion-weighted imaging has demonstrated a sensitivity and specificity of 100% using a 22-core biopsy as a reference (Hara et al., 2012).`,
+        state: `notAnswered`,
+        userAnswered: []
+            ,
+        type: `MCSS`}
+    ,{
+        q: `Which of these is NOT a commonly known side effect of androgen deprivation therapy (ADT)?`,
+        q2: ``,
+        q3: [],
+        option: [`<!--a. -->Decreased bone mineral density.`,
+         `<!--b. -->Mania.`, 
+         `<!--c. -->Hot flashes.`, 
+         `<!--d. -->Fatigue.`, 
+         `<!--e. -->Sexual side effects.` ],
+        optionStyleType: `st-lower-alpha`,
+        answer: [1],
+        ansText: `Rationale: All other answers are commonly reported side effects of patients undergoing ADT.`,
+        state: `notAnswered`,
+        userAnswered: []
+    ,
+	type: `MCSS`        ,
+        type: `MCSS`}
+    ,{
+        q: `The most important therapeutic consideration in selecting either local salvage therapy or systemic therapy for a patient with a rising PSA value after definitive local therapy is:`,
+        q2: ``,
+        q3: [],
+        option: [`<!--a. -->patients with a rising PSA level after definitive local therapy should be started on hormonal therapy because they are destined to experience systemic relapse.`,
+         `<!--b. -->patients with a rising PSA level should undergo salvage local procedures, such as radiation or cryotherapy or prostatectomy, before undergoing any systemic treatment.`, 
+         `<!--c. -->patients with a rising PSA level and no metastatic disease should be started on chemotherapy.`, 
+         `<!--d. -->patients with a rising PSA level should undergo neither systemic nor local treatments, because the only appropriate context in which to begin any intervention is when radiographic metastases have developed.`, 
+         `<!--e. -->patients with a rising PSA level should be risk stratified and treated with a modality of therapy that matches their risk of relapse, risk of developing local versus systemic disease, and risk of dying of other causes.` ],
+        optionStyleType: `st-lower-alpha`,
+        answer: [4],
+        ansText: `Rationale: In the setting of biochemical recurrence following radical prostatectomy, patients’ risks of metastasis and death are variable (Pound et al., 1999). <b>Both metastasis-free and prostate-cancer survival depend on several factors such as Gleason score, PSA doubling time, and time from surgery to biochemical recurrence</b> (Antonarakis et al., 2012; Freedland et al., 2005, 2006). All of these factors must be considered in salvage therapies. Clearly, patients with significant comorbidities and limited life expectancy are not good candidates for salvage local therapies, and this should be taken into consideration. The use of nomograms to help in decision-making processes is paramount.`,
+        state: `notAnswered`,
+        userAnswered: []
+            ,
+        type: `MCSS`}
+    
+]
