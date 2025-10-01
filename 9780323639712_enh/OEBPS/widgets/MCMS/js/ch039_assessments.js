@@ -531,7 +531,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: ` <b>Pathology</b><br/><br/>A 2-year-old boy has a right nephrectomy following an automobile accident for a shattered kidney with uncontrollable bleeding. The histology depicted in <a href="6fae7b08543f4597b21eb50bda0c903b">Fig. 39.1</a> is reported as showing interstitial nephritis with cysts consistent with juvenile nephronophthisis. The next step in management is to:`,
+        q: ` <b>Pathology</b><br/><br/>A 2-year-old boy has a right nephrectomy following an automobile accident for a shattered kidney with uncontrollable bleeding. The histology depicted in <a class="lightboxcallout" img-ref="image_fig_39_1" href="6fae7b08543f4597b21eb50bda0c903b">Fig. 39.1</a> is reported as showing interstitial nephritis with cysts consistent with juvenile nephronophthisis. The next step in management is to:`,
         q2: ``,
         q3: [],
         option: [`have the pathologist reexamine the specimen for evidence of nephrogenic rests. `, 

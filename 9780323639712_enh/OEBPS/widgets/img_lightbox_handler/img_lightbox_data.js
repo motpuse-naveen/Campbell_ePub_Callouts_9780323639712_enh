@@ -16,6 +16,10 @@ const lightbox_image_Data = {
      image_fig_27_1: {
       imgPath: "../../IMAGES/B9780323639699000276/main.assets/f27-01-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 27.1</span>`
+    },
+     image_fig_39_1: {
+      imgPath: "../../IMAGES/B9780323639699000392/main.assets/f39-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 39.1</span>`
     }
   };
   
