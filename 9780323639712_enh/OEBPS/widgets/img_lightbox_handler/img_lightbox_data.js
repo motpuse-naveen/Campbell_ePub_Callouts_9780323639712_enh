@@ -13,5 +13,10 @@ const lightbox_image_Data = {
       imgPath: "../../IMAGES/B9780323639699000161/main.assets/f16-02-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 16.2</span> Management algorithm for patients with hemorrhagic cystitis. <span class="italic">HBOT</span>, Hyperbaric oxygen therapy; <span class="italic">Tx</span>, treatment; <span class="italic">UT</span>, upper tract.`
     }
+
+     image_fig_27_1: {
+      imgPath: "../../IMAGES/B9780323639699000276/main.assets/f27-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 27.1</span>`
+    }
   };
   

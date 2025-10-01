@@ -209,7 +209,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `The blood vessel most likely injured by Veress needle access at the umbilicus, as shown in `,
+        q: `The blood vessel most likely injured by Veress needle access at the umbilicus, as shown in <a class="lightboxcallout" img-ref="image_fig_27_1">Fig. 27.1</a> `,
         q2: ``,
         q3: [],
         option: [`left common iliac vein.`, 
