@@ -429,7 +429,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `<b>Pathology</b><br/><br/>A 32-year-old sexually active woman has the lesion in <a href="39259589595b4d4994b718abfc168557">Fig. 58.1A</a> and <a href="39259589595b4d4994b718abfc168557">B</a>  excised from her vulva. The diagnosis is condyloma acuminata. The most appropriate next step is:`,
+        q: `<b>Pathology</b><br/><br/>A 32-year-old sexually active woman has the lesion in <a class="lightboxcallout" img-ref="image_fig_58_1" href="39259589595b4d4994b718abfc168557">Fig. 58.1A</a> and <a class="lightboxcallout" img-ref="image_fig_58_1" href="39259589595b4d4994b718abfc168557">B</a>  excised from her vulva. The diagnosis is condyloma acuminata. The most appropriate next step is:`,
         q2: ``,
         q3: [],
         option: [`acetic acid test.`, 
@@ -445,7 +445,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 22-year-old sexually active man has a 2-mm raised red lesion in the suprapubic area. A biopsy is performed (depicted in <a href="76e9e1fdf68c43ff98eab6888ce1ed8f">Fig. 58.2</a>) and read as molluscum contagiosum. The patient is concerned and desires treatment. The most appropriate treatment is:`,
+        q: `A 22-year-old sexually active man has a 2-mm raised red lesion in the suprapubic area. A biopsy is performed (depicted in <a class="lightboxcallout" img-ref="image_fig_58_2" href="76e9e1fdf68c43ff98eab6888ce1ed8f">Fig. 58.2</a>) and read as molluscum contagiosum. The patient is concerned and desires treatment. The most appropriate treatment is:`,
         q2: ``,
         q3: [],
         option: [`wide local excision.`, 

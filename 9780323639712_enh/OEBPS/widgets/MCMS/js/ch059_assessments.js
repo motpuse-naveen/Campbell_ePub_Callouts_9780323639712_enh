@@ -697,7 +697,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 70-year-old uncircumcised man has noted an erythematous macular lesion on his glans at the corona. The pathology report of the biopsy (<a href="08152ae92ca54e1090d99f937237caee">Fig. 59.1</a>) reads plasma cell infiltrate consistent with Zoon balanitis. The next step in management is:`,
+        q: `A 70-year-old uncircumcised man has noted an erythematous macular lesion on his glans at the corona. The pathology report of the biopsy (<a class="lightboxcallout" img-ref="image_fig_59_1" href="08152ae92ca54e1090d99f937237caee">Fig. 59.1</a>) reads plasma cell infiltrate consistent with Zoon balanitis. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`ask the pathologist if these are CD4 cells consistent with exposure to HIV.`, 

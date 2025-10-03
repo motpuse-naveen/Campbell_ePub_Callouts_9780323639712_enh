@@ -56,6 +56,22 @@ const lightbox_image_Data = {
     image_fig_55_7: {
       imgPath: "../../IMAGES/B9780323639699000550/main.assets/f55-07-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 55.7</span>`
-    }
+    },
+     image_fig_58_1: {
+      imgPath: "../../IMAGES/B9780323639699000586/main.assets/f58-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 58.1</span> A and B. <br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 3, St. Louis, 2014, Saunders.</span>`
+    },
+    image_fig_58_2: {
+      imgPath: "../../IMAGES/B9780323639699000586/main.assets/f58-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 58.2</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 3, St. Louis, 2014, Saunders.</span>`
+    },
+     image_fig_59_1: {
+      imgPath: "../../IMAGES/B9780323639699000598/main.assets/f59-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 59.1</span>  <br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, 3rd ed, St. Louis, 2014, Saunders.</span>`
+    },
   };
   
