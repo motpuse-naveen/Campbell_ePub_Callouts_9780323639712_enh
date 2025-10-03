@@ -894,7 +894,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `<b>Pathology</b><br/><br/>See <a href="66157d28bbbe464394c96bd02ba3e731">Fig. 55.1</a>. A 65-year-old woman has the acute onset of right flank pain, fever, and an enlarged kidney on imaging. Blood cultures and urine cultures are obtained and broad-spectrum antibiotics administered. The patient improves, but the kidney on imaging remains enlarged. A needle biopsy of the kidney is obtained. The pathology report is acute pyelonephritis with numerous neutrophils within the interstitium and the renal tubules. The biopsy:`,
+        q: `<b>Pathology</b><br/><br/>See <a class="lightboxcallout" img-ref="image_fig_55_1" href="66157d28bbbe464394c96bd02ba3e731">Fig. 55.1</a>. A 65-year-old woman has the acute onset of right flank pain, fever, and an enlarged kidney on imaging. Blood cultures and urine cultures are obtained and broad-spectrum antibiotics administered. The patient improves, but the kidney on imaging remains enlarged. A needle biopsy of the kidney is obtained. The pathology report is acute pyelonephritis with numerous neutrophils within the interstitium and the renal tubules. The biopsy:`,
         q2: ``,
         q3: [],
         option: [`provides information as to the length of time antibiotics should be administered.`, 
@@ -910,7 +910,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 65-year-old man has fever and malaise. A CT scan reveals an 8-cm solid mass in his left kidney with marked thickening of the retroperitoneum around the kidney and pancreas. The kidney is poorly functioning and there is a 1-cm stone in the renal pelvis. A biopsy is done and reveals xanthogranulomatous pyelonephritis, which is depicted in <a href="d77b4060dd944bc5adf978cb44dd48ab">Fig. 55.2</a>. The next step in management is:`,
+        q: `A 65-year-old man has fever and malaise. A CT scan reveals an 8-cm solid mass in his left kidney with marked thickening of the retroperitoneum around the kidney and pancreas. The kidney is poorly functioning and there is a 1-cm stone in the renal pelvis. A biopsy is done and reveals xanthogranulomatous pyelonephritis, which is depicted in <a class="lightboxcallout" img-ref="image_fig_55_2" href="d77b4060dd944bc5adf978cb44dd48ab">Fig. 55.2</a>. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`extracorporeal shockwave lithotripsy.`, 
@@ -926,7 +926,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 45-year-old woman is found to have a raised bladder lesion on cystoscopy. The biopsy shown in <a href="92a1bc9146f845e7889360fd18c0ea11">Fig. 55.3</a> reveals malakoplakia. The next step in management is:`,
+        q: `A 45-year-old woman is found to have a raised bladder lesion on cystoscopy. The biopsy shown in <a class="lightboxcallout" img-ref="image_fig_55_3" href="92a1bc9146f845e7889360fd18c0ea11">Fig. 55.3</a> reveals malakoplakia. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`intravesical bacille Calmette-Guérin.`, 
@@ -936,13 +936,13 @@ var quiz = [
         `a 3-day course of ciprofloxacin.`],
         optionStyleType: `st-lower-alpha`,
         answer: [3],
-        ansText:`Rationale: <!--<b>d. Treat with a sulfonamide for several months.</b>--> <a href="92a1bc9146f845e7889360fd18c0ea11">Fig. 55.3A</a> shows von Hansemann histiocytes, and <a href="92a1bc9146f845e7889360fd18c0ea11">Fig. 55.3B</a> demonstrates the Michaelis-Gutmann bodies, both of which are characteristic of malakoplakia. It is thought to be infectious in origin, and therefore the treatment is an extended course of an antibiotic that achieves a high intracellular concentration.`, 
+        ansText:`Rationale: <!--<b>d. Treat with a sulfonamide for several months.</b>--> <a class="lightboxcallout" img-ref="image_fig_55_3" href="92a1bc9146f845e7889360fd18c0ea11">Fig. 55.3A</a> shows von Hansemann histiocytes, and <a class="lightboxcallout" img-ref="image_fig_55_3" href="92a1bc9146f845e7889360fd18c0ea11">Fig. 55.3B</a> demonstrates the Michaelis-Gutmann bodies, both of which are characteristic of malakoplakia. It is thought to be infectious in origin, and therefore the treatment is an extended course of an antibiotic that achieves a high intracellular concentration.`, 
         state: `notAnswered`,
         userAnswered: []
             ,
         type: `MCSS`},
     {
-        q: `<b>Imaging</b><br/><br/>A 72-year-old man presents with right flank pain and fever. A contrast-enhanced CT scan is shown in <a href="903c12e088ca4b46863beddcc39ba627">Fig. 55.4</a>. The most likely diagnosis is:`,
+        q: `<b>Imaging</b><br/><br/>A 72-year-old man presents with right flank pain and fever. A contrast-enhanced CT scan is shown in <a class="lightboxcallout" img-ref="image_fig_55_4" href="903c12e088ca4b46863beddcc39ba627">Fig. 55.4</a>. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`acute right renal obstruction.`, 
@@ -958,7 +958,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 40-year-old woman presents with pelvic pain and fever. A contrast-enhanced CT scan is shown in <a href="0b56c69280954ee7afbd4a55828564bd">Fig. 55.5</a>. The most likely diagnosis is:`,
+        q: `A 40-year-old woman presents with pelvic pain and fever. A contrast-enhanced CT scan is shown in <a class="lightboxcallout" img-ref="image_fig_55_5" href="0b56c69280954ee7afbd4a55828564bd">Fig. 55.5</a>. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`renal infarct.`, 
@@ -974,7 +974,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 22-year-old woman presents with shaking chills and fever. An enhanced CT image is shown in <a href="c4994b5430b14db2b93167b5d54d645b">Fig. 55.6</a>. The next step in management is:`,
+        q: `A 22-year-old woman presents with shaking chills and fever. An enhanced CT image is shown in <a class="lightboxcallout" img-ref="image_fig_55_6" href="c4994b5430b14db2b93167b5d54d645b">Fig. 55.6</a>. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`percutaneous drainage.`, 
@@ -990,7 +990,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 68-year-old diabetic woman presents to the emergency room with the chief complaint of abdominal pain. CT scan findings of her pelvis are shown in <a href="ecfc3bffdd0947a3a55cef87cc7b0806">Fig. 55.7</a>. The next step in her management is:`,
+        q: `A 68-year-old diabetic woman presents to the emergency room with the chief complaint of abdominal pain. CT scan findings of her pelvis are shown in <a class="lightboxcallout" img-ref="image_fig_55_7" href="ecfc3bffdd0947a3a55cef87cc7b0806">Fig. 55.7</a>. The next step in her management is:`,
         q2: ``,
         q3: [],
         option: [`inpatient antibiotics, Foley catheter placement, and glucose management`, 

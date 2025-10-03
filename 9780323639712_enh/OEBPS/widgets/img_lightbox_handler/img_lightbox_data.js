@@ -17,9 +17,45 @@ const lightbox_image_Data = {
       imgPath: "../../IMAGES/B9780323639699000276/main.assets/f27-01-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 27.1</span>`
     },
+    image_fig_36_1: {
+      imgPath: "../../IMAGES/B9780323639699000367/main.assets/f36-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 36.1</span>`
+    },
      image_fig_39_1: {
       imgPath: "../../IMAGES/B9780323639699000392/main.assets/f39-01-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 39.1</span>`
+    },
+    image_fig_51_1: {
+      imgPath: "../../IMAGES/B9780323639699000513/main.assets/f51-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 51.1</span>`
+    },
+    image_fig_55_1: {
+      imgPath: "../../IMAGES/B9780323639699000550/main.assets/f55-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 55.1</span>`
+    },
+    image_fig_55_2: {
+      imgPath: "../../IMAGES/B9780323639699000550/main.assets/f55-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 55.2</span>`
+    },
+    image_fig_55_3: {
+      imgPath: "../../IMAGES/B9780323639699000550/main.assets/f55-03-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 55.3</span>`
+    },
+    image_fig_55_4: {
+      imgPath: "../../IMAGES/B9780323639699000550/main.assets/f55-04-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 55.4</span>`
+    },
+    image_fig_55_5: {
+      imgPath: "../../IMAGES/B9780323639699000550/main.assets/f55-05-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 55.5</span>`
+    },
+    image_fig_55_6: {
+      imgPath: "../../IMAGES/B9780323639699000550/main.assets/f55-06-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 55.6</span>`
+    },
+    image_fig_55_7: {
+      imgPath: "../../IMAGES/B9780323639699000550/main.assets/f55-07-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 55.7</span>`
     }
   };
   

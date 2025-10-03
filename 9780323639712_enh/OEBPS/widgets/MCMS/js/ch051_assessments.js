@@ -139,7 +139,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `Twenty-four hours after removal of a ureteral stent, an 8-year-old boy has minimal urine output and develops right lower quadrant tenderness. Two months prior, he had a living related renal transplant following bilateral nephrectomies, radiation, chemotherapy, and surveillance for stage 5 Wilms tumors. A Foley catheter was placed, draining 5 mL of clear urine in 2 hours. He underwent urgent ultrasound evaluation (<a href="76581d20e58e485dbb53da8d7bc066b9">Fig. 51.1</a>). What is the next step in management?`,
+        q: `Twenty-four hours after removal of a ureteral stent, an 8-year-old boy has minimal urine output and develops right lower quadrant tenderness. Two months prior, he had a living related renal transplant following bilateral nephrectomies, radiation, chemotherapy, and surveillance for stage 5 Wilms tumors. A Foley catheter was placed, draining 5 mL of clear urine in 2 hours. He underwent urgent ultrasound evaluation (<a class="lightboxcallout" img-ref="image_fig_51_1" href="76581d20e58e485dbb53da8d7bc066b9">Fig. 51.1</a>). What is the next step in management?`,
         q2: ``,
         q3: [],
         option: [`Replacement of ureteral stent`, 
