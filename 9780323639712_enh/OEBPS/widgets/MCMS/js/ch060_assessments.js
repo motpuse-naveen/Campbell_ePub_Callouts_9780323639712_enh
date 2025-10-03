@@ -212,7 +212,7 @@ var quiz = [
         `the sporocyst.`],
         optionStyleType: `st-lower-alpha`,
         answer: [2],
-        ansText:`Rationale: <!--<b>c. The cercariae.</b>--> The worm and egg stages (<a href="7e6c3446967d4cafaf2c2ab77f637363">Fig. 60.1</a>) are found in chronically infected humans but are intravascular or deposited in tissues such as the bladder, respectively. Cercariae infect humans by burrowing through the skin, whereupon they transform into schistosomules.`, 
+        ansText:`Rationale: <!--<b>c. The cercariae.</b>--> The worm and egg stages (<a class="lightboxcallout" img-ref="image_fig_60_1" href="7e6c3446967d4cafaf2c2ab77f637363">Fig. 60.1</a>) are found in chronically infected humans but are intravascular or deposited in tissues such as the bladder, respectively. Cercariae infect humans by burrowing through the skin, whereupon they transform into schistosomules.`, 
         state: `notAnswered`,
         userAnswered: []
             ,
@@ -244,7 +244,7 @@ var quiz = [
         `the sporocyst.`],
         optionStyleType: `st-lower-alpha`,
         answer: [3],
-        ansText:`Rationale: <!--<b>d. The egg.</b>--> The majority of human tissue pathology caused by urogenital schistosomiasis is induced by the host immune response against <b><i>S. haematobium</i></b> eggs (see <a href="7e6c3446967d4cafaf2c2ab77f637363">Fig. 60.1</a>). In comparison to eggs, worms, schistosomules, and cercariae are much less immunogenic and are thought to correspondingly cause much less chronic tissue pathology.`, 
+        ansText:`Rationale: <!--<b>d. The egg.</b>--> The majority of human tissue pathology caused by urogenital schistosomiasis is induced by the host immune response against <b><i>S. haematobium</i></b> eggs (see <a class="lightboxcallout" img-ref="image_fig_60_1" href="7e6c3446967d4cafaf2c2ab77f637363">Fig. 60.1</a>). In comparison to eggs, worms, schistosomules, and cercariae are much less immunogenic and are thought to correspondingly cause much less chronic tissue pathology.`, 
         state: `notAnswered`,
         userAnswered: []
             ,
@@ -276,7 +276,7 @@ var quiz = [
         `urine egg counts.`],
         optionStyleType: `st-lower-alpha`,
         answer: [4],
-        ansText:`Rationale: <!--<b>e. Urine egg counts.</b>--> Although PCR and serology are highly sensitive for detecting infection, they are not considered first-line diagnostic modalities. Cystourethroscopy (<a href="0ffd060a876d4ae6906f04bdfb8967a1">Fig. 60.2</a>) with bladder biopsy and rectal biopsy are highly invasive and reserved for difficult-to-diagnose cases or suspected cancer. Microscopic enumeration of <b><i>S. haematobium</i></b> eggs shed in urine are the diagnostic, first-line gold standard (albeit slow and impractical in many field settings).`, 
+        ansText:`Rationale: <!--<b>e. Urine egg counts.</b>--> Although PCR and serology are highly sensitive for detecting infection, they are not considered first-line diagnostic modalities. Cystourethroscopy (<a class="lightboxcallout" img-ref="image_fig_60_2" href="0ffd060a876d4ae6906f04bdfb8967a1">Fig. 60.2</a>) with bladder biopsy and rectal biopsy are highly invasive and reserved for difficult-to-diagnose cases or suspected cancer. Microscopic enumeration of <b><i>S. haematobium</i></b> eggs shed in urine are the diagnostic, first-line gold standard (albeit slow and impractical in many field settings).`, 
         state: `notAnswered`,
         userAnswered: []
             ,

@@ -73,5 +73,60 @@ const lightbox_image_Data = {
       imgCaption: `<span class="fignum">Fig. 59.1</span>  <br/>
 <span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, 3rd ed, St. Louis, 2014, Saunders.</span>`
     },
+     image_fig_60_1: {
+      imgPath: "../../IMAGES/B9780323639699000604/main.assets/f60-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 60.1 Life cycle of a schistosome. <span class="italic">UTIs</span>, Urinary tract infections. From King CH. Schistosomiasis. In: Guerrant RL, Walker DH, Weller PF, editors. <span class="italic">Tropical infectious diseases, principles, pathogens, and practice</span>. 2nd ed. Philadelphia: Elsevier Churchill Livingstone; 2006.</span>`
+    },
+     image_fig_60_2: {
+      imgPath: "../../IMAGES/B9780323639699000604/main.assets/f60-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 60.2</span> Macroscopic appearance of human urinary schistosomiasis. (A) Urinary bladder opened with an anterior Y incision. The posterior and apical walls have many erythematous, granular, sessile, and pedunculated polyps <span class="italic">(arrow)</span>, characteristic of the early active stage of urinary schistosomiasis. (B) Coronal section through the apex of a formalin-fixed urinary bladder. The lamina propria has been expanded and is replaced by a yellow-tan, finely granular, sandy patch <span class="italic">(arrow)</span>, which is characteristic of chronic inactive foci. Small sandy patches are sprinkled through the fibrotic, atrophic detrusor muscle, even in perivesical fat. The more superficial erythematous portion of the lamina propria contains some viable eggs with granulomatous response (chronic active stage of urinary schistosomiasis). (C) Coronal section through the middle of a urinary bladder after formalin inflation and fixation. The lamina propria <span class="italic">(arrow)</span> has been replaced by a concentric sandy patch, most prominent at the margin of the exophytic, moderately differentiated squamous cell carcinoma. The bladder wall is attenuated except for the tumor <span class="italic">(t)</span>. No evidence of recent oviposition was found in the lower urinary tract (chronic inactive stage of urinary schistosomiasis, usually found with the bilharzial bladder cancer syndrome). (D) Urinary bladder opened with anterior Y incision shows several features of severe chronic inactive urinary schistosomiasis. The entire lamina propria has been replaced by a sandy patch. Foci of epidermization are seen at or near the white arrow. The left ureteral orifice <span class="italic">(right)</span> is markedly dilated (the so-called golf-hole ureter of schistosomal uropathy). The right ureteral orifice <span class="italic">(point of black arrow)</span> is markedly stenotic. (E) Rectosigmoid colon with polyposis. Numerous sessile and pedunculated polyps are seen. Many are erythematous, indicative of active oviposition with granuloma formation. Some have necrotic hemorrhagic tips. (F) Mucosal surface of partial cystectomy specimen (4- to 5-cm ellipse) from a patient with the chronic inactive stage of the disease. There is a stellate chronic schistosomal ulcer. Despite the inactivity of the disease, these ulcers may bleed profusely. Pale mucoid flecks at the margin of the ulcer <span class="italic">(arrow)</span> are areas of adenoid (goblet cell) metaplasia.`
+    },
+     image_fig_76_1: {
+      imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 76.1</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+    image_fig_76_2: {
+      imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 76.2</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+
+    image_fig_76_3: {
+      imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-03-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 76.3</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+    image_fig_76_4: {
+      imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-04-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 76.4</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+    image_fig_76_5: {
+      imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-05-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 76.5</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+    image_fig_76_6: {
+      imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-06-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 76.6</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+    image_fig_76_7: {
+      imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-07-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 76.7</span>`
+    },
+    image_fig_76_8: {
+      imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-08-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 76.8</span>`
+    },
+
+
   };
   

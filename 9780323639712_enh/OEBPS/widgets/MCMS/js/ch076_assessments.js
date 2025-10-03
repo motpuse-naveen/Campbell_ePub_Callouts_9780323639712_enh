@@ -485,7 +485,7 @@ var quiz = [
             ,
         type: `MCSS`},
      {
-        q: ` <b>Pathology</b><br/><br/>A 26-year-old man has a right radical orchiectomy for an embryonal carcinoma of the testis. At the time of surgery, a contralateral biopsy is performed and reveals intratubular germ cell neoplasia (<a href="19a446336ba24db0b63b6d419b214597">Fig. 76.1</a>). The patient should be advised that he: `,
+        q: ` <b>Pathology</b><br/><br/>A 26-year-old man has a right radical orchiectomy for an embryonal carcinoma of the testis. At the time of surgery, a contralateral biopsy is performed and reveals intratubular germ cell neoplasia (<a class="lightboxcallout" img-ref="image_fig_76_1" href="19a446336ba24db0b63b6d419b214597">Fig. 76.1</a>). The patient should be advised that he: `,
         q2: ``,
         q3: [],
         option: [` should have a radical orchiectomy. `, 
@@ -501,7 +501,7 @@ var quiz = [
             ,
         type: `MCSS`},
      {
-        q: ` A 35-year-old man has an asymptomatic right scrotal mass. Testicular ultrasonography reveals a 3-cm heterogeneous intratesticular mass. A right radical orchiectomy is performed. The histology is depicted in <a href="be21dc5f2c06489eb423baa43f10f603">Fig. 76.2</a> and is reported as seminoma. Abdominal CT scan is normal. The patient should be advised to: `,
+        q: ` A 35-year-old man has an asymptomatic right scrotal mass. Testicular ultrasonography reveals a 3-cm heterogeneous intratesticular mass. A right radical orchiectomy is performed. The histology is depicted in <a class="lightboxcallout" img-ref="image_fig_76_2" href="be21dc5f2c06489eb423baa43f10f603">Fig. 76.2</a> and is reported as seminoma. Abdominal CT scan is normal. The patient should be advised to: `,
         q2: ``,
         q3: [],
         option: [` receive radiation to the contralateral testis. `, 
@@ -517,7 +517,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: ` A 32-year-old man has a right radical orchiectomy for a testicular mass. Preoperatively, his AFP value was normal and his hCG level was elevated at 5000 units. The histology is depicted in <a href="370572d1a25c475db34f79cd527cfedd">Fig. 76.3</a> and is reported as seminoma with giant cells. The next step in management is: `,
+        q: ` A 32-year-old man has a right radical orchiectomy for a testicular mass. Preoperatively, his AFP value was normal and his hCG level was elevated at 5000 units. The histology is depicted in <a class="lightboxcallout" img-ref="image_fig_76_3" href="370572d1a25c475db34f79cd527cfedd">Fig. 76.3</a> and is reported as seminoma with giant cells. The next step in management is: `,
         q2: ``,
         q3: [],
         option: [` follow markers and check half-life. `, 
@@ -533,7 +533,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: ` A 50-year-old man has a right radical orchiectomy for a testicular mass. The histology is depicted in <a href="d2634fca4d454d05a81374f6fbd4a45a">Fig. 76.4</a> and is a spermatocytic tumor. Abdominal and chest CT are negative. Serum markers are normal. The patient should be advised to: `,
+        q: ` A 50-year-old man has a right radical orchiectomy for a testicular mass. The histology is depicted in <a class="lightboxcallout" img-ref="image_fig_76_4" href="d2634fca4d454d05a81374f6fbd4a45a">Fig. 76.4</a> and is a spermatocytic tumor. Abdominal and chest CT are negative. Serum markers are normal. The patient should be advised to: `,
         q2: ``,
         q3: [],
         option: [` receive radiation to the retroperitoneum. `, 
@@ -549,7 +549,7 @@ var quiz = [
             ,
         type: `MCSS`},
       {
-        q: ` A 20-year-old man has a right radical orchiectomy. The pathology is depicted in <a href="30160893c55849628f67af57f3151895">Fig. 76.5</a> and is read as embryonal carcinoma. His hCG and AFP values are elevated and a CT of abdomen and chest reveals no evidence of metastatic disease. Three weeks later, repeat AFP and hCG testing show no change in either marker. The patient should be advised to: `,
+        q: ` A 20-year-old man has a right radical orchiectomy. The pathology is depicted in <a class="lightboxcallout" img-ref="image_fig_76_5" href="30160893c55849628f67af57f3151895">Fig. 76.5</a> and is read as embryonal carcinoma. His hCG and AFP values are elevated and a CT of abdomen and chest reveals no evidence of metastatic disease. Three weeks later, repeat AFP and hCG testing show no change in either marker. The patient should be advised to: `,
         q2: ``,
         q3: [],
         option: [`have induction chemotherapy. `, 
@@ -565,7 +565,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: ` A 25-year-old man has a right radical orchiectomy. The histology is depicted in <a href="9cfe3a4bfadc427b8786aad50503ffdb">Fig. 76.6</a> and is reported as a mature teratoma. The patient’s AFP is slightly elevated and bHCG is negative; however, there is a 3-cm mass in the retroperitoneum on CT. He is given chemotherapy and the mass shrinks to 1.8 cm. The patient should be advised to: `,
+        q: ` A 25-year-old man has a right radical orchiectomy. The histology is depicted in <a class="lightboxcallout" img-ref="image_fig_76_6" href="9cfe3a4bfadc427b8786aad50503ffdb">Fig. 76.6</a> and is reported as a mature teratoma. The patient’s AFP is slightly elevated and bHCG is negative; however, there is a 3-cm mass in the retroperitoneum on CT. He is given chemotherapy and the mass shrinks to 1.8 cm. The patient should be advised to: `,
         q2: ``,
         q3: [],
         option: [`have a retroperitoneal lymphadenectomy dissection (RPLND).  `, 
@@ -581,7 +581,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: ` <b>Imaging</b><br/><br/>A 36-year-old man noted a firm left scrotal mass. He was hit in the groin 1 month earlier with a tennis ball. Currently he has no pain, fever, or chills. The testicular ultrasound image is depicted in <a href="85183aa62b524354a03434d7ac911142">Fig. 76.7</a>. The most likely diagnosis is: `,
+        q: ` <b>Imaging</b><br/><br/>A 36-year-old man noted a firm left scrotal mass. He was hit in the groin 1 month earlier with a tennis ball. Currently he has no pain, fever, or chills. The testicular ultrasound image is depicted in <a class="lightboxcallout" img-ref="image_fig_76_7" href="85183aa62b524354a03434d7ac911142">Fig. 76.7</a>. The most likely diagnosis is: `,
         q2: ``,
         q3: [],
         option: [` ruptured testis with peritesticular hematoma. `, 
@@ -597,7 +597,7 @@ var quiz = [
             ,
         type: `MCSS`},
       {
-        q: ` A 32-year-old man had a left radical orchiectomy. Pathologic evaluation reveals a mixed GCT containing seminoma and embryonal cell carcinoma. Tumor markers are negative. The CT image depicted in <a href="852ec57d68a94868a4091788b71dc5a2">Fig. 76.8</a> was obtained 1-day postoperation. Chest CT is negative. The next step in management is: `,
+        q: ` A 32-year-old man had a left radical orchiectomy. Pathologic evaluation reveals a mixed GCT containing seminoma and embryonal cell carcinoma. Tumor markers are negative. The CT image depicted in <a class="lightboxcallout" img-ref="image_fig_76_8" href="852ec57d68a94868a4091788b71dc5a2">Fig. 76.8</a> was obtained 1-day postoperation. Chest CT is negative. The next step in management is: `,
         q2: ``,
         q3: [],
         option: [`biopsy  `, 
