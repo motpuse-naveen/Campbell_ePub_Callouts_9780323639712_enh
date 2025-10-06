@@ -126,7 +126,26 @@ const lightbox_image_Data = {
       imgPath: "../../IMAGES/B9780323639699000768/main.assets/f76-08-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 76.8</span>`
     },
+ image_fig_77_1: {
+      imgPath: "../../IMAGES/B978032363969900077X/main.assets/f77-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 77.1</span> Computed tomography images of postchemotherapy residual retroperitoneal masses. (A) This patient could be considered a candidate for modified right template postchemotherapy retroperitoneal lymph node dissection (PC-RPLND). (B) This patient could be considered a candidate for modified left template PC-RPLND. (C) This patient would require an extensive bilateral PC-RPLND.`
+    },
+image_fig_87_1: {
+      imgPath: "../../IMAGES/B9780323639699000872/main.assets/f87-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 87.1</span>`
+    },
+    image_fig_89_1: {
+      imgPath: "../../IMAGES/B9780323639699000896/main.assets/f89-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 89.1</span>`
+    },
+image_fig_90_1: {
+      imgPath: "../../IMAGES/B9780323639699000902/main.assets/f90-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 90.1</span>`
+    },
 
-
+    image_fig_90_2: {
+      imgPath: "../../IMAGES/B9780323639699000902/main.assets/f90-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 90.2</span>`
+    },
   };
   

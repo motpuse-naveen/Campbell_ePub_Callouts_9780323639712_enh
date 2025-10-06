@@ -188,7 +188,7 @@ var quiz = [
 	type: `MCSS`        ,
         type: `MCSS`},
       {
-        q: `<b>Imaging</b><br/><br/>A 22-year-old woman has a CT scan (<a href="a9d5a5235f5d40beb05dec8ba4d50682">Fig. 90.1</a>) after a motor vehicle accident. Her vital signs are stable, and there are no other significant injuries.<br/><br/>The next step is:`,
+        q: `<b>Imaging</b><br/><br/>A 22-year-old woman has a CT scan (<a class="lightboxcallout" img-ref="image_fig_90_1" href="a9d5a5235f5d40beb05dec8ba4d50682">Fig. 90.1</a>) after a motor vehicle accident. Her vital signs are stable, and there are no other significant injuries.<br/><br/>The next step is:`,
         q2: ``,
         q3: [],
         option: [`open surgical repair of the kidney.`, 
@@ -210,7 +210,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `A 42-year-old man had a CT scan (<a href="491bb0cbcddf4841af0df4477e6daa0f">Fig. 90.2</a>) 36 hours after a motor vehicle accident. The most likely diagnosis is:`,
+        q: `A 42-year-old man had a CT scan (<a class="lightboxcallout" img-ref="image_fig_90_2" href="491bb0cbcddf4841af0df4477e6daa0f">Fig. 90.2</a>) 36 hours after a motor vehicle accident. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`ureteral injury.`, 

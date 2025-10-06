@@ -553,7 +553,7 @@ var quiz = [
       
 
       {
-        q: ` A 72-year-old man with malaise has this CT scan. The serum creatinine is mildly elevated. What is the best diagnosis?`,
+        q: ` see <a class="lightboxcallout" img-ref="image_fig_89_1">Fig. 89.1</a> A 72-year-old man with malaise has this CT scan. The serum creatinine is mildly elevated. What is the best diagnosis?`,
         q2: ``,
         q3: [],
         option: [`Retroperitoneal fibrosis`, 
