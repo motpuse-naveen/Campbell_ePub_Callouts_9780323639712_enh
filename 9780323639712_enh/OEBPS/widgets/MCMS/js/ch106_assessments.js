@@ -666,7 +666,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `<b>Pathology</b><br/><br/>A 60-year-old woman is noted to have a 4-cm left adrenal mass on an abdominal CT scan. The endocrine workup is negative, and the mass is excised laparoscopically. The pathology, depicted in <a href="8e2fa7538e7d4beca51939c93bfd6639">Fig. 106.1</a>, is reported as a myolipoma. The next step in management is:`,
+        q: `<b>Pathology</b><br/><br/>A 60-year-old woman is noted to have a 4-cm left adrenal mass on an abdominal CT scan. The endocrine workup is negative, and the mass is excised laparoscopically. The pathology, depicted in <a class="lightboxcallout" img-ref="image_fig_106_1" href="8e2fa7538e7d4beca51939c93bfd6639">Fig. 106.1</a>, is reported as a myolipoma. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`no additional therapy is indicated because this is a benign tumor.`, 
@@ -682,7 +682,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 45-year-old man has an incidentally discovered 6-cm adrenal mass. Hormonal workup is negative. The mass is laparoscopically removed. The pathology is depicted in <a href="af86dc97af664631bf7f39c581557896">Fig. 106.2</a> and is read as adrenal corticocarcinoma. On separate stains the lesion stains positive for Ki-67. The next step in management is:`,
+        q: `A 45-year-old man has an incidentally discovered 6-cm adrenal mass. Hormonal workup is negative. The mass is laparoscopically removed. The pathology is depicted in <a class="lightboxcallout" img-ref="image_fig_106_2" href="af86dc97af664631bf7f39c581557896">Fig. 106.2</a> and is read as adrenal corticocarcinoma. On separate stains the lesion stains positive for Ki-67. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`request a pathologic grade.`, 
@@ -698,7 +698,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `<b>Imaging</b><br/><br/>See <a href="43dbc7d11da145e48b3adcd0c8df9fc1">Fig. 106.3</a>. A 42-year-old man with lung cancer has this CT scan. The right adrenal nodule has attenuation measurements of 7 HU. The most likely diagnosis is:`,
+        q: `<b>Imaging</b><br/><br/>See <a class="lightboxcallout" img-ref="image_fig_106_3" href="43dbc7d11da145e48b3adcd0c8df9fc1">Fig. 106.3</a>. A 42-year-old man with lung cancer has this CT scan. The right adrenal nodule has attenuation measurements of 7 HU. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`adrenal adenoma.`, 

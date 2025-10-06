@@ -90,7 +90,7 @@ var quiz = [
 	type: `MCSS`        ,
         type: `MCSS`},
     {
-        q: `<b>Pathology</b><br/><br/>A 38-year-old woman has right flank pain and microscopic hematuria. Cytology is atypical. CT scan shows a mass in the distal right ureter with hydronephrosis. Cystoscopy is negative, and attempted ureteroscopy is unsuccessful. The distal ureter is excised, and the pathology is depicted in <a href="fc2d9b22024a42e79d6a319176e0dc22">Fig. 99.1</a> and is reported as endometriosis. The patient should be advised to:`,
+        q: `<b>Pathology</b><br/><br/>A 38-year-old woman has right flank pain and microscopic hematuria. Cytology is atypical. CT scan shows a mass in the distal right ureter with hydronephrosis. Cystoscopy is negative, and attempted ureteroscopy is unsuccessful. The distal ureter is excised, and the pathology is depicted in <a class="lightboxcallout" img-ref="image_fig_99_1" href="fc2d9b22024a42e79d6a319176e0dc22">Fig. 99.1</a> and is reported as endometriosis. The patient should be advised to:`,
         q2: ``,
         q3: [],
         option: [`have a diagnostic laparoscopy.`, 
@@ -112,7 +112,7 @@ var quiz = [
 	type: `MCSS`        ,
         type: `MCSS`},
     {
-        q: `A 60-year-old man has a right ureteral mass excised. The pathology is low-grade noninvasive transitional cell carcinoma (TCC) (<a href="ce3d59898a02407499973e3665c239ba">Fig. 99.2</a>). He has no prior history of upper tract disease or bladder cancer. Management should consist of:`,
+        q: `A 60-year-old man has a right ureteral mass excised. The pathology is low-grade noninvasive transitional cell carcinoma (TCC) (<a class="lightboxcallout" img-ref="image_fig_99_2" href="ce3d59898a02407499973e3665c239ba">Fig. 99.2</a>). He has no prior history of upper tract disease or bladder cancer. Management should consist of:`,
         q2: ``,
         q3: [],
         option: [`interval cystoscopies and cytology.`, 

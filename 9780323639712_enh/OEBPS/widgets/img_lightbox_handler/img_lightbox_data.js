@@ -147,5 +147,89 @@ image_fig_90_1: {
       imgPath: "../../IMAGES/B9780323639699000902/main.assets/f90-02-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 90.2</span>`
     },
+     image_fig_97_1: {
+      imgPath: "../../IMAGES/B9780323639699000975/main.assets/f97-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 97.1</span>`
+    },
+     image_fig_97_2: {
+      imgPath: "../../IMAGES/B9780323639699000975/main.assets/f97-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 97.2</span><br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, 2nd ed, Edinburgh, 2008, Mosby.</span>`
+    },
+     image_fig_97_3: {
+      imgPath: "../../IMAGES/B9780323639699000975/main.assets/f97-03-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 97.3</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L. <span class="italic">Urologic surgical pathology,</span> 2nd ed, Edinburgh, 2008, Mosby.</span>`
+    },
+     image_fig_97_4: {
+      imgPath: "../../IMAGES/B9780323639699000975/main.assets/f97-04-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 97.4</span>`
+    },
+     image_fig_97_5: {
+      imgPath: "../../IMAGES/B9780323639699000975/main.assets/f97-05-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 97.5</span>`
+    },
+     image_fig_97_6: {
+      imgPath: "../../IMAGES/B9780323639699000975/main.assets/f97-06-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 97.6</span>`
+    },
+
+    image_fig_99_1: {
+      imgPath: "../../IMAGES/B9780323639699000999/main.assets/f99-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 99.1</span> (From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology,</span> ed 2, Edinburgh, 2008, Mosby.)`
+    },
+
+    image_fig_99_2: {
+      imgPath: "../../IMAGES/B9780323639699000999/main.assets/f99-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 99.2</span> (From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology,</span> ed 2, Edinburgh, 2008, Mosby.)`
+    },
+     image_fig_106_1: {
+      imgPath: "../../IMAGES/B9780323639699001063/main.assets/f106-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 106.1</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+
+     image_fig_106_2: {
+      imgPath: "../../IMAGES/B9780323639699001063/main.assets/f106-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 106.2</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+
+     image_fig_106_3: {
+      imgPath: "../../IMAGES/B9780323639699001063/main.assets/f106-03-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 106.3</span>`
+    },
+
+     image_fig_112_1: {
+      imgPath: "../../IMAGES/B9780323639699001129/main.assets/f112-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 112.1</span> Visual comparison of systems used to quantify pelvic organ prolapse (POP). <span class="italic">AUGS</span>, American Urogynecologic Society; <span class="italic">ICS</span>, International Continence Society; SGS, Society of Gynecologic Surgeons. <br/>
+<span class="figcredit">From Theofrastous JP, Swift SE: The clinical evaluation of pelvic floor dysfunction. <span class="italic">Obstet Gynecol Clin North Am</span> 25:783–804, 1998.</span>`
+    },
+
+     image_fig_112_2: {
+      imgPath: "../../IMAGES/B9780323639699001129/main.assets/f112-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 112.2</span> (A) Landmarks for the POP-Q system. (B) POP-Q points of reference. A, From Bump RC, Mattiasson A, Bo K, et al: The standardization of terminology of female pelvic organ prolapse and pelvic floor dysfunction. <span class="italic">Am J Obstet Gynecol</span> 175:10–17, 1996.`
+    },
+
+    image_fig_113_1: {
+      imgPath: "../../IMAGES/B9780323639699001130/main.assets/f113-01a-9780323639699.jpg",
+       imgPath: "../../IMAGES/B9780323639699001130/main.assets/f113-01b-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 113.1</span>`
+    },
+
+    image_fig_129_1: {
+      imgPath: "../../IMAGES/B9780323639699001294/main.assets/f129-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 129.1</span>`
+    },
+
+    image_fig_130_1: {
+      imgPath: "../../IMAGES/B9780323639699001300/main.assets/f130-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 130.1</span> Endovaginal T2 MRI images. (A) Axial. (B) Coronal.`
+    },
+
+
   };
   

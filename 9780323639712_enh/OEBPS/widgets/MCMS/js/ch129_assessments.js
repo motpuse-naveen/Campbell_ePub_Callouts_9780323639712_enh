@@ -615,7 +615,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `<b>Imaging</b><br/><br/>See <a href="f375d475c82f408d897f097fa760e582">Fig. 129.1</a>. A 36-year-old woman presents with increased vaginal discharge 3 weeks after an abdominal hysterectomy. On the axial CT images in the delayed excretory phase, the most likely diagnosis is:`,
+        q: `<b>Imaging</b><br/><br/>See <a class="lightboxcallout" img-ref="image_fig_129_1" href="f375d475c82f408d897f097fa760e582">Fig. 129.1</a>. A 36-year-old woman presents with increased vaginal discharge 3 weeks after an abdominal hysterectomy. On the axial CT images in the delayed excretory phase, the most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`vesicovaginal fistula.`, 

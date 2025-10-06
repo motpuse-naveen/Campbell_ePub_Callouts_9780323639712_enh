@@ -411,7 +411,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `<b>Imaging</b><br/><br/>A 47-year-old woman presents with dribbling and recurrent UTIs; see <a href="caead372ceac4a278afe00eb1b2786cf">Fig. 130.1</a>.<br/><br/>The most likely diagnosis on this axial and coronal T2-weighted MRI done with an endovaginal coil is:`,
+        q: `<b>Imaging</b><br/><br/>A 47-year-old woman presents with dribbling and recurrent UTIs; see <a class="lightboxcallout" img-ref="image_fig_130_1" href="caead372ceac4a278afe00eb1b2786cf">Fig. 130.1</a>.<br/><br/>The most likely diagnosis on this axial and coronal T2-weighted MRI done with an endovaginal coil is:`,
         q2: ``,
         q3: [],
         option: [`bladder prolapse.`, 

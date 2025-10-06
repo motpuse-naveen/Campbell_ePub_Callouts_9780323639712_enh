@@ -67,7 +67,7 @@ var quiz = [
 	type: `MCSS`        ,
         type: `MCSS`},
     {
-        q: `According to the American Urological Association (AUA) guidelines (<a href="6f325cc2c2a84c03bbac08a2cf0fd221">Fig. 97.1</a>), recommended postoperative radiographic surveillance of the chest after radical nephrectomy for T1N0M0 RCC is:`,
+        q: `According to the American Urological Association (AUA) guidelines (<a class="lightboxcallout" img-ref="image_fig_97_1" href="6f325cc2c2a84c03bbac08a2cf0fd221">Fig. 97.1</a>), recommended postoperative radiographic surveillance of the chest after radical nephrectomy for T1N0M0 RCC is:`,
         q2: ``,
         q3: [],
         option: [`no imaging studies.`, 
@@ -347,7 +347,7 @@ var quiz = [
         ``],
         optionStyleType: `st-lower-alpha`,
         answer: [1],
-        ansText:`Rationale:<!--<b>b. Pazopanib and axitinib.</b>--> <b>Pazopanib and axitinib both target the VEGF pathway, and specifically the VEGF receptor, and are TKI.</b> Sunitinib and cabozantinib are also TKIs, and temsirolimus is an mTOR inhibitor. Pembrolizumab, atezolizumab, ipilimumab, and nivolumab are all checkpoint inhibitors (<a href="f50a58af242a496b83378f772d9ea8d7">Fig. 97.6</a>). Pembrolizumab and nivolumab block PD-1, while atezolizumab blocks PD-L1 and ipilimumab blocks CTLA-4. `, 
+        ansText:`Rationale:<!--<b>b. Pazopanib and axitinib.</b>--> <b>Pazopanib and axitinib both target the VEGF pathway, and specifically the VEGF receptor, and are TKI.</b> Sunitinib and cabozantinib are also TKIs, and temsirolimus is an mTOR inhibitor. Pembrolizumab, atezolizumab, ipilimumab, and nivolumab are all checkpoint inhibitors (<a class="lightboxcallout" img-ref="image_fig_97_6" href="f50a58af242a496b83378f772d9ea8d7">Fig. 97.6</a>). Pembrolizumab and nivolumab block PD-1, while atezolizumab blocks PD-L1 and ipilimumab blocks CTLA-4. `, 
         state: `notAnswered`,
         userAnswered: [],
     
@@ -1497,7 +1497,7 @@ var quiz = [
     
         type: `MCSS`},
     {
-        q: `<b>Pathology</b><br/><br/>A 49-year-old man has a biopsy of a peripheral lower pole exophytic 4-cm mass of the right kidney. The histology is depicted in <a href="a0d566c96f014e61a0e930d348baccbc">Fig. 97.2</a> and is read as clear cell carcinoma. Metastatic workup is negative. He should be advised to:`,
+        q: `<b>Pathology</b><br/><br/>A 49-year-old man has a biopsy of a peripheral lower pole exophytic 4-cm mass of the right kidney. The histology is depicted in <a class="lightboxcallout" img-ref="image_fig_97_2" href="a0d566c96f014e61a0e930d348baccbc">Fig. 97.2</a> and is read as clear cell carcinoma. Metastatic workup is negative. He should be advised to:`,
         q2: ``,
         q3: [],
         option: [`receive targeted chemotherapy.`, 
@@ -1519,7 +1519,7 @@ var quiz = [
     
         type: `MCSS`},
     {
-        q: `<!--2. -->A 48-year-old woman has a right radical nephrectomy for a 6-cm mass. Preoperative metastatic workup was negative. The pathology is illustrated in <a href="2457a5812d8a4b098f2775608d0b8822">Fig. 97.3</a> and is read as collecting duct carcinoma. She should be advised to:`,
+        q: `<!--2. -->A 48-year-old woman has a right radical nephrectomy for a 6-cm mass. Preoperative metastatic workup was negative. The pathology is illustrated in <a class="lightboxcallout" img-ref="image_fig_97_3" href="2457a5812d8a4b098f2775608d0b8822">Fig. 97.3</a> and is read as collecting duct carcinoma. She should be advised to:`,
         q2: ``,
         q3: [],
         option: [`receive targeted chemotherapy.`, 
@@ -1541,7 +1541,7 @@ var quiz = [
     
         type: `MCSS`},
     {
-        q: `<b>Imaging</b><br/><br/>See <a href="e58d8c427a0044eca60b7bd473ef481c">Fig. 97.4</a>. A 55-year-old man with hematuria has this contrast-enhanced CT scan for evaluation. The most appropriate therapy is:`,
+        q: `<b>Imaging</b><br/><br/>See <a class="lightboxcallout" img-ref="image_fig_97_4" href="e58d8c427a0044eca60b7bd473ef481c">Fig. 97.4</a>. A 55-year-old man with hematuria has this contrast-enhanced CT scan for evaluation. The most appropriate therapy is:`,
         q2: ``,
         q3: [],
         option: [`laparoscopic nephron-sparing surgery.`, 
@@ -1563,7 +1563,7 @@ var quiz = [
     
         type: `MCSS`},
     {
-        q: `See <a href="e072857a89304e01b0d846bfa900b927">Fig. 97.5</a>. A 45-year-old man with no urinary symptoms has this axial contrast-enhanced CT scan. What is the most likely diagnosis?`,
+        q: `See <a class="lightboxcallout" img-ref="image_fig_97_5" href="e072857a89304e01b0d846bfa900b927">Fig. 97.5</a>. A 45-year-old man with no urinary symptoms has this axial contrast-enhanced CT scan. What is the most likely diagnosis?`,
         q2: ``,
         q3: [],
         option: [`Bosniak II-F lesion`, 
