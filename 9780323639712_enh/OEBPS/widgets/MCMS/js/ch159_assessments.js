@@ -193,7 +193,7 @@ var quiz = [
         userAnswered: []
             ,
         type: `MCSS`},{
-        q: `<b>Imaging</b> A 65-year-old man underwent a radical retropubic prostatectomy 4 years ago for a pT3a N0 Gleason 8 adenocarcinoma of the prostate. Two years postoperatively, his PSA first became detectable and has slowly risen since then to its current value of 1.2 ng/mL. A computed tomography (CT) scan of the pelvis is obtained and is depicted in <a href="b39cea5ea5144c4bb16e59e1ed4d65ad">Fig. 159.1</a>. The most likely diagnosis is:`,
+        q: `<b>Imaging</b> A 65-year-old man underwent a radical retropubic prostatectomy 4 years ago for a pT3a N0 Gleason 8 adenocarcinoma of the prostate. Two years postoperatively, his PSA first became detectable and has slowly risen since then to its current value of 1.2 ng/mL. A computed tomography (CT) scan of the pelvis is obtained and is depicted in <a class="lightboxcallout" img-ref="image_fig_159_1" href="b39cea5ea5144c4bb16e59e1ed4d65ad">Fig. 159.1</a>. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`<!--a. -->retained seminal vesicle.`,

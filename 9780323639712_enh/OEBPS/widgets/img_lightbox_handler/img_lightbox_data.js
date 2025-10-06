@@ -229,6 +229,64 @@ image_fig_90_1: {
       imgPath: "../../IMAGES/B9780323639699001300/main.assets/f130-01-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 130.1</span> Endovaginal T2 MRI images. (A) Axial. (B) Coronal.`
     },
+image_fig_135_1: {
+      imgPath: "../../IMAGES/B978032363969900135X/main.assets/f135-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 135.1</span> <br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Mosby, 2008, Edinburgh.</span>`
+    },
+
+    image_fig_135_2: {
+      imgPath: "../../IMAGES/B978032363969900135X/main.assets/f135-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 135.2</span> <br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Mosby, 2008, Edinburgh.</span>`
+    },
+
+    image_fig_135_3: {
+      imgPath: "../../IMAGES/B978032363969900135X/main.assets/f135-03-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 135.3</span>`
+    },
+
+    image_fig_135_4: {
+      imgPath: "../../IMAGES/B978032363969900135X/main.assets/f135-04-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 135.4</span>`
+    },
+ image_fig_150_1: {
+      imgPath: "../../IMAGES/B9780323639699001506/main.assets/f150-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 150.1</span>`
+    },
+
+     image_fig_150_2: {
+      imgPath: "../../IMAGES/B9780323639699001506/main.assets/f150-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 150.2</span>
+<br/>
+<span class="figcredit">From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology,</span> ed 2, Edinburgh, 2008, Mosby.</span>`
+    },
+image_fig_151_1: {
+      imgPath: "../../IMAGES/B9780323639699001518/main.assets/f151-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 151.1</span> (From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.)`
+    },
+
+    image_fig_151_1: {
+      imgPath: "../../IMAGES/B9780323639699001518/main.assets/f151-02-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 151.2</span> (From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.)`
+    },
+
+     image_fig_152_1: {
+      imgPath: "../../IMAGES/B978032363969900152X/main.assets/f152-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 152.1</span> (A) T2-weighted axial image of prostate MRI with endorectal coil. (B) MRI image A, diffusion weighted. (C) MRI image A with dynamic contrast enhancement.`
+    },
+
+ image_fig_157_1: {
+      imgPath: "../../IMAGES/B9780323639699001579/main.assets/f157-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 157.1</span>`
+    },
+
+    image_fig_159_1: {
+      imgPath: "../../IMAGES/B9780323639699001592/main.assets/f159-01-9780323639699.jpg",
+      imgCaption: `<span class="fignum">Fig. 159.1</span> Computed Tomography Scan of Pelvis.`
+    }
+
+    
 
 
   };

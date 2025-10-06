@@ -708,7 +708,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `<!--1. --><b>Pathology</b><br/><br/>A 70-year-old man has microscopic hematuria. Cytology and computed tomography (CT) scan are negative. Cystoscopy reveals a raised 3-mm lesion on the trigone. The lesion is biopsied and is depicted in <a href="83dc673001d14b4493acf37fbd172db4">Fig. 135.1A</a> and <a href="83dc673001d14b4493acf37fbd172db4">B</a>, and is reported as adenocarcinoma. The next step in management is:`,
+        q: `<!--1. --><b>Pathology</b><br/><br/>A 70-year-old man has microscopic hematuria. Cytology and computed tomography (CT) scan are negative. Cystoscopy reveals a raised 3-mm lesion on the trigone. The lesion is biopsied and is depicted in <a class="lightboxcallout" img-ref="image_fig_135_1" href="83dc673001d14b4493acf37fbd172db4">Fig. 135.1A</a> and <a class="lightboxcallout" img-ref="image_fig_135_1" href="83dc673001d14b4493acf37fbd172db4">B</a>, and is reported as adenocarcinoma. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`<!--a. -->review the pathology slides with the pathologist.`, 
@@ -725,7 +725,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `<!--2. -->A 65-year-old man has gross hematuria. He has a history of tuberculosis. Cytology is suspicious, CT scan is normal, and cystoscopy reveals a papillary lesion cephalad to the trigone. The lesion is visually completely resected (<a href="f219db573b1a42a5923efe768193f121">Fig. 135.2</a>) and is reported as high-grade invasive urothelial carcinoma. The next step in management is:`,
+        q: `<!--2. -->A 65-year-old man has gross hematuria. He has a history of tuberculosis. Cytology is suspicious, CT scan is normal, and cystoscopy reveals a papillary lesion cephalad to the trigone. The lesion is visually completely resected (<a class="lightboxcallout" img-ref="image_fig_135_2" href="f219db573b1a42a5923efe768193f121">Fig. 135.2</a>) and is reported as high-grade invasive urothelial carcinoma. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`<!--a. -->intravesical BCG.`, 
@@ -742,7 +742,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `<!--1. --><b>Imaging</b><br/><br/>See <a href="ec874f98aa6a4190bc641e6be77f3e27">Fig. 135.3</a>. The depicted findings have an association with:`,
+        q: `<!--1. --><b>Imaging</b><br/><br/>See <a class="lightboxcallout" img-ref="image_fig_135_3" href="ec874f98aa6a4190bc641e6be77f3e27">Fig. 135.3</a>. The depicted findings have an association with:`,
         q2: ``,
         q3: [],
         option: [`<!--a. -->bladder carcinoma.`, 
@@ -759,7 +759,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `<!--2. --><a href="54c31ddc65244664a6bcfe5ffb80b498">Fig. 135.4A</a> is a delayed contrast-enhanced image through the pelvic ureters, and <a href="54c31ddc65244664a6bcfe5ffb80b498">Fig. 135.4B</a> is an early contrast-enhanced image through the bladder. The next step in management is:`,
+        q: `<!--2. --><a class="lightboxcallout" img-ref="image_fig_135_4" href="54c31ddc65244664a6bcfe5ffb80b498">Fig. 135.4A</a> is a delayed contrast-enhanced image through the pelvic ureters, and <a href="54c31ddc65244664a6bcfe5ffb80b498">Fig. 135.4B</a> is an early contrast-enhanced image through the bladder. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`<!--a. -->shockwave lithotripsy.`, 

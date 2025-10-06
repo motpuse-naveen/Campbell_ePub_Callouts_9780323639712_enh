@@ -370,7 +370,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `A 62-year-old man with a PSA of 4.5 ng/dL has this axial T2-weighted endorectal coil MRI. The most likely diagnosis is:`,
+        q: `See <a class="lightboxcallout" img-ref="image_fig_150_1">Fig. 150.1</a> A 62-year-old man with a PSA of 4.5 ng/dL has this axial T2-weighted endorectal coil MRI. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`extracapsular spread of prostate cancer.`, 
@@ -392,7 +392,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `<b>Pathology</b><br/><br/>A 52-year-old black male whose father died of prostate cancer has a PSA of 3 ng/mL for which he has a 12-core biopsy. The pathology on 8 of the cores is benign; however, 4 of the cores were read as normal seminal vesicle without prostate tissue, the pathology of which is depicted in <a href="0c33969ca10845e0b1e937fcb408357a">Fig. 150.2</a>. The next step in management is:`,
+        q: `<b>Pathology</b><br/><br/>A 52-year-old black male whose father died of prostate cancer has a PSA of 3 ng/mL for which he has a 12-core biopsy. The pathology on 8 of the cores is benign; however, 4 of the cores were read as normal seminal vesicle without prostate tissue, the pathology of which is depicted in <a class="lightboxcallout" img-ref="image_fig_150_2" href="0c33969ca10845e0b1e937fcb408357a">Fig. 150.2</a>. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`inquire as to the presence of lipofuscin because it is not shown on this slide to confirm that it is seminal vesicle.`, 

@@ -255,7 +255,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `A 55-year-old man with a family history of prostate cancer had a 12-core prostate biopsy 1 year ago for a PSA of 2.6 ng/mL. Currently his PSA is 2.7 ng/mL and his DRE reveals a smooth soft minimally enlarged prostate with no nodules or firm areas. Prostate magnetic resonance imaging (MRI) is obtained and is depicted in <a href="28444d23c68f49eaaa4831e4c56b979e">Fig. 152.1A</a>: T2-weighted axial image of the prostate; <a href="28444d23c68f49eaaa4831e4c56b979e">Fig. 152.1B</a>: diffusion-weighted image of panel A; and <a href="28444d23c68f49eaaa4831e4c56b979e">Fig. 152.1C</a>: dynamic contrast enhancement image of 1A. The patient should be:`,
+        q: `A 55-year-old man with a family history of prostate cancer had a 12-core prostate biopsy 1 year ago for a PSA of 2.6 ng/mL. Currently his PSA is 2.7 ng/mL and his DRE reveals a smooth soft minimally enlarged prostate with no nodules or firm areas. Prostate magnetic resonance imaging (MRI) is obtained and is depicted in <a class="lightboxcallout" img-ref="image_fig_152_1" href="28444d23c68f49eaaa4831e4c56b979e">Fig. 152.1A</a>: T2-weighted axial image of the prostate; <a class="lightboxcallout" img-ref="image_fig_152_1" href="28444d23c68f49eaaa4831e4c56b979e">Fig. 152.1B</a>: diffusion-weighted image of panel A; and <a class="lightboxcallout" img-ref="image_fig_152_1" href="28444d23c68f49eaaa4831e4c56b979e">Fig. 152.1C</a>: dynamic contrast enhancement image of 1A. The patient should be:`,
         q2: ``,
         q3: [],
         option: [` reassured and scheduled for yearly PSA and rectal examination.`, 

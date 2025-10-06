@@ -126,7 +126,7 @@ var quiz = [
     ,
 	type: `MCSS`        ,
         type: `MCSS`},{
-        q: `<b>Imaging</b><br/><br/>A voiding cystourethrogram on a 72-year-old man who presents with urinary tract infections 2 years after combination external beam radiation therapy and brachytherapy for prostate cancer is depicted in <a href="5ac004e9b57e4d548b4b1c5a8d6d87ae">Fig. 157.1</a>. The most likely diagnosis is:`,
+        q: `<b>Imaging</b><br/><br/>A voiding cystourethrogram on a 72-year-old man who presents with urinary tract infections 2 years after combination external beam radiation therapy and brachytherapy for prostate cancer is depicted in <a class="lightboxcallout" img-ref="image_fig_157_1" href="5ac004e9b57e4d548b4b1c5a8d6d87ae">Fig. 157.1</a>. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`<!--a. -->brachytherapy seed migration.`,
