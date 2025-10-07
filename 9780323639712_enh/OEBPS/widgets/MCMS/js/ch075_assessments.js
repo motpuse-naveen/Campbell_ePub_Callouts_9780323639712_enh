@@ -322,7 +322,7 @@ var quiz = [
         `Knee flexion `],
         optionStyleType: `st-lower-alpha`,
         answer: [0],
-        ansText: `Rationale: The obturator nerve innervates the muscles of the medial thigh compartment. These include the gracilis, adductor longus, adductor brevis, adductor magnus, and obturator externus muscles. The muscles function to adduct and rotate the thigh at the hip joint. `,
+        ansText: `Rationale: The obturator nerve innervates the muscles of the medial thigh compartment. These include the gracilis, adductor longus, adductor brevis, adductor magnus, and obturator externus muscles. The muscles function to adduct and rotate the thigh at the hip joint.`,
         state: `notAnswered`,
         userAnswered: []
             ,

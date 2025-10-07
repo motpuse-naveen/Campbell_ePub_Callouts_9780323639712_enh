@@ -370,7 +370,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `See <a class="lightboxcallout" img-ref="image_fig_150_1">Fig. 150.1</a> A 62-year-old man with a PSA of 4.5 ng/dL has this axial T2-weighted endorectal coil MRI. The most likely diagnosis is:`,
+        q: `See <a class="lightboxcallout" img-ref="image_fig_150_1" href="#">Fig. 150.1</a> A 62-year-old man with a PSA of 4.5 ng/dL has this axial T2-weighted endorectal coil MRI. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`extracapsular spread of prostate cancer.`, 

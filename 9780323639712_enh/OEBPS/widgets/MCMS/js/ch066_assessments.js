@@ -210,7 +210,58 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `<!--12. -->The serum hormonal pattern commonly observed in male obesity is:`,
+        q: `<!--12. -->The serum hormonal pattern commonly observed in male obesity is: <br/> <div xmlns:tnq="http://www.tnq.co.in/epub3/" class="pageavoid">
+<p class="tnum"/>
+<div class="big_device">
+<table id="t0010" class="tbody">
+<thead>
+<tr>
+<th scope="col" class="tcolhd1"/>
+<th scope="col" class="tcolhd1">Testosterone</th>
+<th scope="col" class="tcolhd1">Sex Hormone–Binding Globulin (SHBG)</th>
+<th scope="col" class="tcolhd1">Estradiol</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row" class="tb">a.</th>
+<td class="tb">↓</td>
+<td class="tb">↓</td>
+<td class="tb">↓</td>
+</tr>
+<tr>
+<th scope="row" class="tb">b.</th>
+<td class="tb">↓</td>
+<td class="tb">↓</td>
+<td class="tb">↑</td>
+</tr>
+<tr>
+<th scope="row" class="tb">c.</th>
+<td class="tb">↓</td>
+<td class="tb">↑</td>
+<td class="tb">↓</td>
+</tr>
+<tr>
+<th scope="row" class="tb">d.</th>
+<td class="tb">↓</td>
+<td class="tb">↑</td>
+<td class="tb">↑</td>
+</tr>
+<tr>
+<th scope="row" class="tb">e.</th>
+<td class="tb">↑</td>
+<td class="tb">↑</td>
+<td class="tb">↑</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="small_device">
+<p class="table_fig">
+<img src="B9780323639699000665_t0010_0.png" alt="image"/>
+</p>
+</div>
+</div>`,
         q2: ``,
         q3: [],
         option: [`a`, 

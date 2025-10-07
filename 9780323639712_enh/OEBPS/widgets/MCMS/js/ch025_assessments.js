@@ -690,26 +690,26 @@ var quiz = [
         type: `MCSS`},
       
 
-      //{
-      //q: `Which of the following defines a UTI?`,
-       //q2: ``,
-        //q3: [],
-        //option: [`If a suprapubic aspiration was performed, then recovery of any organisms defines a UTI.`, 
-        //`For catheterized specimens, recovery of at least 10,000 CFU/mL is required to define a UTI.`, 
-        //`If the specimen was collected via a clean catch method, 50,000 CFU/mL are required.`, 
-        //` If a suprapubic aspiration was performed, then recovery of at least 10,000 CFU/mL organisms defines a UTI.`, 
-        //`No matter how the culture is collected, the presence of 10,000 CFU/mL defines a UTI. `,
-        //],
-        //optionFeedback: [``,
-          //``,
-          //``,
-          //``,
-          //``],
-        //optionStyleType: `st-lower-alpha`,
-        //answer: [0],
-        //ansText: `Rationale: For catheterized specimens, recovery of at least 50,000 CFU/mL is required to define a UTI, and 100,000 CFU/mL are required if the specimen was collected via a clean catch method. `,
-        //state: `notAnswered`,
-        //userAnswered: []
-      //},
+      {
+      q: `Which of the following defines a UTI?`,
+       q2: ``,
+        q3: [],
+        option: [`If a suprapubic aspiration was performed, then recovery of any organisms defines a UTI.`, 
+        `For catheterized specimens, recovery of at least 10,000 CFU/mL is required to define a UTI.`, 
+        `If the specimen was collected via a clean catch method, 50,000 CFU/mL are required.`, 
+        ` If a suprapubic aspiration was performed, then recovery of at least 10,000 CFU/mL organisms defines a UTI.`, 
+        `No matter how the culture is collected, the presence of 10,000 CFU/mL defines a UTI. `,
+        ],
+        optionFeedback: [``,
+          ``,
+          ``,
+          ``,
+          ``],
+        optionStyleType: `st-lower-alpha`,
+        answer: [0],
+        ansText: `Rationale: For catheterized specimens, recovery of at least 50,000 CFU/mL is required to define a UTI, and 100,000 CFU/mL are required if the specimen was collected via a clean catch method. `,
+        state: `notAnswered`,
+        userAnswered: []
+      },
 
 ]
