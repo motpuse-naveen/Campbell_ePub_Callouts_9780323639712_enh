@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
 <head>
@@ -1549,13 +1548,13 @@
 <navLabel>
 <text>Imaging</text>
 </navLabel>
-<content src="XHTML/B9780323639699000768/B9780323639699000768.xhtml#s0020"/>
+<content src="XHTML/B9780323639699000768/B9780323639699000768.xhtml#s0025"/>
 </navPoint>
 <navPoint id="toc258" playOrder="258">
 <navLabel>
 <text>Answers</text>
 </navLabel>
-<content src="XHTML/B9780323639699000768/B9780323639699000768.xhtml#s0025"/>
+<content src="XHTML/B9780323639699000768/B9780323639699000768.xhtml#s0026"/>
 </navPoint>
 <navPoint id="toc259" playOrder="259">
 <navLabel>
