@@ -148,7 +148,7 @@ var quiz = [
 
 
     {
-        q: `See <a class="lightboxcallout" img-ref="image_fig_151_1" href="#">Fig. 151.2</a> A 55-year-old man has a prostate biopsy depicted in the figure for a PSA of 4.5 and is reported as adenocarcinoma. The next step in management is: `,
+        q: `See <a class="lightboxcallout" img-ref="image_fig_151_2" href="#">Fig. 151.2</a> A 55-year-old man has a prostate biopsy depicted in the figure for a PSA of 4.5 and is reported as adenocarcinoma. The next step in management is: `,
         q2: ``,
         q3: [],
         option: [`ask the pathologist for a Gleason score and volume of cancer. `, 
