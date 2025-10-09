@@ -429,7 +429,7 @@ var quiz = [
             ,
         type: `MCSS`},
     {
-        q: `<b>Pathology</b><br/><br/>A 32-year-old sexually active woman has the lesion in <a class="lightboxcallout" img-ref="image_fig_58_1" href="39259589595b4d4994b718abfc168557">Fig. 58.1A</a> and <a class="lightboxcallout" img-ref="image_fig_58_1" href="39259589595b4d4994b718abfc168557">B</a>  excised from her vulva. The diagnosis is condyloma acuminata. The most appropriate next step is:`,
+        q: `<b>Pathology</b><br/><br/>A 32-year-old sexually active woman has the lesion in <a class="lightboxcallout" img-ref="image_fig_58_1" href="39259589595b4d4994b718abfc168557">Fig. 58.1A</a> and B excised from her vulva. The diagnosis is condyloma acuminata. The most appropriate next step is:`,
         q2: ``,
         q3: [],
         option: [`acetic acid test.`, 
