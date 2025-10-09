@@ -759,7 +759,7 @@ var quiz = [
               ,
         type: `MCSS`},
       {
-        q: `<!--2. --><a class="lightboxcallout" img-ref="image_fig_135_4" href="54c31ddc65244664a6bcfe5ffb80b498">Fig. 135.4A</a> is a delayed contrast-enhanced image through the pelvic ureters, and <a href="54c31ddc65244664a6bcfe5ffb80b498">Fig. 135.4B</a> is an early contrast-enhanced image through the bladder. The next step in management is:`,
+        q: `<!--2. --><a class="lightboxcallout" img-ref="image_fig_135_4" href="54c31ddc65244664a6bcfe5ffb80b498">Fig. 135.4A</a> is a delayed contrast-enhanced image through the pelvic ureters, and <a class="lightboxcallout" img-ref="image_fig_135_4" href="54c31ddc65244664a6bcfe5ffb80b498">Fig. 135.4B</a> is an early contrast-enhanced image through the bladder. The next step in management is:`,
         q2: ``,
         q3: [],
         option: [`<!--a. -->shockwave lithotripsy.`, 
