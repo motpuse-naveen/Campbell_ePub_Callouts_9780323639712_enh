@@ -10,6 +10,16 @@ const lightboxCSS = `
   justify-content: center;
   align-items: center;
 }
+.html_lightbox {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.8);
+  justify-content: center;
+  align-items: center;
+}
 .img_lightbox .figwrapper {
     max-width: 90%;
     text-align: center;
@@ -20,6 +30,16 @@ const lightboxCSS = `
     border-radius: 8px;
     position: relative;
     height: 86%;
+}
+.img_lightbox .htmlwrapper {
+  max-width: 90%;
+  padding: 10px;
+  padding-top: 45px;
+  background: #FFFFFF;
+  box-shadow: 0 0 10px #000;
+  border-radius: 8px;
+  position: relative;
+  height: 86%;
 }
 .img_lightbox .figwrapper figure {
   overflow: auto;
@@ -38,7 +58,7 @@ const lightboxCSS = `
   line-height: 1.4;
   text-align: left;
 }
-.img_lightbox .figwrapper .close {
+.img_lightbox .figwrapper .close, .img_lightbox .htmlwrapper .close {
     position: absolute;
     top: 5px;
     right: 10px;
@@ -74,15 +94,57 @@ function openLightbox(ref) {
     const existing = document.querySelector(".lightbox");
     if (existing) existing.remove();
   
+    const tempDiv = document.createElement("div");
+    tempDiv.innerHTML = data.imgCaption;
+    const imgAlt = tempDiv.textContent || tempDiv.innerText || "";
+
     // Create new lightbox
     const lightbox = document.createElement("div");
     lightbox.className = "img_lightbox";
     lightbox.innerHTML = `<div class="figwrapper">    
         <button class="close" aria-label="Close Image Lightbox">Close</button>
         <figure>          
-          <img src="${data.imgPath}" alt="${ref}"/>
+          <img src="${data.imgPath}" alt="${imgAlt}"/>
           <figcaption>${data.imgCaption}</figcaption>
         </figure>
+      </div>  
+    `;
+    document.body.appendChild(lightbox);
+    lightbox.style.display = "flex";
+
+    // Close actions
+    const close = lightbox.querySelector(".close");
+    close.focus();
+    close.addEventListener("click", () => lightbox.remove());
+    lightbox.addEventListener("click", (ev) => {
+      if (ev.target === lightbox) lightbox.remove();
+    });
+    document.addEventListener("keydown", function escHandler(ev) {
+      if (ev.key === "Escape") {
+        lightbox.remove();
+        document.removeEventListener("keydown", escHandler);
+      }
+    });
+  }
+
+function openHtmlCallout(ref){
+  injectLightboxCSS(); // ensure CSS is added once
+  
+    const data = lightbox_image_Data[ref];
+    if (!data) return;
+  
+    // Remove old lightbox if exists
+    const existing = document.querySelector(".lightbox");
+    if (existing) existing.remove();
+
+    // Create new lightbox
+    const lightbox = document.createElement("div");
+    lightbox.className = "img_lightbox";
+    lightbox.innerHTML = `<div class="htmlwrapper">    
+        <button class="close" aria-label="Close Image Lightbox">Close</button>
+        <div>          
+          ${data.tableHtml}
+        </div>
       </div>  
     `;
     document.body.appendChild(lightbox);
@@ -101,5 +163,5 @@ function openLightbox(ref) {
         document.removeEventListener("keydown", escHandler);
       }
     });
-  }
+}
   
