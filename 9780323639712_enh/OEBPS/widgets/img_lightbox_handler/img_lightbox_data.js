@@ -214,10 +214,15 @@ image_fig_90_1: {
       imgCaption: `<span class="fignum">Fig. 112.2</span> (A) Landmarks for the POP-Q system. (B) POP-Q points of reference. A, From Bump RC, Mattiasson A, Bo K, et al: The standardization of terminology of female pelvic organ prolapse and pelvic floor dysfunction. <span class="italic">Am J Obstet Gynecol</span> 175:10–17, 1996.`
     },
 
-    image_fig_113_1: {
+    image_fig_113_1A: {
       imgPath: "../../IMAGES/B9780323639699001130/main.assets/f113-01a-9780323639699.jpg",
+      
+      imgCaption: `<span class="fignum">Fig. 113.1A</span>`
+    },
+  image_fig_113_1B: {
+    
        imgPath: "../../IMAGES/B9780323639699001130/main.assets/f113-01b-9780323639699.jpg",
-      imgCaption: `<span class="fignum">Fig. 113.1</span>`
+      imgCaption: `<span class="fignum">Fig. 113.1B</span>`
     },
 
     image_fig_129_1: {

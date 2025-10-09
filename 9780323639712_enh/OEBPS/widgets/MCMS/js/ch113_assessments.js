@@ -122,7 +122,7 @@ var quiz = [
         ],
         optionStyleType: `st-lower-alpha`,
         answer: [3],
-        ansText: `Rationale: The IPSS or AUA-SI assesses three storage symptoms (urgency, frequency, nocturia), three voiding symptoms (intermittency, weak stream, straining), and one post-micturition symptom (incomplete emptying). It does not assess for UI (see <a class="lightboxcallout" img-ref="image_fig_113_1" href="df347f2013444c1bb0ac7913eaf28f43">Fig. 113.1A</a><a href="3217d2908d9d498384aef4cd5dd440a8">B</a>).`,
+        ansText: `Rationale: The IPSS or AUA-SI assesses three storage symptoms (urgency, frequency, nocturia), three voiding symptoms (intermittency, weak stream, straining), and one post-micturition symptom (incomplete emptying). It does not assess for UI (see <a class="lightboxcallout" img-ref="image_fig_113_1A" href="df347f2013444c1bb0ac7913eaf28f43">Fig. 113.1A</a> and <a class="lightboxcallout" img-ref="image_fig_113_1B" href="3217d2908d9d498384aef4cd5dd440a8">Fig. 113.1B</a>).`,
         state: `notAnswered`,
         userAnswered: []
               ,
