@@ -128,7 +128,7 @@ var quiz = [
 
 
     {
-        q: `See <a class="lightboxcallout" img-ref="image_fig_151_1">Fig. 151.1</a> A 68-year-old man with an abnormal digital rectal exam (DRE) has a PSA of 4.2 ng/mL and has a needle biopsy of the prostate depicted in the figure. The tissue is stained with high-molecular-weight cytokeratin, and the pathologist reports the biopsy is consistent with benign prostatic hyperplasia (BPH). The next step is to:`,
+        q: `See <a class="lightboxcallout" img-ref="image_fig_151_1" href="#">Fig. 151.1</a> A 68-year-old man with an abnormal digital rectal exam (DRE) has a PSA of 4.2 ng/mL and has a needle biopsy of the prostate depicted in the figure. The tissue is stained with high-molecular-weight cytokeratin, and the pathologist reports the biopsy is consistent with benign prostatic hyperplasia (BPH). The next step is to:`,
         q2: ``,
         q3: [],
         option: [`repeat the biopsy. `, 
@@ -148,7 +148,7 @@ var quiz = [
 
 
     {
-        q: `See <a class="lightboxcallout" img-ref="image_fig_151_1">Fig. 151.2</a> A 55-year-old man has a prostate biopsy depicted in the figure for a PSA of 4.5 and is reported as adenocarcinoma. The next step in management is: `,
+        q: `See <a class="lightboxcallout" img-ref="image_fig_151_1" href="#">Fig. 151.2</a> A 55-year-old man has a prostate biopsy depicted in the figure for a PSA of 4.5 and is reported as adenocarcinoma. The next step in management is: `,
         q2: ``,
         q3: [],
         option: [`ask the pathologist for a Gleason score and volume of cancer. `, 
