@@ -271,7 +271,7 @@ image_fig_151_1: {
       imgCaption: `<span class="fignum">Fig. 151.1</span> (From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.)`
     },
 
-    image_fig_151_1: {
+    image_fig_151_2: {
       imgPath: "../../IMAGES/B9780323639699001518/main.assets/f151-02-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 151.2</span> (From Bostwick DG, Cheng L: <span class="italic">Urologic surgical pathology</span>, ed 2, Edinburgh, 2008, Mosby.)`
     },
