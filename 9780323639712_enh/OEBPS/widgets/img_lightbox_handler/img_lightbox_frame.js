@@ -12,6 +12,14 @@ document.addEventListener("click", function (e) {
         }
         break; // stop traversing up
       }
+      if (target.classList && target.classList.contains("htmlcallout")) {
+        e.preventDefault(); // only prevent default for these links
+        const ref = target.getAttribute("callout-ref");
+        if (window.parent && typeof window.parent.openLightbox === "function") {
+          window.parent.openHtmlCallout(ref);
+        }
+        break; // stop traversing up
+      }
       target = target.parentNode;
     }
   });
