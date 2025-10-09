@@ -1,174 +1,161 @@
 var quiz = [
-    {
-        q: `All of the following statements are true about high-grade prostatic intraepithelial neoplasia (PIN), EXCEPT: `,
-        q2: ``,
-        q3: [],
-        option: [` glands are architecturally benign.`, 
-        ` if unifocal, PIN is not associated with an increased risk of cancer on rebiopsy.`, 
-        `PIN shares some of the molecular findings with prostatic adenocarcinoma. `, 
-        `PIN is the same as intraductal carcinoma. `, 
-        ` PIN does not by itself give rise to elevated serum prostate-specific antigen (PSA) levels.`],
-        optionStyleType: `st-lower-alpha`,
-        answer: [3],
-        ansText: `Rationale: Intraductal carcinoma is morphologically worse than high-grade PIN and is typically associated with high-grade carcinoma. Whereas high-grade PIN is either just followed clinically or leads to a repeat biopsy, intraductal carcinoma is treated the same as high-grade invasive prostate adenocarcinoma. `,
-        state: `notAnswered`,
-        userAnswered: []
-    ,
-	type: `MCSS`,
-	type: `MCSS`,
-	type: `MCSS`        ,
-        type: `MCSS`},
+  {
+    q: `All of the following statements are true about high-grade prostatic intraepithelial neoplasia (PIN), EXCEPT: `,
+    q2: ``,
+    q3: [],
+    option: [
+      ` glands are architecturally benign.`,
+      ` if unifocal, PIN is not associated with an increased risk of cancer on rebiopsy.`,
+      `PIN shares some of the molecular findings with prostatic adenocarcinoma. `,
+      `PIN is the same as intraductal carcinoma. `,
+      ` PIN does not by itself give rise to elevated serum prostate-specific antigen (PSA) levels.`,
+    ],
+    optionStyleType: `st-lower-alpha`,
+    answer: [3],
+    ansText: `Rationale: Intraductal carcinoma is morphologically worse than high-grade PIN and is typically associated with high-grade carcinoma. Whereas high-grade PIN is either just followed clinically or leads to a repeat biopsy, intraductal carcinoma is treated the same as high-grade invasive prostate adenocarcinoma. `,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+    type: `MCSS`,
+    type: `MCSS`,
+    type: `MCSS`,
+  },
 
+  {
+    q: ` Which of the following is TRUE about the pathologic staging of prostate adenocarcinoma?`,
+    q2: ``,
+    q3: [],
+    option: [
+      `pT1c can be assigned to radical prostatectomy specimens. `,
+      ` The difference between T1a and T1b is based on perineural and/or vascular invasion.`,
+      `pT2c by definition represents more advanced cancer than pt2a. `,
+      ` pt2x refers to prostatectomy specimens with intraprostatic incision.`,
+      ` Microscopic bladder neck muscle invasion is pT3b.`,
+    ],
+    optionStyleType: `st-lower-alpha`,
+    answer: [3],
+    ansText: `Rationale: Pt2x means that the tumor is organ confined everywhere in the prostate except in the area of the positive margin where extraprostatic extension cannot be assessed because there is an intraprostatic incision and the edge of the prostate is not visualized in this area. `,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+  },
 
+  {
+    q: ` Which of the following is TRUE about prostate cancer tumor volume/location?`,
+    q2: ``,
+    q3: [],
+    option: [
+      `Posterior/posterolateral in 85% of T1c cases `,
+      ` Multifocal in 30% of cases`,
+      `Transition zone carcinomas extend out of the prostate at smaller volumes than peripheral zone cancers. `,
+      `Tumor volume is an independent predictor of prognosis, factoring in other pathological variables at radical prostatectomy. `,
+      `The number of involved chips distinguishes stages T1a and T1b. `,
+    ],
+    optionStyleType: `st-lower-alpha`,
+    answer: [0],
+    ansText: `Rationale: Even though T1c tumors are nonpalpable, the majority are still in the posterior or posterolateral region.`,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+    type: `MCSS`,
+    type: `MCSS`,
+  },
 
+  {
+    q: ` All of the following are true about the Gleason grading system, EXCEPT:`,
+    q2: ``,
+    q3: [],
+    option: [
+      `on needle biopsy, it sums the most common and highest patterns. `,
+      ` on radical prostatectomy, it sums the most common and second most common patterns.`,
+      ` it factors in cytology as well as glandular architecture.`,
+      ` Gleason score 6 is for the most part the lowest score assigned on biopsy.`,
+      `Gleason score 6 cancers do not have the ability to metastasize. `,
+    ],
+    optionStyleType: `st-lower-alpha`,
+    answer: [2],
+    ansText: `Rationale: Gleason grading assesses only the architectural pattern. `,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+    type: `MCSS`,
+    type: `MCSS`,
+  },
 
-    {
-        q: ` Which of the following is TRUE about the pathologic staging of prostate adenocarcinoma?`,
-        q2: ``,
-        q3: [],
-        option: [`pT1c can be assigned to radical prostatectomy specimens. `, 
-        ` The difference between T1a and T1b is based on perineural and/or vascular invasion.`, 
-        `pT2c by definition represents more advanced cancer than pt2a. `, 
-        ` pt2x refers to prostatectomy specimens with intraprostatic incision.`, 
-        ` Microscopic bladder neck muscle invasion is pT3b.`],
-        optionStyleType: `st-lower-alpha`,
-        answer: [3],
-        ansText: `Rationale: Pt2x means that the tumor is organ confined everywhere in the prostate except in the area of the positive margin where extraprostatic extension cannot be assessed because there is an intraprostatic incision and the edge of the prostate is not visualized in this area. `,
-        state: `notAnswered`,
-        userAnswered: []
-            ,
-        type: `MCSS`},
+  {
+    q: `Which of the following Gleason grade groupings is the most prognostically accurate? `,
+    q2: ``,
+    q3: [],
+    option: [
+      ` 2-4; 5; 6; 3 + 4; 4 + 3; 8-10`,
+      `2-4; 5-6; 3 + 4; 4 + 3; 8, 9-10 `,
+      ` ≤6; 7; 8, 9-10`,
+      `≤6, 3 + 4; 4 + 3; 8-10 `,
+      ` ≤6; 3 + 4; 4 + 3; 8; 9-10`,
+    ],
+    optionStyleType: `st-lower-alpha`,
+    answer: [4],
+    ansText: `Rationale: There is a progressive increase in adverse outcome in this sequence of Gleason scoring. `,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+    type: `MCSS`,
+  },
 
+  {
+    q: `All of the following findings at radical prostatectomy adversely affect prognosis, EXCEPT: `,
+    q2: ``,
+    q3: [],
+    option: [
+      ` tertiary grades.`,
+      ` subdividing extraprostatic extension into focal and non-focal.`,
+      ` the extent of positive margins.`,
+      ` perineural invasion.`,
+      ` vascular invasion.`,
+    ],
+    optionStyleType: `st-lower-alpha`,
+    answer: [3],
+    ansText: `Rationale: Perineural invasion in the radical prostatectomy specimen has no prognostic significance; however, there are conflicting data on whether it has any predictive value in biopsy specimens.`,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+  },
 
+  {
+    q: `See <a class="lightboxcallout" img-ref="image_fig_151_1" href="#">Fig. 151.1</a> A 68-year-old man with an abnormal digital rectal exam (DRE) has a PSA of 4.2 ng/mL and has a needle biopsy of the prostate depicted in the figure. The tissue is stained with high-molecular-weight cytokeratin, and the pathologist reports the biopsy is consistent with benign prostatic hyperplasia (BPH). The next step is to:`,
+    q2: ``,
+    q3: [],
+    option: [
+      `repeat the biopsy. `,
+      `ask the pathologist for additional molecular marker stains. `,
+      ` follow up the patient with a PSA and DRE in 3 to 6 months.`,
+      ` obtain endorectal magnetic resonance imaging (MRI).`,
+      ` obtain a PCA3.`,
+    ],
+    optionStyleType: `st-lower-alpha`,
+    answer: [2],
+    ansText: `Rationale: The patient has BPH as demonstrated by the presence of a basal layer with the positive cytokeratin stain. Because of the abnormal DRE, close follow-up is indicated. `,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+  },
 
-
-    {
-        q: ` Which of the following is TRUE about prostate cancer tumor volume/location?`,
-        q2: ``,
-        q3: [],
-        option: [`Posterior/posterolateral in 85% of T1c cases `, 
-        ` Multifocal in 30% of cases`, 
-        `Transition zone carcinomas extend out of the prostate at smaller volumes than peripheral zone cancers. `, 
-        `Tumor volume is an independent predictor of prognosis, factoring in other pathological variables at radical prostatectomy. `, 
-        `The number of involved chips distinguishes stages T1a and T1b. `],
-        optionStyleType: `st-lower-alpha`,
-        answer: [0],
-        ansText: `Rationale: Even though T1c tumors are nonpalpable, the majority are still in the posterior or posterolateral region.`,
-        state: `notAnswered`,
-        userAnswered: []
-    ,
-	type: `MCSS`,
-	type: `MCSS`        ,
-        type: `MCSS`},
-
-
-
-
-    {
-        q: ` All of the following are true about the Gleason grading system, EXCEPT:`,
-        q2: ``,
-        q3: [],
-        option: [`on needle biopsy, it sums the most common and highest patterns. `, 
-        ` on radical prostatectomy, it sums the most common and second most common patterns.`, 
-        ` it factors in cytology as well as glandular architecture.`, 
-        ` Gleason score 6 is for the most part the lowest score assigned on biopsy.`, 
-        `Gleason score 6 cancers do not have the ability to metastasize. `],
-        optionStyleType: `st-lower-alpha`,
-        answer: [2],
-        ansText: `Rationale: Gleason grading assesses only the architectural pattern. `,
-        state: `notAnswered`,
-        userAnswered: []
-    ,
-	type: `MCSS`,
-	type: `MCSS`        ,
-        type: `MCSS`},
-
-
-
-
-    {
-        q: `Which of the following Gleason grade groupings is the most prognostically accurate? `,
-        q2: ``,
-        q3: [],
-        option: [` 2-4; 5; 6; 3 + 4; 4 + 3; 8-10`, 
-        `2-4; 5-6; 3 + 4; 4 + 3; 8, 9-10 `, 
-        ` ≤6; 7; 8, 9-10`, 
-        `≤6, 3 + 4; 4 + 3; 8-10 `, 
-        ` ≤6; 3 + 4; 4 + 3; 8; 9-10`],
-        optionStyleType: `st-lower-alpha`,
-        answer: [4],
-        ansText: `Rationale: There is a progressive increase in adverse outcome in this sequence of Gleason scoring. `,
-        state: `notAnswered`,
-        userAnswered: []
-    ,
-	type: `MCSS`        ,
-        type: `MCSS`},
-
-
-
-
-    {
-        q: `All of the following findings at radical prostatectomy adversely affect prognosis, EXCEPT: `,
-        q2: ``,
-        q3: [],
-        option: [` tertiary grades.`, 
-        ` subdividing extraprostatic extension into focal and non-focal.`, 
-        ` the extent of positive margins.`, 
-        ` perineural invasion.`, 
-        ` vascular invasion.`],
-        optionStyleType: `st-lower-alpha`,
-        answer: [3],
-        ansText: `Rationale: Perineural invasion in the radical prostatectomy specimen has no prognostic significance; however, there are conflicting data on whether it has any predictive value in biopsy specimens.`,
-        state: `notAnswered`,
-        userAnswered: []
-            ,
-        type: `MCSS`},
-
-
-
-
-    {
-        q: `See <a class="lightboxcallout" img-ref="image_fig_151_1" href="#">Fig. 151.1</a> A 68-year-old man with an abnormal digital rectal exam (DRE) has a PSA of 4.2 ng/mL and has a needle biopsy of the prostate depicted in the figure. The tissue is stained with high-molecular-weight cytokeratin, and the pathologist reports the biopsy is consistent with benign prostatic hyperplasia (BPH). The next step is to:`,
-        q2: ``,
-        q3: [],
-        option: [`repeat the biopsy. `, 
-        `ask the pathologist for additional molecular marker stains. `, 
-        ` follow up the patient with a PSA and DRE in 3 to 6 months.`, 
-        ` obtain endorectal magnetic resonance imaging (MRI).`, 
-        ` obtain a PCA3.`],
-        optionStyleType: `st-lower-alpha`,
-        answer: [2],
-        ansText: `Rationale: The patient has BPH as demonstrated by the presence of a basal layer with the positive cytokeratin stain. Because of the abnormal DRE, close follow-up is indicated. `,
-        state: `notAnswered`,
-        userAnswered: []
-            ,
-        type: `MCSS`},
-
-
-
-
-    {
-        q: `See <a class="lightboxcallout" img-ref="image_fig_151_1" href="#">Fig. 151.2</a> A 55-year-old man has a prostate biopsy depicted in the figure for a PSA of 4.5 and is reported as adenocarcinoma. The next step in management is: `,
-        q2: ``,
-        q3: [],
-        option: [`ask the pathologist for a Gleason score and volume of cancer. `, 
-        ` radical prostatectomy.`, 
-        `metastatic workup with abdominal computed tomography (CT) and bone scan.  `, 
-        ` endorectal MRI.`, 
-        ` active observation.`],
-        optionStyleType: `st-lower-alpha`,
-        answer: [0],
-        ansText: `Rationale: The figure demonstrates a straightforward Gleason 6 adenocarcinoma. The pathologist needs to report the Gleason score and the volume of cancer in the biopsy specimen for the physician to make an informed decision about management. `,
-        state: `notAnswered`,
-        userAnswered: []
-            ,
-        type: `MCSS`},
-
-
-
-
-
-
-
-
+  {
+    q: `See <a class="lightboxcallout" img-ref="image_fig_151_1" href="#">Fig. 151.2</a> A 55-year-old man has a prostate biopsy depicted in the figure for a PSA of 4.5 and is reported as adenocarcinoma. The next step in management is: `,
+    q2: ``,
+    q3: [],
+    option: [
+      `ask the pathologist for a Gleason score and volume of cancer. `,
+      ` radical prostatectomy.`,
+      `metastatic workup with abdominal computed tomography (CT) and bone scan.  `,
+      ` endorectal MRI.`,
+      ` active observation.`,
+    ],
+    optionStyleType: `st-lower-alpha`,
+    answer: [0],
+    ansText: `Rationale: The figure demonstrates a straightforward Gleason 6 adenocarcinoma. The pathologist needs to report the Gleason score and the volume of cancer in the biopsy specimen for the physician to make an informed decision about management. `,
+    state: `notAnswered`,
+    userAnswered: [],
+    type: `MCSS`,
+  },
 ];
