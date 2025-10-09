@@ -627,7 +627,7 @@ var quiz = [
         type: `MCSS`},
       
       {
-        q: ` See <a class="lightboxcallout" img-ref="image_fig_87_1">Fig. 87.1</a> A 55-year-old woman had this abdominal radiograph 1 day after a contrast-enhanced CT scan was done for abdominal pain. Her creatinine before the CT scan was 1.9 mg/dL. The most likely diagnosis is:`,
+        q: ` See <a class="lightboxcallout" img-ref="image_fig_87_1" href="#">Fig. 87.1</a> A 55-year-old woman had this abdominal radiograph 1 day after a contrast-enhanced CT scan was done for abdominal pain. Her creatinine before the CT scan was 1.9 mg/dL. The most likely diagnosis is:`,
         q2: ``,
         q3: [],
         option: [`normal film.`, 
