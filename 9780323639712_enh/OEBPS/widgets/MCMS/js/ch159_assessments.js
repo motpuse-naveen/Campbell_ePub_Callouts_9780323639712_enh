@@ -16,7 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `By using the Kattan postoperative nomogram, which of the following contributes most to the risk of biochemical recurrence after radical prostatectomy?`,
@@ -35,9 +34,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Neoadjuvant androgen deprivation (AD) before radical prostatectomy leads to:`,
@@ -55,10 +51,6 @@ var quiz = [
     ansText: `Rationale: <b>The randomized and nonrandomized studies of neoadjuvant androgen deprivation in men with lower clinical stage (cT1-T2) clearly demonstrate a reduction in the rate of positive surgical margins; however, this advantage has not been observed in men with cT3c and has not translated into improved long-term PSA-free survival.</b>`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -95,8 +87,6 @@ var quiz = [
     ansText: `Rationale: Bicalutamide at greater dose (150 mg) appears to have a positive effect in those men with locally advanced disease, with 43% reduction in disease progression and potential benefit of improved survival; however, it should be remembered that high-dose bicalutamide given to men with localized prostate cancer is associated with increased risk of death (hazard ratio: 1.23).`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -151,9 +141,6 @@ var quiz = [
     ansText: `Rationale: There is a trend to improve response to adjuvant radiation therapy, and most contemporary series report doses greater than 60 Gy, with potential threshold of either 61.2 or 64 Gy. Similarly, for primary radiation therapy, improved outcomes have been shown for higher doses (78 Gy or greater).`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

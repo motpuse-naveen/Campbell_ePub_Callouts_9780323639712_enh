@@ -584,7 +584,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Isolated nocturia complaints are due to:`,

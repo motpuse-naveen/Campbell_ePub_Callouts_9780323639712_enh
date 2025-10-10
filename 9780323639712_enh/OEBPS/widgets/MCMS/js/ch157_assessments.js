@@ -15,7 +15,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Which of the following represents unfavorable intermediate-risk disease?`,
@@ -32,10 +31,6 @@ var quiz = [
     ansText: `Rationale: (see Zumsteg ZS, Spratt DE, Pei I, et al: A new risk classification system for therapeutic decision making with intermediate-risk prostate cancer patients undergoing dose-escalated external-beam radiation therapy. <b><i>Eur Urol</i></b> S0302-2838[13]00257-1, 2013.)`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -91,8 +86,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Modern radiation therapy for prostate cancer differs from the technology used in the 1980s to 1990s in what ways? Modern radiation uses:`,
@@ -147,7 +140,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<b>Imaging</b><br/><br/>A voiding cystourethrogram on a 72-year-old man who presents with urinary tract infections 2 years after combination external beam radiation therapy and brachytherapy for prostate cancer is depicted in <a class="lightboxcallout" img-ref="image_fig_157_1" href="5ac004e9b57e4d548b4b1c5a8d6d87ae">Fig. 157.1</a>. The most likely diagnosis is:`,
@@ -165,7 +157,6 @@ var quiz = [
     ansText: `Rationale: There is partial opacification of the irregular prostatic urethra with immediate filling of the rectum. The bladder is normal in appearance, making option e incorrect. The contrast is in the rectum, making a urethra cutaneous fistula and vesico sigmoid fistula incorrect. The seeds are located in the area one would expect following brachytherapy.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
 ];

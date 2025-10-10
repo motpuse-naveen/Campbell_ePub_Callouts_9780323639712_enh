@@ -16,9 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -57,8 +54,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -78,8 +73,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -98,7 +91,6 @@ var quiz = [
     ansText: `Rationale: There is a progressive increase in adverse outcome in this sequence of Gleason scoring. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
 
@@ -195,8 +187,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -216,8 +206,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -236,7 +224,6 @@ var quiz = [
     ansText: `Rationale: There is a progressive increase in adverse outcome in this sequence of Gleason scoring. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
 

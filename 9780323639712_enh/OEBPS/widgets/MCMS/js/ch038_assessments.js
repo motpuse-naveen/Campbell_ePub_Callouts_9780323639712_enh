@@ -173,7 +173,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Male predominance of occurrence is most striking in: `,

@@ -18,8 +18,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<!--2. -->Upper-tract imaging for urothelial carcinoma may include all of the following EXCEPT:`,
@@ -37,8 +35,6 @@ var quiz = [
     ansText: `Rationale: Conventional staging evaluation for upper-tract urothelial carcinoma should include evaluation of both the kidney parenchyma and the urothelial lumen. Although PET/CT can be useful for a staging evaluation, the resolution of imaging within the urinary tract is limited by the excretion of contrast material and lack of granular resolution.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -76,10 +72,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<!--5. -->Which of the following statements is TRUE?`,
@@ -98,7 +90,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<!--6. -->Which of the following statements is FALSE regarding nerve-sparing radical cystectomy?`,
@@ -116,9 +107,6 @@ var quiz = [
     ansText: `Rationale: <b>The rate of natural potency after radical cystectomy with conventional nerve sparing is lower than that of analogous prostatectomy series. Studies examining sexual function after subtotal resection (e.g., prostate sparing) have demonstrated improved results (Spitz et al., 1999); however, caution is advised because of the high risk of concurrent occult prostate cancer and potential for increased local recurrence.</b>`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

@@ -16,8 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<!--2. -->The most important pathologic predictor of outcome following radical cystectomy for muscle-invasive bladder cancer is`,
@@ -36,9 +34,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<!--3. -->All of the following have been reported to provide prognostic information with regard to pelvic lymphadenectomy EXCEPT`,
@@ -56,9 +51,6 @@ var quiz = [
     ansText: `Rationale: Although some surgical series have demonstrated improved survival in patients with one positive lymph node compared with those with multiple positive nodes, the laterality of a single positive lymph node has no prognostic significance.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -96,7 +88,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<!--6. -->A 65-year-old woman with normal renal function undergoes up-front radical cystectomy, extended pelvic lymphadenectomy, and ileal conduit urinary diversion for bacille Calmette-Guérin–refractory bladder carcinoma in situ (CIS). Final pathology is notable for T2N1M0 disease. The next step in management should be`,
@@ -132,7 +123,6 @@ var quiz = [
     ansText: `Rationale: <b>Patients with solitary completely resected tumors are ideal candidates for bladder preservation.</b>`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

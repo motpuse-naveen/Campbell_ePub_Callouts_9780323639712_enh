@@ -17,11 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -41,9 +36,6 @@ var quiz = [
     ansText: `Rationale: Two large studies have demonstrated conclusively that urethral recurrence in men is associated with prostatic stromal invasion in the cystectomy specimen.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
 
@@ -85,10 +77,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -109,10 +97,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -132,14 +116,6 @@ var quiz = [
     ansText: `Rationale: Late urinary retention (“hypercontinence”) in women appears to be primarily due to posterior displacement of the pouch into the vagina resulting in a kinking at the urethral anastomosis. A number of maneuvers have been suggested such as sacrocolpopexy, but preservation of the uterus appears to be the most promising.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
 

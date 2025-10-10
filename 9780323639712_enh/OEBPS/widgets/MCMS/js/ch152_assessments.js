@@ -16,7 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: ` Serum PSA levels vary with which factor?`,
@@ -34,13 +33,6 @@ var quiz = [
     ansText: `Rationale: In the absence of prostate cancer, serum PSA levels vary with age, race, and prostate volume.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -78,9 +70,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Which of the following represent ways to adjust the PSA measurement? `,
@@ -111,8 +100,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: ` Which of the following tests has the highest positive predictive value for prostate cancer?`,
@@ -130,8 +117,6 @@ var quiz = [
     ansText: `Rationale: PSA is the single test with the highest positive predictive value for cancer.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

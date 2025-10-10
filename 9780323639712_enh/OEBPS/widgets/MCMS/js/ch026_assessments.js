@@ -55,8 +55,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `NPO (nothing by mouth [nil per os]) status recommendations in children include:`,
@@ -76,15 +74,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Children may have dietary requirements outside the normal parameters. Which of the following is a false statement?`,
@@ -103,7 +92,6 @@ var quiz = [
     ansText: `Rationale:<!--“Children with diabetes may be affected by volume depletion during preoperative fasting coupled with the discontinuation of outpatient diabetes medications. This may result in preoperative hypoglycemia”--> is a false statement. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

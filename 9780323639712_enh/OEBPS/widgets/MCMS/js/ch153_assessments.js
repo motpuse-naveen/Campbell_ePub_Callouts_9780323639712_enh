@@ -16,9 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: ` Appropriate candidate selection for prostate cancer treatment may be improved through:`,
@@ -37,10 +34,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `The instrument that considers comorbidities with prostate cancer patients in making predictions of 10-year longevity is the: `,
@@ -58,9 +51,6 @@ var quiz = [
     ansText: `Rationale: The most widely utilized scale of comorbidity is the CCI. The CCI was designed to weigh comorbidities in prediction of one-year mortality among inpatients, but ultimately has been shown to be a significant prognostic indicator in the treatment of many types of cancer. In 2011, Daskivich et al. created a prostate cancer-specific CCI (PCCI) weighting comorbidities to predict 10-year risk of mortality among prostate cancer patients. When adjusting for age, and applying the PCCI to men with prostate cancer in the Veteran’s Administration health care system (VAMC), segregated PCCI score at 0, 1–2, 3–4, 5–6, 7–9, and 10, the 10-year cumulative incidence of other cause mortality was 10%, 19%, 35%, 60%, 79%, and 99%, respectively.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -97,10 +87,6 @@ var quiz = [
     ansText: `Rationale: For men who have had a previous aggressive TURP for outlet obstruction, the risk of <b><i>urinary toxicity</i></b> may be higher in those that undergo radiotherapy, but the rates of long-term severe urinary symptoms may be lower. Delay of radiation for 6 to 8 weeks after TURP may reduce the risk of incontinence and bladder neck contracture. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -191,8 +177,6 @@ var quiz = [
     ansText: `Rationale: The follow-up of the original PIVOT analysis was published in 2017, after 19.5 years of follow-up, demonstrating an absolute risk reduction (ARR) of 5.5% (95% confidence interval [CI]; −1.5% to 12.4%, <b><i>P</i></b> = .06) for all-cause mortality (61.3% vs. 66.8%) through prostatectomy. An ARR of 4.0% (95% CI; −0.2 to 8.3%, <b><i>P</i></b> = .06) was found for prostate cancer-specific mortality (7.4% vs. 11.4%). On subgroup analysis, surgery reduced all-cause mortality among men with intermediate-risk disease (ARR = 14.5%, 95% CI 2.8% to 25.6%). By contrast, no benefit was seen in the low- or high-risk groups. While surgery reduced the need for treatment of progressive disease, there were increased incidences of therapy-related long-term complications such as urinary incontinence and erectile and sexual dysfunction. One of the major concerns regarding the PIVOT study design was that the inclusion criterion for the study was life expectancy of greater than 10 year. However, according to the analysis of all-cause mortality after 10-year follow-up, nearly 40% of the study population had died, with only approximately 5% from prostate cancer. After 15 years, up to 60% had died, with ∼10% from prostate cancer. These considerations suggest poor risk assessment at baseline inclusion and lessen the impact of the study. Since the design of the study, it is now well understood that patients with low-risk prostate cancer and comorbidities do not benefit within 10 years from radical interventions. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

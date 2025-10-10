@@ -17,10 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -40,7 +36,6 @@ var quiz = [
     ansText: `Rationale: The wolffian ducts develop into the seminal vesicles, epididymis, vas deferens, ampulla, and ejaculatory duct; the developmental growth of this group of glands is stimulated by fetal testosterone and not DHT.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -73,11 +68,6 @@ var quiz = [
     ansText: `Rationale: The prostate first appears and starts its development from the urogenital sinus during the third month of fetal growth, and development is directed primarily by DHT, not testosterone.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -149,9 +139,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `To what is the majority of testosterone in the plasma bound?`,
@@ -170,8 +157,6 @@ var quiz = [
     ansText: `Rationale: The majority of testosterone bound to plasma protein is associated with SHBG.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

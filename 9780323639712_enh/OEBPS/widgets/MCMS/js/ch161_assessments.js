@@ -16,9 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `The expected response of a man to the administration of the nonsteroidal antiandrogens is:`,
@@ -36,9 +33,6 @@ var quiz = [
     ansText: `Rationale: <b>Unlike the steroidal antiandrogens, such as cyproterone acetate, which have central progestational inhibitory effects, the nonsteroidal antiandrogens simply block androgen receptors, including those in the hypothalamic-pituitary axis.</b> Because those central androgen receptors no longer sense the normal negative feedback exerted by testosterone, both LH levels and—as the normal testicular response to increased LH—testosterone levels increase. <b>Peripheral conversion of this excessive testosterone also increases estrogen levels, leading to the gynecomastia and mastodynia associated with the nonsteroidal antiandrogens.</b>`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -58,12 +52,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Nonsteroidal antiandrogens:`,
@@ -81,8 +69,6 @@ var quiz = [
     ansText: `Rationale: By blocking testosterone feedback centrally, the nonsteroidal antiandrogens cause LH and testosterone levels to increase, allowing antiandrogen activity without inducing hypogonadism and potency can be preserved. In clinical trials specifically examining erectile function and sexual activity in men on antiandrogen monotherapy, however, long-term preservation of those domains was 20% and not significantly different from that in men undergoing surgical castration. <b>All antiandrogens can act agonistically on prostate cancer cells and, when used in combination with LHRH agonists, withdrawal of the antiandrogen can lead to declines in PSA and even objective responses.</b> The common gastrointestinal toxicity is diarrhea, most often seen with flutamide. Liver toxicity, ranging from reversible hepatitis to fulminant hepatic failure, is associated with all nonsteroidal antiandrogens and requires periodic monitoring of liver function tests. The steroidal antiandrogen cyproterone acetate is associated with fluid retention and thromboembolism.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -173,7 +159,6 @@ var quiz = [
     ansText: `Rationale: In both nonrandomized and randomized clinical trials, the pathologic positive surgical margin rate is significantly reduced. In one study, the positive surgical margin rate fell from nearly 50% in hormonally intact patients to 15% in ADT-treated patients. <b>Despite this improvement, there has not been a corresponding significant reduction in biochemical (PSA) progression in ADT-treatment patients, a finding in four separate prospective randomized studies. The benefit of ADT in men with locally advanced disease and/or high-grade disease has been in combination with external beam radiation therapy.</b> There is no evidence that any form of 3-month neoadjuvant ADT before radical prostatectomy reduces biochemical failure rates.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

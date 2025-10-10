@@ -16,12 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `With laparoscopic/robotic radical prostatectomy, positive margin rates are not influenced by: `,
@@ -39,11 +33,6 @@ var quiz = [
     ansText: `Rationale: Comparison of margin status between high-volume centers with the operations performed by experienced surgeons has shown no definitive advantage for one surgical approach over the other in achieving negative surgical margins.  `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -81,8 +70,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `An advantage of extraperitoneal versus transperitoneal approach to laparoscopic/robotic prostatectomy is: `,
@@ -118,8 +105,6 @@ var quiz = [
     ansText: `Rationale: Pelvic lymphadenectomy can be performed by open or laparoscopic techniques with no significant difference in nodal yield.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -210,7 +195,6 @@ var quiz = [
     ansText: `Rationale: Because the dorsal venous complex is divided early in the operation and the prostatic pedicles late, there is potentially a greater risk of ongoing bleeding with the retrograde technique. In contrast, during the antegrade neurovascular bundle dissection, the arterial blood supply to the prostate (via the prostatic pedicles) is divided early and the dorsal venous complex is divided near the end of the operation, thus reducing blood loss during the operation. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
 

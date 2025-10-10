@@ -16,7 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<!--2. -->What is the crucial period in embryogenesis for the formation of the terminal bowel, kidney, paramesonephric ductal system, and lumbosacral spine?`,

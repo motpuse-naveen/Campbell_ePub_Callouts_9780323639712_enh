@@ -16,8 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Selection of an ablative energy source for prostate focal therapy is predicated on:`,
@@ -35,8 +33,6 @@ var quiz = [
     ansText: `Rationale: The oncological premise of focal therapy is to completely destroy the index lesion while preserving as much function as possible. As such, selection of the ablative technology will depend on availability, operator experience, desired approach, and the suitability of the technology to deliver a lethal dose of energy to the desired location in order to successfully ablate the lesion.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -74,9 +70,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `What is the characteristic appearance of ice ball created during prostate focal cryotherapy on ultrasound?`,
@@ -94,9 +87,6 @@ var quiz = [
     ansText: `Rationale: Frozen tissue is significantly different from unfrozen tissue in sound impedance, resulting in strong echo reflection at the interface of frozen and normal tissue. The frozen area can be seen as a well-marginated hyperechoic rim with acoustic shadowing by ultrasonography. Sonography provides no information about the temperature distribution within the ice, nor does it show the extent of freezing at the lateral or anterior aspects of the prostate.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

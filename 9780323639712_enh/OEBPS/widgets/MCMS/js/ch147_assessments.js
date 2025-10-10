@@ -17,7 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `The suprapubic simple prostatectomy, in comparison to the retropubic simple prostatectomy, allows:`,
@@ -36,8 +35,6 @@ var quiz = [
     ansText: `Rationale: The major advantage of suprapubic simple prostatectomy over the retropubic approach is that it allows direct visualization of the bladder neck and bladder mucosa. As a result, this operation is ideally suited for patients with a large median lobe protruding into the bladder or a clinically significant bladder diverticulum.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -58,9 +55,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `The most appropriate definitive treatment options for the patient with a 120-g prostatic adenoma and a symptomatic bladder diverticulum are:`,
@@ -79,7 +73,6 @@ var quiz = [
     ansText: `Rationale: Combined suprapubic simple prostatectomy and bladder diverticulum is the best option for the patient with a massive benign prostatic hyperplasia (BPH) and a symptomatic bladder diverticulum because of easy access to both prostatic adenoma and bladder diverticulum. If the prostatectomy is performed without the diverticulectomy, incomplete emptying of the bladder diverticulum and subsequent, persistent infection may occur. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

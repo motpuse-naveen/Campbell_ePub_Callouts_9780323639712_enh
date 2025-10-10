@@ -17,9 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Calcifications diffusely seen in the prostate on transrectal ultrasound are:`,
@@ -38,13 +35,6 @@ var quiz = [
     ansText: `Rationale: Small, multiple diffuse calcifications are a normal result of age rather than a pathologic entity. Larger prostatic calculi associated with symptoms may be related to underlying infection or inflammation and require further evaluation.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -65,9 +55,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Which of the following statements about the seminal vesicle (SV) when imaged by ultrasound is TRUE?`,
@@ -86,9 +73,6 @@ var quiz = [
     ansText: `Rationale: The normal SV measures 4.5 to 5.5 cm in length and 2 cm in width, has a smooth, saccular appearance, and should be symmetric. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -222,8 +206,6 @@ var quiz = [
     ansText: `Rationale: Short-term use of prophylactic antibiotics can reduce the incidence of serious infections. Unfortunately, it does not completely eliminate the risk of infection. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

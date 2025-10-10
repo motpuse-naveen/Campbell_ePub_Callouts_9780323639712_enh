@@ -719,8 +719,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `The most common predisposing factor for hospital-acquired UTIs is:`,

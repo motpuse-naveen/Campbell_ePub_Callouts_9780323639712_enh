@@ -17,10 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Regarding genetic and familial factors in the etiology of BPH, which statement is TRUE?`,
@@ -40,10 +36,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `The prevalence of a disease is defined as the number of:`,
@@ -62,9 +54,6 @@ var quiz = [
     ansText: `Rationale: When studying diseases by descriptive or analytical epidemiologic methods, it is important to have a good understanding of the definitions that apply. Most epidemiologic terms are expressed as rates, which are the number of cases for persons expressed over the population. The definitions that are of relevance are incidence rates, which are equal to the number of people/100,000 population/year getting a certain disease; prevalence, which is the number of existing cases of the disease of interest/100,000 at a distinct target date; mortality rate, which is the number of deaths/100,000 population/year; and fatality, which equals the number of deaths due to the disease/number of diseased people.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -122,9 +111,6 @@ var quiz = [
     ansText: `Rationale: Prostate volume can relatively easily be assessed by transrectal ultrasonography (TRUS). TRUS has been found to be a reliable measure that is reproducible across examiners, in contrast to DRE, which is only poorly reproducible. MRI is very expensive and it yields in general a larger volume compared with TRUS measurements. Of note is the fact that international studies show significant similarity in regard to total and transitional zone prostate volume in white, age-stratified men.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

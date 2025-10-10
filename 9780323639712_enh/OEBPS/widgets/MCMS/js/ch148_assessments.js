@@ -17,7 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `In the United States, the highest prostate cancer incidence rates are seen in:`,
@@ -36,7 +35,6 @@ var quiz = [
     ansText: `Rationale: African American men have one of the highest reported incidences of prostate cancer in the world, with an incidence of 186.8 per 100,000 person-years and a relative incidence of 1.75 compared to white men in the United States (American Cancer Society). Although African Americans have experienced a greater decline in mortality than white men since the early 1990s, their death rates remain 2.2 times higher than whites. Many biological, environmental, and social hypotheses have been advanced to explain these differences, ranging from postulated differences in genetic predisposition; differences in mechanisms of tumor initiation, promotion and/or progression; higher fat diets, higher serum testosterone levels, or higher body mass index; structural, financial, educational, and cultural barriers to screening, early detection and aggressive therapy; and physician bias. There are currently no data that clearly indicate any of these hypotheses are the determinants of the observed differences in incidence or mortality, and it seems likely that the source of the disparity is multifactorial, although emerging data indicate a clear biologic underpinning.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -57,9 +55,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `With respect to two large randomized trials assessing the effect of prostate specific antigen (PSA) screening on prostate cancer mortality:`,
@@ -78,9 +73,6 @@ var quiz = [
     ansText: `Rationale: The trial has been criticized for high rates of pre-screening (44% reported undergoing PSA testing prior to enrollment), poor compliance with prostate biopsy, and 52% contamination by ad hoc screening in the control arm. A follow-up study in which PLCO participants were questioned about PSA testing reported a 15% non-PSA testing rate in the control arm of PLCO, which is identical to the non-compliance with screening in the screening arm. Another study showed that when analyzed by actual screening status, rather than an intent to screen analysis, results of the PLCO were similar to that of the ERSPC with respect to the benefit of PSA screening in reducing prostate cancer mortality.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -138,10 +130,6 @@ var quiz = [
     ansText: `Rationale: Gene fusions, once thought to be the exclusive domain of hematologic malignancies, are common in prostate cancer and are fundamental drivers of prostate cancer growth and progression. The most commonly observed fusion results from the fusion of the 5’ untranslated end of TMPRSS2 serine protease to members of the ETS family of oncogenic transcription factors, bringing the latter growth-promoting genes under androgen control. The most common fusion identified in localized prostate cancer involves TMPRSS2 fused to ERG (ETS-related gene, 21q22.3) in approximately 50% of patients. The TMPRSS2 gene is prostate specific, and is expressed in both benign and malignant prostatic epithelium. TRMPSS-related gene fusions are highly specific for the presence of prostate cancer.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

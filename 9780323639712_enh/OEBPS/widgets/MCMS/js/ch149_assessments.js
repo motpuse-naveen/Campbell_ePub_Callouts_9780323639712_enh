@@ -17,8 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Most detectable PSA in sera is bound to:`,
@@ -38,11 +36,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `TRUE or FALSE: As many as 75% of men presenting with elevated PSA levels are found not to have prostate cancer after transrectal ultrasonography (TRUS) biopsy.`,
@@ -57,8 +50,6 @@ var quiz = [
     ansText: ``,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -98,9 +89,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `TRUE or FALSE: Evaluation of tissue from prostate cancer specimens has demonstrated higher mRNA expression levels compared with normal prostate tissue, suggesting that prostate cancer cells make more PSA than normal prostatic tissue.`,
@@ -128,8 +116,6 @@ var quiz = [
     ansText: `Rationale: Finasteride (5 mg) and other 5α-reductase inhibitors for treatment of BPH have been shown to lower PSA levels by an average of 50% after 6 months of treatment (Guess et&#160;al., 1993). Thus one can multiply the PSA level by 2 to obtain the “expected” PSA level of a patient who has been on finasteride for 6 months or more. Although saw palmetto has not been shown to affect PSA levels, possible contamination of these unregulated supplements may include compounds that can alter PSA levels (i.e., PC-SPES, currently off the market).`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

@@ -16,8 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `In men with low-risk prostate cancer on active surveillance: `,
@@ -36,9 +34,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: ` Clinical parameters which predict for the likelihood of upgrading include:`,
@@ -56,8 +51,6 @@ var quiz = [
     ansText: `Rationale: These are all clinical parameters that predict for the likelihood of upgrading.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

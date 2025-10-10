@@ -16,12 +16,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Patients eventually stop benefiting from primary and secondary hormonal treatments and become refractory. Which of the following statement(s) INCORRECTLY defines the “castration-resistant” paradigm?`,
@@ -38,8 +32,6 @@ var quiz = [
     ansText: ``,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -165,8 +157,6 @@ var quiz = [
     ansText: ``,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

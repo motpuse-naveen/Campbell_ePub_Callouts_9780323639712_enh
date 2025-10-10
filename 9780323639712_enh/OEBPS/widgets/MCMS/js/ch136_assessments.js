@@ -359,7 +359,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `<!--21. -->A 76-year-old male with a history of urothelial CIS begins induction BCG. Following his second instillation, he notes severe urinary urgency and dysuria as well as a fever to 102<sup>°</sup>F that is present 2 days after instillation. Appropriate management of this BCG toxicity includes which of the following?`,

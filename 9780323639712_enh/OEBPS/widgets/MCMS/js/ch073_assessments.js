@@ -354,7 +354,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: ` The IMPRESS trials for Clostridium Collagenase Histolyticum (CCH) with modeling found that which of the following patient group would benefit from CCH?`,

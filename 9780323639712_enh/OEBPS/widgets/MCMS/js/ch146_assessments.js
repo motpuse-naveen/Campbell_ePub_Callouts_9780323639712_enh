@@ -17,8 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `A patient is 6 weeks post-TURP for long-standing obstruction and detrusor overactivity; voices marked concern over his persistent symptoms, wondering if there was an incomplete resection. A urine culture is negative. The next best sequence of care is:`,
@@ -37,11 +35,6 @@ var quiz = [
     ansText: `Rationale: Patients with long-standing obstruction (particularly those with urgency and frequency preoperatively) will often experience a continuation or exacerbation of these symptoms in the postoperative period. If proper bladder emptying can be verified, an anticholinergic or beta-3 agonist medication during this time may help the patient feel more comfortable. It is our practice to warn those men with preoperatively documented detrusor overactivity that patience will be required in the months following surgery to see if this will resolve. Such caution goes a long way in assuring patients to adopt a strong coping mechanism rather than a polypharmacy approach.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {
@@ -119,7 +112,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
   },
   {
     q: `Which of the following is TRUE of bipolar compared with monopolar TURP?`,
@@ -138,10 +130,6 @@ var quiz = [
     ansText: `Rationale: All of the findings in a through d have been demonstrated in studies. The use of a sodium-containing iso-osmolar irrigating fluid has essentially eliminated the risk of TUR syndrome in bipolar TURP. <b>The “cut and seal” action of the technology improves intraoperative hemostasis with better visualization, leading to less blood transfusion and quicker operating times.</b> Differences in many late complications such as bladder neck contracture and need for retreatment have not been demonstrated in comparison to monopolar technology.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
   {

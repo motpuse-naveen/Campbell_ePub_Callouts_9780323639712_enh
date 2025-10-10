@@ -17,9 +17,6 @@ var quiz = [
     state: `notAnswered`,
     userAnswered: [],
     type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
   },
 
   {
@@ -39,11 +36,6 @@ var quiz = [
     ansText: `Rationale: The selection criteria (including high body mass index, locally advanced disease, older age, prior abdominal surgery) have significantly broadened as learning curve has flattened. Reduction in cardiac and pulmonary compliance due to the inability to tolerate steep Trendelenburg position especially with prolonged operative duration during intracorporeal urinary diversion (ICUD) has also been addressed. Newer technology available is the Xi model of the da-Vinci Surgical System and use of the AirSeal has allowed surgeons to operate in less steep Trendelenburg position. Absolute and relative contraindications for neobladder are similar to open surgery.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
 
@@ -84,9 +76,6 @@ var quiz = [
     ansText: `Rationale: The majority of robot-assisted radical prostatectomy procedures use different lenses for the procedure. During robot-assisted radical cystectomy, surgeons prefer a 0-degree lens. Special situations of a narrow, deep pelvis in association with obesity can require a 30-degree down lens for better visualization, especially for the proximal portion of the extended lymph node dissection.`,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
-    type: `MCSS`,
-    type: `MCSS`,
     type: `MCSS`,
   },
 
@@ -167,7 +156,6 @@ var quiz = [
     ansText: `Rationale: No significant difference between intracorporeal and extracorporeal approaches to urinary diversion was found based on the recent International Robotic Cystectomy Consortium (IRCC) study of 2134 patients. One possible explanation is that the additional time for undocking, patient positioning and then redocking for extracorporeal diversion may have reduced the difference between both approaches. High-volume institutions had shorter operative times for radical cystectomy. This may be attributed to the experience of the surgeon and the teams at those institutions. `,
     state: `notAnswered`,
     userAnswered: [],
-    type: `MCSS`,
     type: `MCSS`,
   },
 
