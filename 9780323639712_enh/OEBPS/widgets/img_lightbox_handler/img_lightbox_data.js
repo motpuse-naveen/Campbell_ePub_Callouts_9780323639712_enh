@@ -216,11 +216,9 @@ image_fig_90_1: {
 
     image_fig_113_1A: {
       imgPath: "../../IMAGES/B9780323639699001130/main.assets/f113-01a-9780323639699.jpg",
-      
       imgCaption: `<span class="fignum">Fig. 113.1A</span>`
     },
   image_fig_113_1B: {
-    
        imgPath: "../../IMAGES/B9780323639699001130/main.assets/f113-01b-9780323639699.jpg",
       imgCaption: `<span class="fignum">Fig. 113.1B</span>`
     },
